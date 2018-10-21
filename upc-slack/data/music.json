@@ -1,0 +1,396 @@
+[
+{
+  "type": "message",
+  "user": "UCBSMT5D4",
+  "text": "<https://open.spotify.com/user/1153909033/playlist/4FK5WMbhorZ14IWgYrzL8I>",
+  "client_msg_id": "7e777929-b6f3-456a-8fe2-20cf80545423",
+  "attachments": [
+    {
+      "service_name": "Spotify",
+      "service_url": "https://www.spotify.com",
+      "title": "HackUPC 2018 (again)",
+      "title_link": "https://open.spotify.com/user/1153909033/playlist/4FK5WMbhorZ14IWgYrzL8I",
+      "thumb_url": "https://mosaic.scdn.co/640/1005ecc426823d4245f2176d52c53ae368fa20e63e58508ef6f0b98c60f1723633d460ce76767c8659fbc5e1ae93b6d0b90872c82d1245571af40fa06334022481e6e21f6ea915b02b4bf34753354c2b",
+      "thumb_width": 640,
+      "thumb_height": 640,
+      "fallback": "Spotify Audio: HackUPC 2018 (again)",
+      "audio_html": "<iframe src=\"https://open.spotify.com/embed/user/1153909033/playlist/4FK5WMbhorZ14IWgYrzL8I\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "audio_html_width": 300,
+      "audio_html_height": 380,
+      "from_url": "https://open.spotify.com/user/1153909033/playlist/4FK5WMbhorZ14IWgYrzL8I",
+      "service_icon": "https://a.slack-edge.com/e8ef6/img/unfurl_icons/spotify.png",
+      "id": 1,
+      "original_url": "https://open.spotify.com/user/1153909033/playlist/4FK5WMbhorZ14IWgYrzL8I"
+    }
+  ],
+  "ts": "1540087041.000100",
+  "timestamp": 1540087041000,
+  "isoDate": "2018-10-21T01:57:21.000Z"
+},{
+  "type": "message",
+  "user": "UCBSMT5D4",
+  "text": "I guess it's a bit late for this but here were our playlists\n<https://open.spotify.com/user/1153909033/playlist/3jDD7TyyiQav4A94q3XTEm>",
+  "client_msg_id": "5bfe69e3-829c-4d06-8a46-67d242530fa1",
+  "attachments": [
+    {
+      "service_name": "Spotify",
+      "service_url": "https://www.spotify.com",
+      "title": "HackUPC 2018",
+      "title_link": "https://open.spotify.com/user/1153909033/playlist/3jDD7TyyiQav4A94q3XTEm",
+      "thumb_url": "https://mosaic.scdn.co/640/1a9dab25976c706fffccb6bf2cf8a6f5eadd0d296361e3a93b9fb16ecf9aa357f16ef2ab2abd45fe720c461b76e099758677df449324572e124c8fb4c8981e841b25a63b0808a51d3cf9c41da8a3ace8",
+      "thumb_width": 640,
+      "thumb_height": 640,
+      "fallback": "Spotify Audio: HackUPC 2018",
+      "audio_html": "<iframe src=\"https://open.spotify.com/embed/user/1153909033/playlist/3jDD7TyyiQav4A94q3XTEm\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "audio_html_width": 300,
+      "audio_html_height": 380,
+      "from_url": "https://open.spotify.com/user/1153909033/playlist/3jDD7TyyiQav4A94q3XTEm",
+      "service_icon": "https://a.slack-edge.com/e8ef6/img/unfurl_icons/spotify.png",
+      "id": 1,
+      "original_url": "https://open.spotify.com/user/1153909033/playlist/3jDD7TyyiQav4A94q3XTEm"
+    }
+  ],
+  "ts": "1540087029.000100",
+  "timestamp": 1540087029000,
+  "isoDate": "2018-10-21T01:57:09.000Z"
+},{
+  "type": "message",
+  "user": "UCKUJ8KNZ",
+  "text": "Starting strong with the trance I see.",
+  "client_msg_id": "ccd1eb85-73bf-40b3-ab45-2a443711e573",
+  "thread_ts": "1536948577.000100",
+  "parent_user_id": "UCM0Q5XL0",
+  "ts": "1539989227.000100",
+  "timestamp": 1539989227000,
+  "isoDate": "2018-10-19T22:47:07.000Z"
+},{
+  "user": "UC7JLBRR7",
+  "text": "<@UC7JLBRR7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538954611.000200",
+  "timestamp": 1538954611000,
+  "isoDate": "2018-10-07T23:23:31.000Z"
+},{
+  "user": "UD5E3TLE5",
+  "text": "<@UD5E3TLE5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538777166.000200",
+  "timestamp": 1538777166000,
+  "isoDate": "2018-10-05T22:06:06.000Z"
+},{
+  "user": "UD3TAGU8L",
+  "text": "<@UD3TAGU8L> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538733213.000200",
+  "timestamp": 1538733213000,
+  "isoDate": "2018-10-05T09:53:33.000Z"
+},{
+  "user": "UC8RY1ERY",
+  "text": "<@UC8RY1ERY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538340336.000200",
+  "timestamp": 1538340336000,
+  "isoDate": "2018-09-30T20:45:36.000Z"
+},{
+  "user": "UD42CNDNE",
+  "text": "<@UD42CNDNE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538334159.000200",
+  "timestamp": 1538334159000,
+  "isoDate": "2018-09-30T19:02:39.000Z"
+},{
+  "user": "UCKJGNBFC",
+  "text": "<@UCKJGNBFC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537102579.000200",
+  "timestamp": 1537102579000,
+  "isoDate": "2018-09-16T12:56:19.000Z"
+},{
+  "user": "UCVGX4W79",
+  "text": "<@UCVGX4W79> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537092572.000200",
+  "timestamp": 1537092572000,
+  "isoDate": "2018-09-16T10:09:32.000Z"
+},{
+  "user": "UCK2MJ65P",
+  "text": "<@UCK2MJ65P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537039631.000200",
+  "timestamp": 1537039631000,
+  "isoDate": "2018-09-15T19:27:11.000Z"
+},{
+  "type": "message",
+  "user": "UCM0Q5XL0",
+  "text": "enjoy!",
+  "client_msg_id": "99e91304-8488-43b8-a888-7e02da0c90ff",
+  "ts": "1536948582.000100",
+  "timestamp": 1536948582000,
+  "isoDate": "2018-09-14T18:09:42.000Z"
+},{
+  "type": "message",
+  "user": "UCM0Q5XL0",
+  "text": "<https://open.spotify.com/user/casassaez/playlist/09qUujupQdv2eqLvRzqwA6?si=PMQQJLPqRrKwcU_JhmakWg>",
+  "client_msg_id": "f7928be5-d2ff-410a-b0db-2b3007eed650",
+  "attachments": [
+    {
+      "service_name": "Spotify",
+      "service_url": "https://www.spotify.com",
+      "title": "Caffeine ☕️",
+      "title_link": "https://open.spotify.com/user/casassaez/playlist/09qUujupQdv2eqLvRzqwA6?si=PMQQJLPqRrKwcU_JhmakWg",
+      "thumb_url": "https://pl.scdn.co/images/pl/default/ebaaf44f5f9af16cf630f0acc47cb1060c1ad89c",
+      "thumb_width": 300,
+      "thumb_height": 300,
+      "fallback": "Spotify Audio: Caffeine ☕️",
+      "audio_html": "<iframe src=\"https://open.spotify.com/embed/user/casassaez/playlist/09qUujupQdv2eqLvRzqwA6%3Fsi%3DPMQQJLPqRrKwcU_JhmakWg\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "audio_html_width": 300,
+      "audio_html_height": 380,
+      "from_url": "https://open.spotify.com/user/casassaez/playlist/09qUujupQdv2eqLvRzqwA6?si=PMQQJLPqRrKwcU_JhmakWg",
+      "service_icon": "https://a.slack-edge.com/e8ef6/img/unfurl_icons/spotify.png",
+      "id": 1,
+      "original_url": "https://open.spotify.com/user/casassaez/playlist/09qUujupQdv2eqLvRzqwA6?si=PMQQJLPqRrKwcU_JhmakWg"
+    }
+  ],
+  "thread_ts": "1536948577.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UCKUJ8KNZ",
+      "ts": "1539989227.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1536948577.000100",
+  "timestamp": 1536948577000,
+  "isoDate": "2018-09-14T18:09:37.000Z"
+},{
+  "type": "message",
+  "user": "UCM0Q5XL0",
+  "text": "<@UC7GG52L9> sorry, you are officially replaced",
+  "client_msg_id": "b5d25d90-e2ed-4322-b289-a6e4cd42c5ae",
+  "thread_ts": "1536657001.000100",
+  "parent_user_id": "UCC3B4L87",
+  "ts": "1536948561.000100",
+  "reactions": [
+    {
+      "name": "tired_face",
+      "users": [
+        "UC7GG52L9"
+      ],
+      "count": 1
+    },
+    {
+      "name": "loveparrot",
+      "users": [
+        "UCC3B4L87"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1536948561000,
+  "isoDate": "2018-09-14T18:09:21.000Z"
+},{
+  "user": "UCM0Q5XL0",
+  "text": "<@UCM0Q5XL0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536948540.000200",
+  "timestamp": 1536948540000,
+  "isoDate": "2018-09-14T18:09:00.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536934764.000200",
+  "timestamp": 1536934764000,
+  "isoDate": "2018-09-14T14:19:24.000Z"
+},{
+  "type": "message",
+  "user": "UCK1YJDMX",
+  "text": "<https://open.spotify.com/user/21z5afye2qh6bdhak3ywhmpvi/playlist/5zVc4J7n10umETXSXizJ1x?si=TUu0AInGRIexcqfxlLcnqQ>",
+  "client_msg_id": "d8117a85-7abe-4a68-8c9a-f337c1a9c1ac",
+  "attachments": [
+    {
+      "service_name": "Spotify",
+      "service_url": "https://www.spotify.com",
+      "title": "The Cashed Remixes",
+      "title_link": "https://open.spotify.com/user/21z5afye2qh6bdhak3ywhmpvi/playlist/5zVc4J7n10umETXSXizJ1x?si=TUu0AInGRIexcqfxlLcnqQ",
+      "thumb_url": "https://mosaic.scdn.co/640/5682b5deb82aaf2cf9c85088fe3f9c80492182d071a73b06148833d212dd4f1b007adad5f49f4499c4a61533b7bbe58106c09e0fa85de2e41794cbace79753936a6bd9b53e5e69a46eb4c9f83418066c",
+      "thumb_width": 640,
+      "thumb_height": 640,
+      "fallback": "Spotify Audio: The Cashed Remixes",
+      "audio_html": "<iframe src=\"https://open.spotify.com/embed/user/21z5afye2qh6bdhak3ywhmpvi/playlist/5zVc4J7n10umETXSXizJ1x%3Fsi%3DTUu0AInGRIexcqfxlLcnqQ\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "audio_html_width": 300,
+      "audio_html_height": 380,
+      "from_url": "https://open.spotify.com/user/21z5afye2qh6bdhak3ywhmpvi/playlist/5zVc4J7n10umETXSXizJ1x?si=TUu0AInGRIexcqfxlLcnqQ",
+      "service_icon": "https://a.slack-edge.com/e8ef6/img/unfurl_icons/spotify.png",
+      "id": 1,
+      "original_url": "https://open.spotify.com/user/21z5afye2qh6bdhak3ywhmpvi/playlist/5zVc4J7n10umETXSXizJ1x?si=TUu0AInGRIexcqfxlLcnqQ"
+    }
+  ],
+  "ts": "1536831903.000100",
+  "reactions": [
+    {
+      "name": "fidget_spinner",
+      "users": [
+        "UC8HKDBMW"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1536831903000,
+  "isoDate": "2018-09-13T09:45:03.000Z"
+},{
+  "user": "UCK1YJDMX",
+  "text": "<@UCK1YJDMX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536831784.000200",
+  "timestamp": 1536831784000,
+  "isoDate": "2018-09-13T09:43:04.000Z"
+},{
+  "user": "UCM2MTN9K",
+  "text": "<@UCM2MTN9K> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536683883.000200",
+  "timestamp": 1536683883000,
+  "isoDate": "2018-09-11T16:38:03.000Z"
+},{
+  "user": "UCM1CUDUP",
+  "text": "<@UCM1CUDUP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536674745.000200",
+  "timestamp": 1536674745000,
+  "isoDate": "2018-09-11T14:05:45.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536670525.000200",
+  "timestamp": 1536670525000,
+  "isoDate": "2018-09-11T12:55:25.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667644.000200",
+  "timestamp": 1536667644000,
+  "isoDate": "2018-09-11T12:07:24.000Z"
+},{
+  "user": "UC8HKDBMW",
+  "text": "<@UC8HKDBMW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536664773.000200",
+  "timestamp": 1536664773000,
+  "isoDate": "2018-09-11T11:19:33.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536659221.000200",
+  "timestamp": 1536659221000,
+  "isoDate": "2018-09-11T09:47:01.000Z"
+},{
+  "type": "message",
+  "user": "UCC3B4L87",
+  "text": "^ the lesser clone has joined :eyes:",
+  "client_msg_id": "3949617f-3edd-4b9f-b775-6536d987c454",
+  "thread_ts": "1536657001.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UCM0Q5XL0",
+      "ts": "1536948561.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1536657001.000100",
+  "reactions": [
+    {
+      "name": "porg",
+      "users": [
+        "UC7GG52L9"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1536657001000,
+  "isoDate": "2018-09-11T09:10:01.000Z"
+},{
+  "user": "UC7GG52L9",
+  "text": "<@UC7GG52L9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536651887.000200",
+  "timestamp": 1536651887000,
+  "isoDate": "2018-09-11T07:44:47.000Z"
+},{
+  "type": "message",
+  "user": "UCC3B4L87",
+  "text": "<https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK?si=K8j0oYkVQKiXezK7ps8zvA> :tada:",
+  "client_msg_id": "69e3c410-c959-48d0-baf8-f615e85ee2bb",
+  "attachments": [
+    {
+      "service_name": "Spotify",
+      "service_url": "https://www.spotify.com",
+      "title": "Royal Blood",
+      "title_link": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK?si=K8j0oYkVQKiXezK7ps8zvA",
+      "thumb_url": "https://i.scdn.co/image/95283dfdb1a58e4fd01dff2fc90fd1293d187897",
+      "thumb_width": 640,
+      "thumb_height": 640,
+      "fallback": "Spotify Audio: Royal Blood",
+      "audio_html": "<iframe src=\"https://open.spotify.com/embed/album/0BFzNaeaNv4mahOzwZFGHK%3Fsi%3DK8j0oYkVQKiXezK7ps8zvA\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+      "audio_html_width": 300,
+      "audio_html_height": 380,
+      "from_url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK?si=K8j0oYkVQKiXezK7ps8zvA",
+      "service_icon": "https://a.slack-edge.com/e8ef6/img/unfurl_icons/spotify.png",
+      "id": 1,
+      "original_url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK?si=K8j0oYkVQKiXezK7ps8zvA"
+    }
+  ],
+  "ts": "1536651379.000100",
+  "timestamp": 1536651379000,
+  "isoDate": "2018-09-11T07:36:19.000Z"
+},{
+  "user": "UCC3B4L87",
+  "text": "<@UCC3B4L87> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536651355.000200",
+  "timestamp": 1536651355000,
+  "isoDate": "2018-09-11T07:35:55.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "purpose": "Share your best playlists/songs/albums with the rest of the HackUPC community",
+  "text": "<@UC7MN3GBD> set the channel purpose: Share your best playlists/songs/albums with the rest of the HackUPC community",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536575182.000100",
+  "timestamp": 1536575182000,
+  "isoDate": "2018-09-10T10:26:22.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536575181.000200",
+  "timestamp": 1536575181000,
+  "isoDate": "2018-09-10T10:26:21.000Z"
+}]

@@ -1,0 +1,522 @@
+[
+{
+  "type": "message",
+  "user": "UCM40U6T0",
+  "text": "Quick little question.. is there someone still at the booth.. we have some questions related to any api's available to help with some tweakes we're finalizing",
+  "client_msg_id": "8c61942e-c633-47f5-8b78-92027fabd51b",
+  "ts": "1540084415.000200",
+  "timestamp": 1540084415000,
+  "isoDate": "2018-10-21T01:13:35.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDJM2GL1Y",
+      "created": 1540054352,
+      "timestamp": 1540054352,
+      "name": "Imagen de iOS.jpg",
+      "title": "Imagen de iOS",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UDBDJQ96X",
+      "editable": false,
+      "size": 7198993,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJM2GL1Y/imagen_de_ios.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJM2GL1Y/download/imagen_de_ios.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_360.jpg",
+      "thumb_360_w": 270,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_480.jpg",
+      "thumb_480_w": 360,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_720.jpg",
+      "thumb_720_w": 540,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1067,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_960.jpg",
+      "thumb_960_w": 720,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJM2GL1Y-89fe261b6b/imagen_de_ios_1024.jpg",
+      "thumb_1024_w": 768,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 3024,
+      "original_h": 4032,
+      "permalink": "https://hackupc2018.slack.com/files/UDBDJQ96X/FDJM2GL1Y/imagen_de_ios.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJM2GL1Y-69eb291b33"
+    }
+  ],
+  "upload": true,
+  "user": "UDBDJQ96X",
+  "display_as_bot": false,
+  "upload_reply_to": "44617708-4D9A-4C6D-A39E-FAD79349A194",
+  "ts": "1540054361.000100",
+  "reactions": [
+    {
+      "name": "see_no_evil",
+      "users": [
+        "UC7AV4J0G",
+        "UC7MN3GBD"
+      ],
+      "count": 2
+    },
+    {
+      "name": "duck",
+      "users": [
+        "UC7MN3GBD",
+        "UDBDJQ96X"
+      ],
+      "count": 2
+    },
+    {
+      "name": "sunglasses",
+      "users": [
+        "UDD1CD86B"
+      ],
+      "count": 1
+    },
+    {
+      "name": "joy",
+      "users": [
+        "UC7UPACMT"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540054361000,
+  "isoDate": "2018-10-20T16:52:41.000Z"
+},{
+  "type": "message",
+  "user": "UDBDJQ96X",
+  "text": "IThink I’ve seen a little yellow duck...",
+  "client_msg_id": "A69187EA-959B-43DC-B510-7435EB65B723",
+  "ts": "1540054316.000100",
+  "timestamp": 1540054316000,
+  "isoDate": "2018-10-20T16:51:56.000Z"
+},{
+  "type": "message",
+  "user": "UDB6ZABEV",
+  "text": "We are at A5, 1st floor :slightly_smiling_face: ",
+  "ts": "1540042892.000100",
+  "timestamp": 1540042892000,
+  "isoDate": "2018-10-20T13:41:32.000Z"
+},{
+  "type": "message",
+  "user": "UDB5ETY6Q",
+  "text": "<https://docs.google.com/forms/d/e/1FAIpQLScajrsOSKxBY7_eBB_C0vBIFV55XeKFelcz3tWkUcApqB4nqw/viewform>",
+  "client_msg_id": "01813530-C654-42E0-88DB-1EFDA521C89A",
+  "ts": "1540033902.000100",
+  "timestamp": 1540033902000,
+  "isoDate": "2018-10-20T11:11:42.000Z"
+},{
+  "type": "message",
+  "user": "UDB5ETY6Q",
+  "text": "Answer our survey to get our T-shirt: <http://www.ithinkupc.com/hackupc|www.ithinkupc.com/hackupc>",
+  "client_msg_id": "FAD65452-2802-490E-A277-D97CA9893DDD",
+  "ts": "1540033875.000100",
+  "timestamp": 1540033875000,
+  "isoDate": "2018-10-20T11:11:15.000Z"
+},{
+  "type": "message",
+  "text": "Do you want to get our T-shirt? \n\n<http://www.ithinkupc.com/hackupc|www.ithinkupc.com/hackupc>",
+  "files": [
+    {
+      "id": "FDJ071P2M",
+      "created": 1540026949,
+      "timestamp": 1540026949,
+      "name": "Imagen de iOS.jpg",
+      "title": "Imagen de iOS",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UDB5ETY6Q",
+      "editable": false,
+      "size": 4918560,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ071P2M/imagen_de_ios.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ071P2M/download/imagen_de_ios.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 270,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 360,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_720.jpg",
+      "thumb_720_w": 720,
+      "thumb_720_h": 540,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 600,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_960.jpg",
+      "thumb_960_w": 960,
+      "thumb_960_h": 720,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ071P2M-cce6d2a42e/imagen_de_ios_1024.jpg",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 768,
+      "image_exif_rotation": 1,
+      "original_w": 4032,
+      "original_h": 3024,
+      "permalink": "https://hackupc2018.slack.com/files/UDB5ETY6Q/FDJ071P2M/imagen_de_ios.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJ071P2M-82ee4f7234"
+    }
+  ],
+  "upload": true,
+  "user": "UDB5ETY6Q",
+  "display_as_bot": false,
+  "upload_reply_to": "966EA3C4-1656-4787-B839-ABD00BBC2576",
+  "ts": "1540026949.000100",
+  "timestamp": 1540026949000,
+  "isoDate": "2018-10-20T09:15:49.000Z"
+},{
+  "type": "message",
+  "user": "UDB5ETY6Q",
+  "text": "Hi <@UDKN8V46A> we are at the stand :blush:",
+  "client_msg_id": "EA97F44A-E530-482A-8B9D-950C97B2BEE9",
+  "ts": "1540026243.000100",
+  "timestamp": 1540026243000,
+  "isoDate": "2018-10-20T09:04:03.000Z"
+},{
+  "type": "message",
+  "user": "UDD1CD86B",
+  "text": "Hi, we’ll be there at 11:00AM ",
+  "client_msg_id": "AED771CD-F0D4-46FD-BC11-EA90F58B3B0A",
+  "thread_ts": "1540019894.000100",
+  "parent_user_id": "UDKN8V46A",
+  "ts": "1540024641.000100",
+  "timestamp": 1540024641000,
+  "isoDate": "2018-10-20T08:37:21.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey <@UDKN8V46A>! They will be here today. Meanwhile, if they are not in their booth, you can ask them through slack any doubt you have :blush: ",
+  "client_msg_id": "c95394f1-6596-45a7-bd98-e97192a59796",
+  "ts": "1540023821.000100",
+  "timestamp": 1540023821000,
+  "isoDate": "2018-10-20T08:23:41.000Z"
+},{
+  "type": "message",
+  "user": "UDKN8V46A",
+  "text": "hey will you be here today?",
+  "client_msg_id": "8470b174-f01d-4bf2-a363-89406faa828a",
+  "thread_ts": "1540019894.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDD1CD86B",
+      "ts": "1540024641.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1540019894.000100",
+  "timestamp": 1540019894000,
+  "isoDate": "2018-10-20T07:18:14.000Z"
+},{
+  "text": "The device has to be a mobile, so mobile web will do!",
+  "unfurl_links": true,
+  "client_msg_id": "9d986b79-b47e-4b7a-b1e6-ad3fa403f2ca",
+  "unfurl_media": true,
+  "thread_ts": "1539990045.000100",
+  "is_thread_broadcast": true,
+  "type": "message",
+  "subtype": "thread_broadcast",
+  "user": "UDCM76ES2",
+  "root": {
+    "type": "message",
+    "user": "UCV7XTHPD",
+    "text": "Hey, is it needed to do a mobile app or can we do a mobile web?",
+    "client_msg_id": "a73026b3-5f5d-4694-bab5-cc41c9f320c7",
+    "thread_ts": "1539990045.000100",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "UDCM76ES2",
+        "ts": "1540014193.000100"
+      }
+    ],
+    "subscribed": false,
+    "unread_count": 1,
+    "ts": "1539990045.000100"
+  },
+  "ts": "1540014193.000100",
+  "timestamp": 1540014193000,
+  "isoDate": "2018-10-20T05:43:13.000Z"
+},{
+  "type": "message",
+  "user": "UCV7XTHPD",
+  "text": "Hey, is it needed to do a mobile app or can we do a mobile web?",
+  "client_msg_id": "a73026b3-5f5d-4694-bab5-cc41c9f320c7",
+  "thread_ts": "1539990045.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDCM76ES2",
+      "ts": "1540014193.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539990045.000100",
+  "timestamp": 1539990045000,
+  "isoDate": "2018-10-19T23:00:45.000Z"
+},{
+  "type": "message",
+  "user": "UDCM76ES2",
+  "text": "We're there :blush:",
+  "client_msg_id": "3cab7112-4971-4fe8-aad0-5d452fd66cda",
+  "thread_ts": "1539976968.000100",
+  "parent_user_id": "UCKCGUAF6",
+  "ts": "1539977859.000100",
+  "timestamp": 1539977859000,
+  "isoDate": "2018-10-19T19:37:39.000Z"
+},{
+  "type": "message",
+  "user": "UDD1CD86B",
+  "text": "We’re here just now",
+  "client_msg_id": "4BDBF7D8-A662-476A-BB32-140F65824C58",
+  "ts": "1539977820.000100",
+  "timestamp": 1539977820000,
+  "isoDate": "2018-10-19T19:37:00.000Z"
+},{
+  "type": "message",
+  "user": "UCKCGUAF6",
+  "text": "when will someone be in the booth?",
+  "client_msg_id": "f66a9e90-92cc-4cd4-b15e-27b0e0d75dc1",
+  "thread_ts": "1539976968.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDCM76ES2",
+      "ts": "1539977859.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539976968.000100",
+  "timestamp": 1539976968000,
+  "isoDate": "2018-10-19T19:22:48.000Z"
+},{
+  "type": "message",
+  "user": "UDD1CD86B",
+  "text": "Hi, <@UCMB40T1S> we can help you. You can come to our stand or we can talk here if you prefer so",
+  "client_msg_id": "3E8B16BA-C9A1-4D93-8F7E-C6ECCC9E0BC4",
+  "ts": "1539975846.000100",
+  "timestamp": 1539975846000,
+  "isoDate": "2018-10-19T19:04:06.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "we  have chosen a different project but thank you for your response anyway! :slightly_smiling_face:",
+  "client_msg_id": "6017f5fe-9fba-48fd-a2cc-f5ae58cbe836",
+  "ts": "1539975779.000100",
+  "timestamp": 1539975779000,
+  "isoDate": "2018-10-19T19:02:59.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Maybe <@UDCM76ES2> and <@UDD1CD86B> can help you out :grin: ",
+  "client_msg_id": "57e605e3-c3be-4168-81d4-fd123d91ff6f",
+  "ts": "1539975036.000100",
+  "timestamp": 1539975036000,
+  "isoDate": "2018-10-19T18:50:36.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "Hi, who can we DM from ithinkupc to talk to about an idea?",
+  "client_msg_id": "f7527310-e0e8-469e-90b2-cb3945d1a1a6",
+  "ts": "1539970863.000100",
+  "timestamp": 1539970863000,
+  "isoDate": "2018-10-19T17:41:03.000Z"
+},{
+  "user": "UDD65SKLG",
+  "text": "<@UDD65SKLG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539960711.000200",
+  "timestamp": 1539960711000,
+  "isoDate": "2018-10-19T14:51:51.000Z"
+},{
+  "user": "UCMA50GD8",
+  "text": "<@UCMA50GD8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539960093.000200",
+  "timestamp": 1539960093000,
+  "isoDate": "2018-10-19T14:41:33.000Z"
+},{
+  "user": "UCN62RZ7C",
+  "text": "<@UCN62RZ7C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539946665.000200",
+  "timestamp": 1539946665000,
+  "isoDate": "2018-10-19T10:57:45.000Z"
+},{
+  "user": "UCBS55D7Y",
+  "text": "<@UCBS55D7Y> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539888891.000200",
+  "timestamp": 1539888891000,
+  "isoDate": "2018-10-18T18:54:51.000Z"
+},{
+  "user": "UCVQ01423",
+  "text": "<@UCVQ01423> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539716307.000200",
+  "timestamp": 1539716307000,
+  "isoDate": "2018-10-16T18:58:27.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659015.000200",
+  "timestamp": 1539659015000,
+  "isoDate": "2018-10-16T03:03:35.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514115.000200",
+  "timestamp": 1539514115000,
+  "isoDate": "2018-10-14T10:48:35.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373736.000200",
+  "timestamp": 1539373736000,
+  "isoDate": "2018-10-12T19:48:56.000Z"
+},{
+  "user": "UDD1CD86B",
+  "text": "<@UDD1CD86B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539255260.000200",
+  "timestamp": 1539255260000,
+  "isoDate": "2018-10-11T10:54:20.000Z"
+},{
+  "user": "UDB6ZABEV",
+  "text": "<@UDB6ZABEV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539241375.000200",
+  "timestamp": 1539241375000,
+  "isoDate": "2018-10-11T07:02:55.000Z"
+},{
+  "user": "UDBDJQ96X",
+  "text": "<@UDBDJQ96X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539202512.000200",
+  "timestamp": 1539202512000,
+  "isoDate": "2018-10-10T20:15:12.000Z"
+},{
+  "user": "UDCM76ES2",
+  "text": "<@UDCM76ES2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539189295.000200",
+  "timestamp": 1539189295000,
+  "isoDate": "2018-10-10T16:34:55.000Z"
+},{
+  "user": "UDB5ETY6Q",
+  "text": "<@UDB5ETY6Q> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539189282.000200",
+  "timestamp": 1539189282000,
+  "isoDate": "2018-10-10T16:34:42.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168995.000200",
+  "timestamp": 1539168995000,
+  "isoDate": "2018-10-10T10:56:35.000Z"
+},{
+  "user": "UC7UPACMT",
+  "text": "<@UC7UPACMT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538594041.000200",
+  "timestamp": 1538594041000,
+  "isoDate": "2018-10-03T19:14:01.000Z"
+},{
+  "user": "UD4AD5W3U",
+  "text": "<@UD4AD5W3U> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538384239.000200",
+  "timestamp": 1538384239000,
+  "isoDate": "2018-10-01T08:57:19.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538036548.000200",
+  "timestamp": 1538036548000,
+  "isoDate": "2018-09-27T08:22:28.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173410.000200",
+  "timestamp": 1537173410000,
+  "isoDate": "2018-09-17T08:36:50.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667641.000200",
+  "timestamp": 1536667641000,
+  "isoDate": "2018-09-11T12:07:21.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "iThinkUPC channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: iThinkUPC channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536046929.000300",
+  "timestamp": 1536046929000,
+  "isoDate": "2018-09-04T07:42:09.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536046929.000200",
+  "timestamp": 1536046929000,
+  "isoDate": "2018-09-04T07:42:09.000Z"
+}]

@@ -1,0 +1,272 @@
+[
+{
+  "text": "Hi <@UCQ3MJYP7>! We won't provide any data! We will give the prize for the project with the best technologies used!:slightly_smiling_face:",
+  "client_msg_id": "4b5ca638-64ae-4efe-b13a-d42a7b46cc20",
+  "thread_ts": "1539985608.000100",
+  "is_thread_broadcast": true,
+  "type": "message",
+  "subtype": "thread_broadcast",
+  "user": "UDEU2UZEG",
+  "root": {
+    "type": "message",
+    "user": "UCQ3MJYP7",
+    "text": "Will Bloomberg provide some data?",
+    "client_msg_id": "7FE2BEBF-A2CA-4EE0-8FB7-695ADF8A40DD",
+    "thread_ts": "1539985608.000100",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "UDEU2UZEG",
+        "ts": "1540029065.000100"
+      }
+    ],
+    "subscribed": false,
+    "unread_count": 1,
+    "ts": "1539985608.000100"
+  },
+  "ts": "1540029065.000100",
+  "timestamp": 1540029065000,
+  "isoDate": "2018-10-20T09:51:05.000Z"
+},{
+  "type": "message",
+  "user": "UDENP16N6",
+  "text": "Hey! We're in the first floor of A5 building,  by A5 001",
+  "client_msg_id": "8ba135a6-982c-4ac6-a58f-cd079f34d631",
+  "ts": "1540028972.000100",
+  "timestamp": 1540028972000,
+  "isoDate": "2018-10-20T09:49:32.000Z"
+},{
+  "type": "message",
+  "user": "UDJBY917X",
+  "text": "Hi bloomberg! Where's your stand? :parrot: ",
+  "ts": "1540028619.000100",
+  "timestamp": 1540028619000,
+  "isoDate": "2018-10-20T09:43:39.000Z"
+},{
+  "type": "message",
+  "user": "UCLH5PETE",
+  "text": "they are simply offering a price to the best price overall",
+  "client_msg_id": "465a8d0b-fab6-49e8-9879-7fe1937056ec",
+  "ts": "1539985735.000100",
+  "timestamp": 1539985735000,
+  "isoDate": "2018-10-19T21:48:55.000Z"
+},{
+  "type": "message",
+  "user": "UCLH5PETE",
+  "text": "dont think so",
+  "client_msg_id": "5c232fee-2f17-46f0-9b8a-557e6537c362",
+  "ts": "1539985707.000100",
+  "timestamp": 1539985707000,
+  "isoDate": "2018-10-19T21:48:27.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Will Bloomberg provide some data?",
+  "client_msg_id": "7FE2BEBF-A2CA-4EE0-8FB7-695ADF8A40DD",
+  "thread_ts": "1539985608.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDEU2UZEG",
+      "ts": "1540029065.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539985608.000100",
+  "timestamp": 1539985608000,
+  "isoDate": "2018-10-19T21:46:48.000Z"
+},{
+  "type": "message",
+  "user": "UDENP16N6",
+  "text": "Hey Mihnea! Sorry, we packed up for today. We'll be back tomorrow morning, come and visit us then! :relaxed: ",
+  "client_msg_id": "7f12df86-1aed-4a10-a895-e38364e12ba1",
+  "ts": "1539978132.000100",
+  "timestamp": 1539978132000,
+  "isoDate": "2018-10-19T19:42:12.000Z"
+},{
+  "type": "message",
+  "user": "UC9CGJJMT",
+  "text": "Hey guys, is there a Bloomberg stand? We can't seem to find it",
+  "client_msg_id": "697d2fe7-84b9-4330-b5e5-ce6db2dc2578",
+  "ts": "1539974342.000100",
+  "timestamp": 1539974342000,
+  "isoDate": "2018-10-19T18:39:02.000Z"
+},{
+  "user": "UCKNTEK8A",
+  "text": "<@UCKNTEK8A> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539859565.000200",
+  "timestamp": 1539859565000,
+  "isoDate": "2018-10-18T10:46:05.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779880.000200",
+  "timestamp": 1539779880000,
+  "isoDate": "2018-10-17T12:38:00.000Z"
+},{
+  "user": "UDF1UCAQ3",
+  "text": "<@UDF1UCAQ3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539685219.000200",
+  "timestamp": 1539685219000,
+  "isoDate": "2018-10-16T10:20:19.000Z"
+},{
+  "user": "UDEU2UZEG",
+  "text": "<@UDEU2UZEG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539682625.000200",
+  "timestamp": 1539682625000,
+  "isoDate": "2018-10-16T09:37:05.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659031.000200",
+  "timestamp": 1539659031000,
+  "isoDate": "2018-10-16T03:03:51.000Z"
+},{
+  "user": "UDENP16N6",
+  "text": "<@UDENP16N6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539637026.000200",
+  "timestamp": 1539637026000,
+  "isoDate": "2018-10-15T20:57:06.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539626847.000100",
+  "timestamp": 1539626847000,
+  "isoDate": "2018-10-15T18:07:27.000Z"
+},{
+  "user": "UD43BFXA6",
+  "text": "<@UD43BFXA6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539611388.000200",
+  "timestamp": 1539611388000,
+  "isoDate": "2018-10-15T13:49:48.000Z"
+},{
+  "user": "UCPD3SLLV",
+  "text": "<@UCPD3SLLV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539599890.000200",
+  "timestamp": 1539599890000,
+  "isoDate": "2018-10-15T10:38:10.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598715.000200",
+  "timestamp": 1539598715000,
+  "isoDate": "2018-10-15T10:18:35.000Z"
+},{
+  "user": "UCL4T1F4M",
+  "text": "<@UCL4T1F4M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539518697.000200",
+  "timestamp": 1539518697000,
+  "isoDate": "2018-10-14T12:04:57.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514173.000200",
+  "timestamp": 1539514173000,
+  "isoDate": "2018-10-14T10:49:33.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539203099.000200",
+  "timestamp": 1539203099000,
+  "isoDate": "2018-10-10T20:24:59.000Z"
+},{
+  "user": "UCVBB11V5",
+  "text": "<@UCVBB11V5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539178413.000200",
+  "timestamp": 1539178413000,
+  "isoDate": "2018-10-10T13:33:33.000Z"
+},{
+  "user": "UCVBB11V5",
+  "text": "<@UCVBB11V5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539174065.000200",
+  "timestamp": 1539174065000,
+  "isoDate": "2018-10-10T12:21:05.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169042.000200",
+  "timestamp": 1539169042000,
+  "isoDate": "2018-10-10T10:57:22.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736915.000200",
+  "timestamp": 1538736915000,
+  "isoDate": "2018-10-05T10:55:15.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173419.000200",
+  "timestamp": 1537173419000,
+  "isoDate": "2018-09-17T08:36:59.000Z"
+},{
+  "user": "UCK1YJDMX",
+  "text": "<@UCK1YJDMX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536760756.000200",
+  "timestamp": 1536760756000,
+  "isoDate": "2018-09-12T13:59:16.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667629.000200",
+  "timestamp": 1536667629000,
+  "isoDate": "2018-09-11T12:07:09.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Bloomberg's channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Bloomberg's channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536659314.000100",
+  "timestamp": 1536659314000,
+  "isoDate": "2018-09-11T09:48:34.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536659313.000200",
+  "timestamp": 1536659313000,
+  "isoDate": "2018-09-11T09:48:33.000Z"
+}]

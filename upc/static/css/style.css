@@ -1,0 +1,86 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.masthead-brand {
+    padding-right: 20px;
+}
+
+header > p {
+    color: rgba(255, 255, 255, .6);
+}
+
+main {
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+}
+
+main > * {
+    padding-top: 10px;
+    padding-right: 30px;
+}
+
+.grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(5, 160px);
+    grid-gap: 10px;
+    color: #444;
+}
+
+item {
+    height: 80px;
+    vertical-align: middle;
+    background-color: #444;
+    color: #c3c3c3;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 165%;
+    transition: all 50ms ease-in;
+}
+
+item:hover {
+    cursor: pointer;
+    color: white !important;
+}
+
+.score {
+    background-color: darkgreen;
+}
+
+.score:hover {
+    background-color: forestgreen;
+}
+
+.byline {
+    font-size: 45%;
+    color: #bbb;
+}
+
+item > p {
+    margin-bottom: 0;
+}
+
+.reset {
+    padding-top: 30px;
+    text-decoration: underline;
+}
+
+.reset a {
+    color: rgba(255, 255, 255, .6);
+}
+
+.reset a:hover {
+    color: rgba(255, 255, 255, .95);
+}

@@ -1,0 +1,1345 @@
+[
+{
+  "type": "message",
+  "user": "UDHJS61PB",
+  "text": "Howdy! Oscar here! last push till the challenge is over. Ask away any doubt if you still have any!",
+  "client_msg_id": "0ae244dd-ab30-4eb0-a5fe-4fdcae932550",
+  "ts": "1540080116.000100",
+  "timestamp": 1540080116000,
+  "isoDate": "2018-10-21T00:01:56.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "Hi! I am Ramon from Infojobs! If you need any help with the InfoJobs API just ask me in this channel!",
+  "client_msg_id": "c3977854-fe87-4687-a0b5-bfc92f8f934f",
+  "ts": "1540065729.000100",
+  "timestamp": 1540065729000,
+  "isoDate": "2018-10-20T20:02:09.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Some tips that is important to keep in mind:\n1. Scopes are case sensitive and must be in upper case.\n2. For `Post`/`Put` operations you must send the `content-type` header.\n3. To obtain an access token you must perform a post to this url: `<https://www.infojobs.net/oauth/authorize?grant_type=authorization_code&amp;client_id=XXXX&amp;client_secret=XXXX&amp;code=VERIFICATION_CODE&amp;redirect_uri=http://www.SOME-URL.com>`\nThe parameters are query params and they must not be send as request body.",
+  "client_msg_id": "fce1b80b-3fbf-4f38-bff3-7fcf3185f28c",
+  "edited": {
+    "user": "UDEC3THKN",
+    "ts": "1540061969.000000"
+  },
+  "ts": "1540061694.000100",
+  "timestamp": 1540061694000,
+  "isoDate": "2018-10-20T18:54:54.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "just modified \"company\"",
+  "client_msg_id": "ac824f4c-9761-4988-a683-a6e9beced65a",
+  "ts": "1540056042.000100",
+  "timestamp": 1540056042000,
+  "isoDate": "2018-10-20T17:20:42.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "I'm going to analyze your request. Could you  send me your api client for DM?",
+  "client_msg_id": "518a23a8-ace1-47d1-8e57-3447bb89e420",
+  "ts": "1540056040.000100",
+  "timestamp": 1540056040000,
+  "isoDate": "2018-10-20T17:20:40.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "{ id: '34189325222',\n  company: 'aa',\n  job: 'Director de Tecnología',\n  description: '',\n  startingDate: '1983-09-01T00:00:00.000Z',\n  finishingDate: '1988-07-01T00:00:00.000Z',\n  onCourse: false,\n  category: 'informatica-telecomunicaciones',\n  subcategories: [ 'programacion' ],\n  industry: 'programas-informaticos',\n  level: 'direccion-gerencia',\n  staff: '11-20',\n  salaryMin: '70.000',\n  salaryMax: '78.000',\n  salaryPeriod: 'bruto-ano',\n  hideSalary: true,\n  visible: true }",
+  "client_msg_id": "13e028cb-b7eb-4343-8163-3862278afd27",
+  "ts": "1540056029.000100",
+  "timestamp": 1540056029000,
+  "isoDate": "2018-10-20T17:20:29.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "object:",
+  "client_msg_id": "a0c003f0-6bec-4f75-b7eb-b27ebf8d24cb",
+  "ts": "1540056017.000100",
+  "timestamp": 1540056017000,
+  "isoDate": "2018-10-20T17:20:17.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "curriculum ID: d8836324-6e84-4008-bf02-7810eda48208",
+  "client_msg_id": "05cae669-243a-4792-96a3-87e0531031e1",
+  "ts": "1540056014.000100",
+  "timestamp": 1540056014000,
+  "isoDate": "2018-10-20T17:20:14.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "{ error: 'INTERNAL',\n  requestId: :slightly_smiling_face:,\n  error_description: 'API call error',\n  timestamp: '2018-10-20T17:15:55.122Z' }",
+  "client_msg_id": "3f449f3f-555d-4adc-80f5-306afb855cf0",
+  "ts": "1540055930.000100",
+  "timestamp": 1540055930000,
+  "isoDate": "2018-10-20T17:18:50.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "but it throws me this error",
+  "client_msg_id": "fc3d819e-a7f0-4687-9204-2588db95c2e1",
+  "ts": "1540055914.000100",
+  "timestamp": 1540055914000,
+  "isoDate": "2018-10-20T17:18:34.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "with curriculum.code and experience as body object",
+  "client_msg_id": "011c3854-13d4-4a34-be45-77668c75db03",
+  "ts": "1540055906.000200",
+  "timestamp": 1540055906000,
+  "isoDate": "2018-10-20T17:18:26.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "PUT/curriculum/{curriculumId}/experience",
+  "client_msg_id": "2143320f-86e8-4d78-a076-1866b3b84149",
+  "ts": "1540055884.000100",
+  "timestamp": 1540055884000,
+  "isoDate": "2018-10-20T17:18:04.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "I'm trying to call put on this:",
+  "client_msg_id": "f9237285-ec0e-42b6-a714-5564a9d79f37",
+  "ts": "1540055882.000100",
+  "timestamp": 1540055882000,
+  "isoDate": "2018-10-20T17:18:02.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Yes, I can try to help you. ",
+  "client_msg_id": "30e09903-d7d0-40bd-ad4a-155d2e066c19",
+  "ts": "1540055848.000100",
+  "timestamp": 1540055848000,
+  "isoDate": "2018-10-20T17:17:28.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "I'm having some internal error issues when i try to update some data. Is anyone able to help me debugging this?",
+  "client_msg_id": "d39fbfb6-3855-451b-9d98-763f40610402",
+  "ts": "1540055733.000100",
+  "timestamp": 1540055733000,
+  "isoDate": "2018-10-20T17:15:33.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "I've a local website that converts auth token to access token, not sure if that can bhe helpful for you",
+  "client_msg_id": "43060ae6-84d7-48ae-affa-0197019ff652",
+  "ts": "1540055479.000100",
+  "timestamp": 1540055479000,
+  "isoDate": "2018-10-20T17:11:19.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "change the api-key as is not valid anymore",
+  "client_msg_id": "272d1343-6950-4133-90af-71a5f2222837",
+  "ts": "1540055429.000100",
+  "timestamp": 1540055429000,
+  "isoDate": "2018-10-20T17:10:29.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "This code worked for me in node",
+  "client_msg_id": "e4abd2f5-35ee-44fd-a82c-66891c25f238",
+  "ts": "1540055422.000100",
+  "timestamp": 1540055422000,
+  "isoDate": "2018-10-20T17:10:22.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "```\nvar https = require('https');\nvar axios = require('axios');\nvar inspect = require('util-inspect');\n\nconst AUTH_TOKEN = 'Basic MzQ4MGRhMTZjNzRhNGJlMWFkZmVhZjBiNTQzNGY0N2M6K0ZsdmhLRlozNGR0YmQxK3lTeGZDZVRWeFljak4wU3J5OHFHOXdlUk5Cci9xb0Z0UTk='\n\nvar searchOffers = async function (position, city)  {\n  var config = { headers: {'Authorization' :  AUTH_TOKEN}}\n  var result = await axios.get(`<https://api.infojobs.net/api/1/offer?q=${position}&amp;city=${city}>`, config)\n  console.log(`<https://api.infojobs.net/api/1/offer?q=${position}&amp;city=${city}`>)\n  return result.data;\n}\n\n\nmodule.exports = {\n  searchOffers: searchOffers\n}\n```",
+  "client_msg_id": "bdb47ccb-ec28-46b1-a9dd-fc6346e30668",
+  "ts": "1540055414.000100",
+  "timestamp": 1540055414000,
+  "isoDate": "2018-10-20T17:10:14.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "so i just set *infojobs*",
+  "client_msg_id": "100f9620-3a17-490e-898a-24625d7f1b77",
+  "ts": "1540055396.000100",
+  "timestamp": 1540055396000,
+  "isoDate": "2018-10-20T17:09:56.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "you can set custom domains",
+  "client_msg_id": "43d1fc1f-854d-4f45-a577-5d0ca7147b08",
+  "ts": "1540055384.000100",
+  "timestamp": 1540055384000,
+  "isoDate": "2018-10-20T17:09:44.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "<https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi>",
+  "client_msg_id": "cda4dee7-d3de-4647-8153-15d38a761176",
+  "attachments": [
+    {
+      "title": "Allow-Control-Allow-Origin: *",
+      "title_link": "https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi",
+      "text": "Allows to you request any site with ajax from any source. Adds to response 'Allow-Control-Allow-Origin: *' header",
+      "fallback": "Allow-Control-Allow-Origin: *",
+      "from_url": "https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi",
+      "thumb_url": "https://ssl.gstatic.com/chrome/webstore/images/thumb.png",
+      "thumb_width": 32,
+      "thumb_height": 32,
+      "service_icon": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+      "service_name": "chrome.google.com",
+      "id": 1,
+      "original_url": "https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi"
+    }
+  ],
+  "ts": "1540055378.000200",
+  "timestamp": 1540055378000,
+  "isoDate": "2018-10-20T17:09:38.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "with an extension",
+  "client_msg_id": "1e378f6d-5dce-4049-9f83-c9c289f8a1bc",
+  "ts": "1540055358.000100",
+  "timestamp": 1540055358000,
+  "isoDate": "2018-10-20T17:09:18.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "Had to disble cors on chrome",
+  "client_msg_id": "c3b539bc-ee7b-4494-89e4-a7c9385f36a5",
+  "ts": "1540055353.000100",
+  "timestamp": 1540055353000,
+  "isoDate": "2018-10-20T17:09:13.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "Did you solve them?",
+  "client_msg_id": "58be5fa8-6c67-46a4-a3df-1ff74de9cf09",
+  "ts": "1540055349.000100",
+  "timestamp": 1540055349000,
+  "isoDate": "2018-10-20T17:09:09.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "had similar issues this morning",
+  "client_msg_id": "6bb2047b-8eca-4c18-a09f-35083340db67",
+  "ts": "1540055341.000100",
+  "timestamp": 1540055341000,
+  "isoDate": "2018-10-20T17:09:01.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "I’ve tried from my machine with postman with same data and it works",
+  "client_msg_id": "13a6e8ea-160f-4b90-a315-767c70642de5",
+  "ts": "1540055335.000100",
+  "timestamp": 1540055335000,
+  "isoDate": "2018-10-20T17:08:55.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "and he gets a 500",
+  "client_msg_id": "f6ff91c1-56ec-4364-ab4c-0e97c164a5e3",
+  "ts": "1540055325.000100",
+  "timestamp": 1540055325000,
+  "isoDate": "2018-10-20T17:08:45.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "but from JS fetch, he has to include the mode to “no-cors”",
+  "client_msg_id": "fcf9c643-11fa-48b0-a785-8cb2651fcc1b",
+  "ts": "1540055320.000100",
+  "timestamp": 1540055320000,
+  "isoDate": "2018-10-20T17:08:40.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "lf he tries with curl it works fine",
+  "client_msg_id": "02010522-8de3-4193-a7ba-d4fff38a595c",
+  "ts": "1540055304.000100",
+  "timestamp": 1540055304000,
+  "isoDate": "2018-10-20T17:08:24.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "Hi, I’m with alex",
+  "client_msg_id": "29b481fa-26f9-4d78-9e71-bf4cf695376a",
+  "ts": "1540055298.000100",
+  "timestamp": 1540055298000,
+  "isoDate": "2018-10-20T17:08:18.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "could you send me by DM the value of the Authorization header?",
+  "client_msg_id": "9e79f7ab-2a2f-44c5-b8fa-ce08ab2b01d9",
+  "ts": "1540053416.000100",
+  "timestamp": 1540053416000,
+  "isoDate": "2018-10-20T16:36:56.000Z"
+},{
+  "type": "message",
+  "text": "What am I missing here?",
+  "files": [
+    {
+      "id": "FDJLYSXRQ",
+      "created": 1540053324,
+      "timestamp": 1540053324,
+      "name": "image.png",
+      "title": "Pasted image at 2018-10-20, 6:35 PM",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UC98MS691",
+      "editable": false,
+      "size": 774942,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJLYSXRQ/image.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJLYSXRQ/download/image.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 236,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 314,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 472,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 524,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 629,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJLYSXRQ-ebac4db1bf/image_1024.png",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 671,
+      "image_exif_rotation": 1,
+      "original_w": 2784,
+      "original_h": 1824,
+      "permalink": "https://hackupc2018.slack.com/files/UC98MS691/FDJLYSXRQ/image.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJLYSXRQ-687ca19088"
+    }
+  ],
+  "upload": true,
+  "user": "UC98MS691",
+  "display_as_bot": false,
+  "ts": "1540053329.000100",
+  "timestamp": 1540053329000,
+  "isoDate": "2018-10-20T16:35:29.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "The access token is only valid for the scopes provided in the following request:\n```\n<https://www.infojobs.net/api/oauth/user-authorize/index.xhtml>\n\t?scope=COMMA_SEPARATED_LIST_OF_SCOPE_NAMES\n\t&amp;client_id=YOUR_CLIENT_ID\n\t&amp;redirect_uri=YOUR_CALLBACK_URI\n\t&amp;response_type=code\n\t&amp;state=OPTIONAL_CLIENT_LOCAL_STATE\n```",
+  "client_msg_id": "a83ca55e-4f2b-4da7-b5e8-2966e086cdfc",
+  "ts": "1540053294.000100",
+  "timestamp": 1540053294000,
+  "isoDate": "2018-10-20T16:34:54.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Hope this information helps you.",
+  "client_msg_id": "5389a603-dd7c-45ee-b38c-69ca10f6a966",
+  "ts": "1540053196.000100",
+  "timestamp": 1540053196000,
+  "isoDate": "2018-10-20T16:33:16.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "This is an example for the <https://developer.infojobs.net/documentation/operation/curriculum-list-2.xhtml> operation. If you want to get the access token for several API operations, you can provide a comma separated list of scopes.",
+  "client_msg_id": "e02898e1-2a84-446f-bd7c-32c437ec32d1",
+  "attachments": [
+    {
+      "title": "Infojobs Developer Site",
+      "title_link": "https://developer.infojobs.net/documentation/operation/curriculum-list-2.xhtml",
+      "text": "Infojobs Developer Site",
+      "fallback": "Infojobs Developer Site",
+      "from_url": "https://developer.infojobs.net/documentation/operation/curriculum-list-2.xhtml",
+      "service_name": "developer.infojobs.net",
+      "id": 1,
+      "original_url": "https://developer.infojobs.net/documentation/operation/curriculum-list-2.xhtml"
+    }
+  ],
+  "ts": "1540053180.000100",
+  "timestamp": 1540053180000,
+  "isoDate": "2018-10-20T16:33:00.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDJFXQTHS",
+      "created": 1540053120,
+      "timestamp": 1540053120,
+      "name": "Captura de pantalla 2018-10-20 a las 18.31.07.png",
+      "title": "Captura de pantalla 2018-10-20 a las 18.31.07.png",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDEC3THKN",
+      "editable": false,
+      "size": 20778,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJFXQTHS/captura_de_pantalla_2018-10-20_a_las_18.31.07.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJFXQTHS/download/captura_de_pantalla_2018-10-20_a_las_18.31.07.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFXQTHS-c235fbad86/captura_de_pantalla_2018-10-20_a_las_18.31.07_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFXQTHS-c235fbad86/captura_de_pantalla_2018-10-20_a_las_18.31.07_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFXQTHS-c235fbad86/captura_de_pantalla_2018-10-20_a_las_18.31.07_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 137,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFXQTHS-c235fbad86/captura_de_pantalla_2018-10-20_a_las_18.31.07_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 183,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFXQTHS-c235fbad86/captura_de_pantalla_2018-10-20_a_las_18.31.07_160.png",
+      "image_exif_rotation": 1,
+      "original_w": 508,
+      "original_h": 194,
+      "permalink": "https://hackupc2018.slack.com/files/UDEC3THKN/FDJFXQTHS/captura_de_pantalla_2018-10-20_a_las_18.31.07.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJFXQTHS-984ee1ea4a"
+    }
+  ],
+  "upload": true,
+  "user": "UDEC3THKN",
+  "display_as_bot": false,
+  "ts": "1540053122.000100",
+  "timestamp": 1540053122000,
+  "isoDate": "2018-10-20T16:32:02.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Yes, for each operation in the documentation you have information about what is the scope for that operation. Below you can see an example:",
+  "client_msg_id": "ab0bcdcd-2717-4b28-b4da-d8506d20cf12",
+  "ts": "1540053109.000100",
+  "timestamp": 1540053109000,
+  "isoDate": "2018-10-20T16:31:49.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "this names are on the api documentation on each \"call\"",
+  "client_msg_id": "e543e339-2f7b-4210-98f2-e604d281cf05",
+  "ts": "1540052829.000100",
+  "timestamp": 1540052829000,
+  "isoDate": "2018-10-20T16:27:09.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "List of SCOPE_NAMES like CV,CANDIDATE_READ_CURRICULUM_PERSONAL_DATA",
+  "client_msg_id": "b8f9ded6-b5fd-416e-af91-2eb30163d427",
+  "ts": "1540052779.000100",
+  "timestamp": 1540052779000,
+  "isoDate": "2018-10-20T16:26:19.000Z"
+},{
+  "type": "message",
+  "user": "UC98MS691",
+  "text": "what is COMMA_SEPARATED_LIST_OF_SCOPE_NAMES ?",
+  "client_msg_id": "75afbcd3-9f48-4a20-ad46-0b78fafda942",
+  "ts": "1540052741.000100",
+  "timestamp": 1540052741000,
+  "isoDate": "2018-10-20T16:25:41.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Hi! Borja from InfoJobs here. If you need help with something related with the InfoJobs API you can ask me in this channel.",
+  "client_msg_id": "106378c4-eafd-403d-9a18-d1a45fe42026",
+  "ts": "1540049526.000100",
+  "timestamp": 1540049526000,
+  "isoDate": "2018-10-20T15:32:06.000Z"
+},{
+  "type": "message",
+  "user": "UDD63LS8Z",
+  "text": "thanks !",
+  "client_msg_id": "471a317b-bb47-4a63-a3d3-30cf9c8122a5",
+  "ts": "1540036814.000100",
+  "timestamp": 1540036814000,
+  "isoDate": "2018-10-20T12:00:14.000Z"
+},{
+  "type": "message",
+  "user": "UDD68D1F0",
+  "text": "There is now our collegue <@UDJFH7AAH> ",
+  "client_msg_id": "B03A1593-3945-4BE5-8C05-3C998CB32E8D",
+  "ts": "1540036782.000100",
+  "timestamp": 1540036782000,
+  "isoDate": "2018-10-20T11:59:42.000Z"
+},{
+  "type": "message",
+  "user": "UDD68D1F0",
+  "text": "InfoJobs stand is in A5 2th floor",
+  "client_msg_id": "17046B51-F078-425C-864D-5E76831707E9",
+  "ts": "1540036746.000100",
+  "timestamp": 1540036746000,
+  "isoDate": "2018-10-20T11:59:06.000Z"
+},{
+  "type": "message",
+  "user": "UDD63LS8Z",
+  "text": "where is the infoJobs stand ?",
+  "client_msg_id": "e7bd208e-2ac8-40eb-b69c-81f776fcfe99",
+  "ts": "1540036642.000100",
+  "timestamp": 1540036642000,
+  "isoDate": "2018-10-20T11:57:22.000Z"
+},{
+  "type": "message",
+  "user": "UD5EC82MU",
+  "text": "Is there anybody at the InfoJobs stand?",
+  "client_msg_id": "21f56a83-ce93-47bf-ab40-2e152aa6aef9",
+  "ts": "1540036265.000100",
+  "timestamp": 1540036265000,
+  "isoDate": "2018-10-20T11:51:05.000Z"
+},{
+  "type": "message",
+  "user": "UD5EC82MU",
+  "text": "Hi",
+  "client_msg_id": "8998232b-bac1-4e84-95b7-3f212c1cdde3",
+  "ts": "1540036240.000100",
+  "timestamp": 1540036240000,
+  "isoDate": "2018-10-20T11:50:40.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "Hi there, Sergi here, if you want, I’m the booth and I can give you live support to your questions",
+  "client_msg_id": "b0edbbd7-6ee9-4ba6-9908-40b1f988bce8",
+  "ts": "1540035577.000100",
+  "timestamp": 1540035577000,
+  "isoDate": "2018-10-20T11:39:37.000Z"
+},{
+  "type": "message",
+  "user": "UDE17FR51",
+  "text": "It's my turn now, so stop asking Oscar, and ask your questions to me instead.",
+  "client_msg_id": "fe8f876d-023d-4a12-969e-39b75436a918",
+  "ts": "1540033628.000100",
+  "timestamp": 1540033628000,
+  "isoDate": "2018-10-20T11:07:08.000Z"
+},{
+  "type": "message",
+  "user": "UDE17FR51",
+  "text": "Hi! I'm Javier from Infojobs. If you need any help with the InfoJobs API just ask me in this channel!",
+  "client_msg_id": "67b46f43-60fe-459c-829b-f2b762a6aeae",
+  "ts": "1540033457.000100",
+  "timestamp": 1540033457000,
+  "isoDate": "2018-10-20T11:04:17.000Z"
+},{
+  "type": "message",
+  "user": "UDHJS61PB",
+  "text": "Hi hackers! I am Oscar from Infojobs! ask away any doubts regarding integration with our site and good luck to you all!",
+  "client_msg_id": "e5ed1631-8ed0-47e5-82b8-54bfed713792",
+  "ts": "1540017461.000100",
+  "timestamp": 1540017461000,
+  "isoDate": "2018-10-20T06:37:41.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "mmm that's why we are using passport, will try to make a workarround",
+  "client_msg_id": "fe382c96-412f-4335-9b95-a773d010a29a",
+  "ts": "1540002249.000100",
+  "timestamp": 1540002249000,
+  "isoDate": "2018-10-20T02:24:09.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "So for that you need to send the request to a browser because that needs user interaction. Your application is going to do an action in behalf of a user so the user must logged in InfoJobs and authorize your client to execute requests in his name.",
+  "client_msg_id": "42d420c3-bf42-462a-b348-2f95144d811e",
+  "ts": "1540002147.000100",
+  "timestamp": 1540002147000,
+  "isoDate": "2018-10-20T02:22:27.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "yep, this is our problem, showing the login and authorization page.",
+  "client_msg_id": "ccb7abb3-37c3-4fb3-bfdd-b33540c3d231",
+  "ts": "1540002023.000100",
+  "timestamp": 1540002023000,
+  "isoDate": "2018-10-20T02:20:23.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Maybe your problem is trying to get the login and authorization page?",
+  "client_msg_id": "e0569781-7f9e-40b4-9686-602ae5fc1ce3",
+  "ts": "1540001976.000100",
+  "timestamp": 1540001976000,
+  "isoDate": "2018-10-20T02:19:36.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "There are 2 steps for OAuth2 authentication:\n1. Get a verification code, for that you need user iteraction, so you will need to seend to a browser, webview or similar calling the url:\n```\n<https://www.infojobs.net/api/oauth/user-authorize/index.xhtml>\n\t?scope=COMMA_SEPARATED_LIST_OF_SCOPE_NAMES\n\t&amp;client_id=YOUR_CLIENT_ID\n\t&amp;redirect_uri=YOUR_CALLBACK_URI\n\t&amp;response_type=code\n\t&amp;state=OPTIONAL_CLIENT_LOCAL_STATE\n```\nWith this request you will see the login and authorization page of infojobs.\nOnce you have the verification code. You must do the step 2.\n2. Do a `POST`request to `<https://www.infojobs.net/oauth/authorize>` using the following parameters and the verification code get in the first step:\n```\ngrant_type=authorization_code\n\tclient_id=YOUR_CLIENT_ID\n\tclient_secret=YOUR_CLIENT_SECRET (URL Encoded if necessary)\n\tcode=VERIFICATION_CODE_AQUIRED_IN_STEP_1\n\tredirect_uri=YOUR_REDIRECT_URI\n```\nand here you obtain the access token.\nCheck if you have done both steps.",
+  "client_msg_id": "df4cbed2-cea8-4bdd-8df9-61d7867b107f",
+  "edited": {
+    "user": "UDEC3THKN",
+    "ts": "1540009153.000000"
+  },
+  "ts": "1540001928.000100",
+  "timestamp": 1540001928000,
+  "isoDate": "2018-10-20T02:18:48.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "ok, let me check. Give me one min",
+  "client_msg_id": "08387464-1d70-43fb-a4a2-4642379a15ca",
+  "ts": "1540001629.000100",
+  "timestamp": 1540001629000,
+  "isoDate": "2018-10-20T02:13:49.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "also, the authURL is the next: const authURL = \"<https://www.infojobs.net/api/oauth/user-authorize/index.xhtml?scope=CV&amp;response_type=code>\";",
+  "client_msg_id": "f9cba033-c9c2-40b9-bb47-2b3a867e993a",
+  "edited": {
+    "user": "UDJ7LRNJ1",
+    "ts": "1540001647.000000"
+  },
+  "ts": "1540001621.000100",
+  "timestamp": 1540001621000,
+  "isoDate": "2018-10-20T02:13:41.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "the infojobs screen is not shown",
+  "client_msg_id": "2750ddfd-2f07-40c6-9f46-30b53f75da33",
+  "ts": "1540001575.000100",
+  "timestamp": 1540001575000,
+  "isoDate": "2018-10-20T02:12:55.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "when we call the route to perform the login action",
+  "client_msg_id": "ce07c213-de09-4a72-9792-24bcecac793b",
+  "ts": "1540001564.000100",
+  "timestamp": 1540001564000,
+  "isoDate": "2018-10-20T02:12:44.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "our problem:",
+  "client_msg_id": "a517de8f-0588-4fd8-a138-880ac6bc9f8b",
+  "ts": "1540001551.000100",
+  "timestamp": 1540001551000,
+  "isoDate": "2018-10-20T02:12:31.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "This is our passport call\npassport.use(new OAuth2Strategy({\n    authorizationURL: authURL,\n    tokenURL: '<https://www.infojobs.net/oauth/authorize>',\n    client_id: “hiddenClient_id”,\n    clientSecret: “hiddenClientSecret”,\n    callbackURL: \"<https://infojobshackupc2018.herokuapp.com/auth/infojobs/callback>\"\n  }\n\nand we call this from here:\n\nrouter.get('/auth/infojobs', passport.authenticate('oauth2'));\n\nrouter.get('/auth/infojobs/callback', passport.authenticate('oauth2'), (req, res) =&gt; {\n  <http://console.info|console.info>(\"RETURN STATE\");\n});",
+  "client_msg_id": "ccfcad50-94b0-4a61-a291-35e0c5e99db6",
+  "ts": "1540001516.000100",
+  "timestamp": 1540001516000,
+  "isoDate": "2018-10-20T02:11:56.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "yea for sure, give me one min to show it :smile:",
+  "client_msg_id": "b642027f-d6e8-4e07-840b-b1199a39b8b3",
+  "ts": "1540001325.000100",
+  "timestamp": 1540001325000,
+  "isoDate": "2018-10-20T02:08:45.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Could you give me details about your problems?",
+  "client_msg_id": "d99535aa-565c-49a4-af4f-ac349baf4dee",
+  "ts": "1540001287.000100",
+  "timestamp": 1540001287000,
+  "isoDate": "2018-10-20T02:08:07.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "<@UDEC3THKN> ^^^",
+  "client_msg_id": "1bfeeaf1-c0d6-43b9-99ff-6bb66b3e0cac",
+  "ts": "1540001206.000100",
+  "timestamp": 1540001206000,
+  "isoDate": "2018-10-20T02:06:46.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "we are stuck with node.js and passport.js with oauth2 strategy",
+  "client_msg_id": "47e2b3a2-d18f-4ea1-ab46-efd67910d480",
+  "ts": "1540001195.000100",
+  "timestamp": 1540001195000,
+  "isoDate": "2018-10-20T02:06:35.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "need some help with oauth2 and your api",
+  "client_msg_id": "3cc945b3-1d94-4737-9b18-5c2f1137d9c7",
+  "ts": "1540001162.000100",
+  "timestamp": 1540001162000,
+  "isoDate": "2018-10-20T02:06:02.000Z"
+},{
+  "type": "message",
+  "user": "UDJ7LRNJ1",
+  "text": "hi borja",
+  "client_msg_id": "03f54b6a-fd58-415a-b24b-bea82c641186",
+  "ts": "1540001155.000100",
+  "timestamp": 1540001155000,
+  "isoDate": "2018-10-20T02:05:55.000Z"
+},{
+  "type": "message",
+  "user": "UDEC3THKN",
+  "text": "Hi! Borja from Infojobs here. If you need any help with the InfoJobs API just ask me in this channel!",
+  "client_msg_id": "b8bf2c78-63cd-46ef-9110-139d5d788e8e",
+  "ts": "1540000885.000100",
+  "timestamp": 1540000885000,
+  "isoDate": "2018-10-20T02:01:25.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "You can use this URL `<http://www.infojobs.net/core/oauth2vc/index.xhtml>`",
+  "client_msg_id": "5d689b31-6a01-49b6-aad3-85e5bdfa3edc",
+  "edited": {
+    "user": "UDDGA9NFK",
+    "ts": "1539992891.000000"
+  },
+  "ts": "1539992884.000100",
+  "timestamp": 1539992884000,
+  "isoDate": "2018-10-19T23:48:04.000Z"
+},{
+  "type": "message",
+  "text": "you need to put a public URL, in the documentation specifies next:",
+  "files": [
+    {
+      "id": "FDHSJERED",
+      "created": 1539992838,
+      "timestamp": 1539992838,
+      "name": "-.txt",
+      "title": "Sin título",
+      "mimetype": "text/plain",
+      "filetype": "text",
+      "pretty_type": "Plain Text",
+      "user": "UDDGA9NFK",
+      "editable": true,
+      "size": 286,
+      "mode": "snippet",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDHSJERED/-.txt",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDHSJERED/download/-.txt",
+      "permalink": "https://hackupc2018.slack.com/files/UDDGA9NFK/FDHSJERED/-.txt",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDHSJERED-ee19ed0892",
+      "edit_link": "https://hackupc2018.slack.com/files/UDDGA9NFK/FDHSJERED/-.txt/edit",
+      "preview": "Note that if your application cannot receive incoming request you may use the InfoJobs redirect_uri for desktop and mobile applications. *http://www.infojobs.net/core/oauth2vc/index.xhtml*. This page will show the verification code in the form so the client application can retrieve it.",
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Note that if your application cannot receive incoming request you may use the InfoJobs redirect_uri for desktop and mobile applications. *http://www.infojobs.net/core/oauth2vc/index.xhtml*. This page will show the verification code in the form so the client application can retrieve it.</pre></div>\n</div>\n</div>\n",
+      "lines": 1,
+      "lines_more": 0,
+      "preview_is_truncated": false
+    }
+  ],
+  "upload": true,
+  "user": "UDDGA9NFK",
+  "display_as_bot": false,
+  "ts": "1539992840.000100",
+  "timestamp": 1539992840000,
+  "isoDate": "2018-10-19T23:47:20.000Z"
+},{
+  "type": "message",
+  "text": ":eyes:",
+  "files": [
+    {
+      "id": "FDJEUKTMG",
+      "created": 1539992368,
+      "timestamp": 1539992368,
+      "name": "image.png",
+      "title": "Pasted image at 2018-10-20, 1:39 AM",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UCC3B4L87",
+      "editable": false,
+      "size": 47209,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJEUKTMG/image.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJEUKTMG/download/image.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 57,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 76,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 113,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 126,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 151,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJEUKTMG-41a926c8ee/image_1024.png",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 161,
+      "image_exif_rotation": 1,
+      "original_w": 1538,
+      "original_h": 242,
+      "permalink": "https://hackupc2018.slack.com/files/UCC3B4L87/FDJEUKTMG/image.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJEUKTMG-9a90bd2e89"
+    }
+  ],
+  "upload": true,
+  "user": "UCC3B4L87",
+  "display_as_bot": false,
+  "ts": "1539992371.000100",
+  "timestamp": 1539992371000,
+  "isoDate": "2018-10-19T23:39:31.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "In the second case you can get the access_tocken doing the http requests as the documentation specifies.",
+  "client_msg_id": "8b94c8ef-a0ff-4957-9bb5-2458bfdf5033",
+  "ts": "1539991111.000100",
+  "timestamp": 1539991111000,
+  "isoDate": "2018-10-19T23:18:31.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "and for ROLE_CANDIDATE API calls you need to follow the instructions in <https://developer.infojobs.net/documentation/user-oauth2/index.xhtml>",
+  "client_msg_id": "cbc66c7b-563d-4c51-a443-66f75bbce005",
+  "attachments": [
+    {
+      "title": "Infojobs Developer Site",
+      "title_link": "https://developer.infojobs.net/documentation/user-oauth2/index.xhtml",
+      "text": "Infojobs Developer Site",
+      "fallback": "Infojobs Developer Site",
+      "from_url": "https://developer.infojobs.net/documentation/user-oauth2/index.xhtml",
+      "service_name": "developer.infojobs.net",
+      "id": 1,
+      "original_url": "https://developer.infojobs.net/documentation/user-oauth2/index.xhtml"
+    }
+  ],
+  "ts": "1539991012.000100",
+  "timestamp": 1539991012000,
+  "isoDate": "2018-10-19T23:16:52.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "You don't need oauth2. For PUBLIC API calls you only need basic authentication <https://developer.infojobs.net/documentation/app-auth/index.xhtml>",
+  "client_msg_id": "c91dbcea-9f6d-4a1a-ba71-5d5127a60077",
+  "attachments": [
+    {
+      "title": "Infojobs Developer Site",
+      "title_link": "https://developer.infojobs.net/documentation/app-auth/index.xhtml",
+      "text": "Infojobs Developer Site",
+      "fallback": "Infojobs Developer Site",
+      "from_url": "https://developer.infojobs.net/documentation/app-auth/index.xhtml",
+      "service_name": "developer.infojobs.net",
+      "id": 1,
+      "original_url": "https://developer.infojobs.net/documentation/app-auth/index.xhtml"
+    }
+  ],
+  "ts": "1539990910.000100",
+  "timestamp": 1539990910000,
+  "isoDate": "2018-10-19T23:15:10.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "Is there an easy way to get infojobs data from node?\n\nI'm trying with basic authentication but pretty sure i need Oauth2 :disappointed:",
+  "client_msg_id": "b929a142-14fc-41b2-ba67-baca362f3ab9",
+  "ts": "1539990664.000100",
+  "timestamp": 1539990664000,
+  "isoDate": "2018-10-19T23:11:04.000Z"
+},{
+  "type": "message",
+  "user": "UDCRN8Y8G",
+  "text": "Hello!",
+  "client_msg_id": "cae4d361-cfd3-4920-a420-fedaea31055e",
+  "ts": "1539990620.000100",
+  "timestamp": 1539990620000,
+  "isoDate": "2018-10-19T23:10:20.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "you were limited to user only, all the operations you can do are the availables in <https://developer.infojobs.net/>",
+  "client_msg_id": "f13563bc-ed62-45f4-a3fb-35477b86e28c",
+  "attachments": [
+    {
+      "title": "Infojobs Developer Site",
+      "title_link": "https://developer.infojobs.net/",
+      "text": "Infojobs Developer Site",
+      "fallback": "Infojobs Developer Site",
+      "from_url": "https://developer.infojobs.net/",
+      "service_name": "developer.infojobs.net",
+      "id": 1,
+      "original_url": "https://developer.infojobs.net/"
+    }
+  ],
+  "ts": "1539990507.000100",
+  "timestamp": 1539990507000,
+  "isoDate": "2018-10-19T23:08:27.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "<@UDDGA9NFK> is there any api for the recruiters or are we limited to user only? :cry:",
+  "client_msg_id": "e0782ff0-8d5d-4a87-88cd-fca124a034a3",
+  "edited": {
+    "user": "UCQUTD7V1",
+    "ts": "1539990109.000000"
+  },
+  "ts": "1539990093.000100",
+  "timestamp": 1539990093000,
+  "isoDate": "2018-10-19T23:01:33.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": ":+1:",
+  "client_msg_id": "d5521c1e-f1f5-4385-84f9-55135eecec12",
+  "ts": "1539989447.000100",
+  "timestamp": 1539989447000,
+  "isoDate": "2018-10-19T22:50:47.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "thank you!!",
+  "client_msg_id": "11381e4a-0ccf-4b9d-9f7d-bba86ba5ff4d",
+  "ts": "1539989428.000100",
+  "timestamp": 1539989428000,
+  "isoDate": "2018-10-19T22:50:28.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "ooookay,  it's back, don't know what happened, but I swear I had internet hahaha",
+  "client_msg_id": "8ed9b72e-c8ba-4a0e-a683-832e3a81b636",
+  "ts": "1539989427.000100",
+  "timestamp": 1539989427000,
+  "isoDate": "2018-10-19T22:50:27.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "one sec",
+  "client_msg_id": "9ef7870b-4b01-4c06-9552-d52e66bc2a2e",
+  "ts": "1539989392.000100",
+  "timestamp": 1539989392000,
+  "isoDate": "2018-10-19T22:49:52.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "i'll try again",
+  "client_msg_id": "af87b2d9-b933-4eb8-b0c8-2d4db987f1ca",
+  "ts": "1539989391.000100",
+  "timestamp": 1539989391000,
+  "isoDate": "2018-10-19T22:49:51.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDHRXDLJV",
+      "created": 1539989327,
+      "timestamp": 1539989327,
+      "name": "Captura de pantalla 2018-10-20 a las 0.47.10.png",
+      "title": "Captura de pantalla 2018-10-20 a las 0.47.10.png",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDDGA9NFK",
+      "editable": false,
+      "size": 475023,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDHRXDLJV/captura_de_pantalla_2018-10-20_a_las_0.47.10.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDHRXDLJV/download/captura_de_pantalla_2018-10-20_a_las_0.47.10.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 246,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 328,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 491,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 546,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 655,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHRXDLJV-11fb5c351e/captura_de_pantalla_2018-10-20_a_las_0.47.10_1024.png",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 699,
+      "image_exif_rotation": 1,
+      "original_w": 2154,
+      "original_h": 1470,
+      "permalink": "https://hackupc2018.slack.com/files/UDDGA9NFK/FDHRXDLJV/captura_de_pantalla_2018-10-20_a_las_0.47.10.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDHRXDLJV-c1d08585ca"
+    }
+  ],
+  "upload": true,
+  "user": "UDDGA9NFK",
+  "display_as_bot": false,
+  "ts": "1539989332.000100",
+  "timestamp": 1539989332000,
+  "isoDate": "2018-10-19T22:48:52.000Z"
+},{
+  "type": "message",
+  "user": "UDDGA9NFK",
+  "text": "It's up and running. Can you check if you have Internet connection?",
+  "client_msg_id": "1018a632-c2b9-4f19-9cd8-5a69e43f3e20",
+  "ts": "1539989299.000100",
+  "timestamp": 1539989299000,
+  "isoDate": "2018-10-19T22:48:19.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDHN1A45N",
+      "created": 1539989200,
+      "timestamp": 1539989200,
+      "name": "Screenshot from 2018-10-20 00-46-18.png",
+      "title": "Screenshot from 2018-10-20 00-46-18.png",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UCQUTD7V1",
+      "editable": false,
+      "size": 72515,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDHN1A45N/screenshot_from_2018-10-20_00-46-18.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDHN1A45N/download/screenshot_from_2018-10-20_00-46-18.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 197,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 263,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 395,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 439,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 527,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHN1A45N-a87c1baf5f/screenshot_from_2018-10-20_00-46-18_1024.png",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 562,
+      "image_exif_rotation": 1,
+      "original_w": 3840,
+      "original_h": 2106,
+      "permalink": "https://hackupc2018.slack.com/files/UCQUTD7V1/FDHN1A45N/screenshot_from_2018-10-20_00-46-18.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDHN1A45N-9f29d98c06"
+    }
+  ],
+  "upload": true,
+  "user": "UCQUTD7V1",
+  "display_as_bot": false,
+  "ts": "1539989205.000100",
+  "timestamp": 1539989205000,
+  "isoDate": "2018-10-19T22:46:45.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "your api is a little broken rn :disappointed:",
+  "client_msg_id": "43832548-8bb5-4679-a4d3-c5871c4a175a",
+  "ts": "1539989154.000100",
+  "timestamp": 1539989154000,
+  "isoDate": "2018-10-19T22:45:54.000Z"
+},{
+  "type": "message",
+  "user": "UCQUTD7V1",
+  "text": "hi!",
+  "client_msg_id": "66119f8b-548a-4844-aadb-e693bc7dbba2",
+  "ts": "1539989137.000100",
+  "timestamp": 1539989137000,
+  "isoDate": "2018-10-19T22:45:37.000Z"
+},{
+  "type": "message",
+  "user": "UDJFH7AAH",
+  "text": "Hi there! Sergi from Infojobs here. If you need any help with the API, Java, Kotlin, Android (and some other stuff, Cobol anynone?) just ask!",
+  "client_msg_id": "c073dcd4-6dea-4766-abff-a70e630af996",
+  "ts": "1539975087.000100",
+  "timestamp": 1539975087000,
+  "isoDate": "2018-10-19T18:51:27.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDHCD4NKS",
+      "created": 1539963183,
+      "timestamp": 1539963183,
+      "name": "2558273-1.jpg",
+      "title": "2558273-1.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UDC0QU0NR",
+      "editable": false,
+      "size": 35378,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDHCD4NKS/2558273-1.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDHCD4NKS/download/2558273-1.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 288,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 384,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_720.jpg",
+      "thumb_720_w": 720,
+      "thumb_720_h": 576,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHCD4NKS-2a92684ad5/2558273-1_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 640,
+      "image_exif_rotation": 1,
+      "original_w": 800,
+      "original_h": 640,
+      "permalink": "https://hackupc2018.slack.com/files/UDC0QU0NR/FDHCD4NKS/2558273-1.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDHCD4NKS-d74aa4afd7"
+    }
+  ],
+  "upload": true,
+  "user": "UDC0QU0NR",
+  "display_as_bot": false,
+  "client_msg_id": "eed2beb1-ab9f-4655-8243-acd4d1622a66",
+  "ts": "1539963187.000100",
+  "timestamp": 1539963187000,
+  "isoDate": "2018-10-19T15:33:07.000Z"
+},{
+  "type": "message",
+  "user": "UDC0QU0NR",
+  "text": "This is our prize for the winners of our challenge (1 x member of the team  :wink: )",
+  "client_msg_id": "d64bcee9-d308-4b98-aafe-85cc6138ce6e",
+  "edited": {
+    "user": "UDC0QU0NR",
+    "ts": "1539963226.000000"
+  },
+  "ts": "1539963173.000100",
+  "timestamp": 1539963173000,
+  "isoDate": "2018-10-19T15:32:53.000Z"
+},{
+  "type": "message",
+  "user": "UDC0QU0NR",
+  "text": "Link to our api (in case you want to gossip a little :nerd_face: ) : <https://developer.infojobs.net>",
+  "client_msg_id": "cbf3a2b9-455a-4fb8-8539-711a35fef423",
+  "attachments": [
+    {
+      "title": "Infojobs Developer Site",
+      "title_link": "https://developer.infojobs.net/",
+      "text": "Infojobs Developer Site",
+      "fallback": "Infojobs Developer Site",
+      "from_url": "https://developer.infojobs.net/",
+      "service_name": "developer.infojobs.net",
+      "id": 1,
+      "original_url": "https://developer.infojobs.net"
+    }
+  ],
+  "ts": "1539960588.000100",
+  "timestamp": 1539960588000,
+  "isoDate": "2018-10-19T14:49:48.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539658989.000200",
+  "timestamp": 1539658989000,
+  "isoDate": "2018-10-16T03:03:09.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539626969.000200",
+  "timestamp": 1539626969000,
+  "isoDate": "2018-10-15T18:09:29.000Z"
+},{
+  "user": "UDEC3THKN",
+  "text": "<@UDEC3THKN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539623780.000200",
+  "timestamp": 1539623780000,
+  "isoDate": "2018-10-15T17:16:20.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598741.000200",
+  "timestamp": 1539598741000,
+  "isoDate": "2018-10-15T10:19:01.000Z"
+},{
+  "user": "UDDGA9NFK",
+  "text": "<@UDDGA9NFK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539591583.000200",
+  "timestamp": 1539591583000,
+  "isoDate": "2018-10-15T08:19:43.000Z"
+},{
+  "user": "UDE17FR51",
+  "text": "<@UDE17FR51> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539589085.000200",
+  "timestamp": 1539589085000,
+  "isoDate": "2018-10-15T07:38:05.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514127.000200",
+  "timestamp": 1539514127000,
+  "isoDate": "2018-10-14T10:48:47.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373780.000200",
+  "timestamp": 1539373780000,
+  "isoDate": "2018-10-12T19:49:40.000Z"
+},{
+  "user": "UDBNYUGCT",
+  "text": "<@UDBNYUGCT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539244735.000200",
+  "timestamp": 1539244735000,
+  "isoDate": "2018-10-11T07:58:55.000Z"
+},{
+  "user": "UDD68D1F0",
+  "text": "<@UDD68D1F0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539241809.000200",
+  "timestamp": 1539241809000,
+  "isoDate": "2018-10-11T07:10:09.000Z"
+},{
+  "user": "UDB6ZABEV",
+  "text": "<@UDB6ZABEV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539241655.000200",
+  "timestamp": 1539241655000,
+  "isoDate": "2018-10-11T07:07:35.000Z"
+},{
+  "user": "UDC0QU0NR",
+  "text": "<@UDC0QU0NR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539240355.000200",
+  "timestamp": 1539240355000,
+  "isoDate": "2018-10-11T06:45:55.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539208893.000200",
+  "timestamp": 1539208893000,
+  "isoDate": "2018-10-10T22:01:33.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169010.000200",
+  "timestamp": 1539169010000,
+  "isoDate": "2018-10-10T10:56:50.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168815.000200",
+  "timestamp": 1539168815000,
+  "isoDate": "2018-10-10T10:53:35.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537986976.000200",
+  "timestamp": 1537986976000,
+  "isoDate": "2018-09-26T18:36:16.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173431.000200",
+  "timestamp": 1537173431000,
+  "isoDate": "2018-09-17T08:37:11.000Z"
+},{
+  "user": "UCKM1PDS6",
+  "text": "<@UCKM1PDS6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536400531.000200",
+  "timestamp": 1536400531000,
+  "isoDate": "2018-09-08T09:55:31.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401230.000200",
+  "timestamp": 1534401230000,
+  "isoDate": "2018-08-16T06:33:50.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "InfoJobs channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: InfoJobs channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534224963.000300",
+  "timestamp": 1534224963000,
+  "isoDate": "2018-08-14T05:36:03.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534224963.000200",
+  "timestamp": 1534224963000,
+  "isoDate": "2018-08-14T05:36:03.000Z"
+}]

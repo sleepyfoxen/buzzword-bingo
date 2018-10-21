@@ -1,0 +1,187 @@
+[
+{
+  "type": "message",
+  "user": "UCBC44VRD",
+  "text": "And if stuff goes tits-up this is a handy list of panic commands: <http://ohshitgit.com>",
+  "client_msg_id": "d1ea8692-343b-4c45-a535-7aa159a02db2",
+  "ts": "1539984235.000100",
+  "timestamp": 1539984235000,
+  "isoDate": "2018-10-19T21:23:55.000Z"
+},{
+  "type": "message",
+  "user": "UCKND4DAN",
+  "text": "Here is the git cheat sheet if anyone need it <https://education.github.com/git-cheat-sheet-education.pdf>",
+  "client_msg_id": "0676901b-5f23-4f0c-9347-d98981c84c62",
+  "ts": "1539983465.000100",
+  "timestamp": 1539983465000,
+  "isoDate": "2018-10-19T21:11:05.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598752.000200",
+  "timestamp": 1539598752000,
+  "isoDate": "2018-10-15T10:19:12.000Z"
+},{
+  "user": "UD42HQXDY",
+  "text": "<@UD42HQXDY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539531316.000200",
+  "timestamp": 1539531316000,
+  "isoDate": "2018-10-14T15:35:16.000Z"
+},{
+  "user": "UCL4T1F4M",
+  "text": "<@UCL4T1F4M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539518689.000200",
+  "timestamp": 1539518689000,
+  "isoDate": "2018-10-14T12:04:49.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514199.000200",
+  "timestamp": 1539514199000,
+  "isoDate": "2018-10-14T10:49:59.000Z"
+},{
+  "user": "UCLS7E7LP",
+  "text": "<@UCLS7E7LP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539449216.000200",
+  "timestamp": 1539449216000,
+  "isoDate": "2018-10-13T16:46:56.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373649.000200",
+  "timestamp": 1539373649000,
+  "isoDate": "2018-10-12T19:47:29.000Z"
+},{
+  "user": "UCTTFQU9X",
+  "text": "<@UCTTFQU9X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539309102.000200",
+  "timestamp": 1539309102000,
+  "isoDate": "2018-10-12T01:51:42.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539208900.000200",
+  "timestamp": 1539208900000,
+  "isoDate": "2018-10-10T22:01:40.000Z"
+},{
+  "user": "UCVBB11V5",
+  "text": "<@UCVBB11V5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539174074.000200",
+  "timestamp": 1539174074000,
+  "isoDate": "2018-10-10T12:21:14.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168951.000200",
+  "timestamp": 1539168951000,
+  "isoDate": "2018-10-10T10:55:51.000Z"
+},{
+  "user": "UDA976TSL",
+  "text": "<@UDA976TSL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168875.000200",
+  "timestamp": 1539168875000,
+  "isoDate": "2018-10-10T10:54:35.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168778.000200",
+  "timestamp": 1539168778000,
+  "isoDate": "2018-10-10T10:52:58.000Z"
+},{
+  "user": "UCVSQV7CN",
+  "text": "<@UCVSQV7CN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539165122.000200",
+  "timestamp": 1539165122000,
+  "isoDate": "2018-10-10T09:52:02.000Z"
+},{
+  "user": "UCKND4DAN",
+  "text": "<@UCKND4DAN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539160148.000200",
+  "timestamp": 1539160148000,
+  "isoDate": "2018-10-10T08:29:08.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539070952.000200",
+  "timestamp": 1539070952000,
+  "isoDate": "2018-10-09T07:42:32.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736852.000200",
+  "timestamp": 1538736852000,
+  "isoDate": "2018-10-05T10:54:12.000Z"
+},{
+  "user": "UD41KSZ6F",
+  "text": "<@UD41KSZ6F> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538344194.000200",
+  "timestamp": 1538344194000,
+  "isoDate": "2018-09-30T21:49:54.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537986964.000200",
+  "timestamp": 1537986964000,
+  "isoDate": "2018-09-26T18:36:04.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537272059.000200",
+  "timestamp": 1537272059000,
+  "isoDate": "2018-09-18T12:00:59.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "GitHub's channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: GitHub's channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1537257710.000100",
+  "timestamp": 1537257710000,
+  "isoDate": "2018-09-18T08:01:50.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537257709.000200",
+  "timestamp": 1537257709000,
+  "isoDate": "2018-09-18T08:01:49.000Z"
+}]

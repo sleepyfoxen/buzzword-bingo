@@ -1,0 +1,715 @@
+[
+{
+  "type": "message",
+  "user": "UDGQMKNBV",
+  "text": "We will leave out at 3:14. If u have some question come now.",
+  "client_msg_id": "d79713e7-47fd-49e0-9d7c-a24bf34e99d7",
+  "ts": "1540083778.000100",
+  "timestamp": 1540083778000,
+  "isoDate": "2018-10-21T01:02:58.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Sure thing :slightly_smiling_face:",
+  "client_msg_id": "d9d42e8f-c772-45de-9d11-ff17319b347d",
+  "ts": "1540044127.000100",
+  "timestamp": 1540044127000,
+  "isoDate": "2018-10-20T14:02:07.000Z"
+},{
+  "type": "message",
+  "user": "UDGM53YL8",
+  "text": "can you send me a DM with all yours emails, please!",
+  "client_msg_id": "51692f1b-abcb-4396-99c3-27ae66ee1c87",
+  "ts": "1540044076.000100",
+  "timestamp": 1540044076000,
+  "isoDate": "2018-10-20T14:01:16.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Yes :smile: But is it possible to share the demo account with my teammates without sharing my email login? :sweat_smile:",
+  "client_msg_id": "18cfe9bb-9433-4351-b12c-14b30c671d4e",
+  "ts": "1540043941.000100",
+  "timestamp": 1540043941000,
+  "isoDate": "2018-10-20T13:59:01.000Z"
+},{
+  "type": "message",
+  "user": "UDGM53YL8",
+  "text": "we will be here if you have some doubt!",
+  "client_msg_id": "3120b0de-0a58-427c-af12-6a503eadae3b",
+  "ts": "1540043811.000100",
+  "timestamp": 1540043811000,
+  "isoDate": "2018-10-20T13:56:51.000Z"
+},{
+  "type": "message",
+  "user": "UDGM53YL8",
+  "text": "<@UDJ34FW4C> We have check it out that you have access to the demo account!",
+  "client_msg_id": "9a00df43-28b1-4847-b40b-63961d07caea",
+  "ts": "1540043766.000100",
+  "timestamp": 1540043766000,
+  "isoDate": "2018-10-20T13:56:06.000Z"
+},{
+  "type": "message",
+  "user": "UDGM53YL8",
+  "text": "we already gave you access!! :slightly_smiling_face:",
+  "client_msg_id": "1b56a244-6354-4c2c-83f8-e76f4e52454a",
+  "ts": "1540043540.000100",
+  "timestamp": 1540043540000,
+  "isoDate": "2018-10-20T13:52:20.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Thanks!",
+  "client_msg_id": "44d94300-3050-4f3b-93c0-1e414cad4c25",
+  "ts": "1540043488.000100",
+  "timestamp": 1540043488000,
+  "isoDate": "2018-10-20T13:51:28.000Z"
+},{
+  "type": "message",
+  "user": "UDGM53YL8",
+  "text": "my colleague will send you an invitation to your email account! take a look in couple of minutes!",
+  "client_msg_id": "e30b593d-16a0-465a-b2d3-e645976dac60",
+  "ts": "1540043427.000100",
+  "timestamp": 1540043427000,
+  "isoDate": "2018-10-20T13:50:27.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Yes, I used my real name Xiaoru Li :slightly_smiling_face:",
+  "client_msg_id": "1426ffa1-e1f5-4451-bf36-e086fcf971eb",
+  "ts": "1540043316.000100",
+  "timestamp": 1540043316000,
+  "isoDate": "2018-10-20T13:48:36.000Z"
+},{
+  "type": "message",
+  "user": "UDGM53YL8",
+  "text": "Hi <@UC9FMV9PC>, have you filled the form out to join our challenge? <https://goo.gl/forms/HBxV1dB8HqKnub2o2>",
+  "client_msg_id": "a1f22325-3dcc-4a03-a797-92b68a6f95d4",
+  "attachments": [
+    {
+      "service_name": "Google Docs",
+      "title": "HackUPC'18 - everis",
+      "title_link": "https://goo.gl/forms/HBxV1dB8HqKnub2o2",
+      "text": "\"Virtual assistants for good\" - Registration form",
+      "fallback": "Google Docs: HackUPC'18 - everis",
+      "image_url": "https://lh4.googleusercontent.com/lkR4dmPrZhpC8WOClHKNPRVRH-upmZ-YdvDBO6tSD50w9Lf8J2xpo78JKz1En4R9VBg",
+      "image_width": 333,
+      "image_height": 250,
+      "from_url": "https://goo.gl/forms/HBxV1dB8HqKnub2o2",
+      "image_bytes": 47652,
+      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+      "id": 1,
+      "original_url": "https://goo.gl/forms/HBxV1dB8HqKnub2o2"
+    }
+  ],
+  "ts": "1540043278.000100",
+  "timestamp": 1540043278000,
+  "isoDate": "2018-10-20T13:47:58.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Hi :slightly_smiling_face: is it possible to share the demo account (without sharing my email access) or create a demo account for my teammates individually as well?",
+  "client_msg_id": "9b5d0683-5790-42d4-91e6-1e953ab8eb2a",
+  "ts": "1540041452.000100",
+  "timestamp": 1540041452000,
+  "isoDate": "2018-10-20T13:17:32.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": ":warning:If you have created your DialogFlow project before the Google Actions one, you can use the DialogFlow option 'Integrations &gt; Google Assistant' to configure what you need.",
+  "client_msg_id": "28e8d0b1-0ec0-44d8-a808-b0bbec5b064d",
+  "ts": "1540038219.000100",
+  "timestamp": 1540038219000,
+  "isoDate": "2018-10-20T12:23:39.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "Answering some doubts on debugging the application below:\n\nThere are several ways to check if your assistant is working as expected, and each console gives you different functionalities:\n\n- *Google Actions console*: Go to your project and use the \"TEST &gt; Simulator\" option. You should see a preview of how the application will be displayed in your Gooogle Assistant. You can test in other devices using the ones that have the same account as your developpers one. You can also check the application inputs/outputs on each interacition (Request/Response) and the logs (View logs) - rememder that you are able to add logs into the JS code-.\n\n- *DialogFlow console*: You should be able to test the application in the right hand side of the screen, and chech the context values or the intents and entities detected. In 'Diagnosis info' you should be able to check more information for each interaction. Later on, if you want to share your bot to others, you can use the option 'Integrations &gt; Web demo\", enable this and share the URL to anybody.\n\nHope this information is useful!",
+  "client_msg_id": "224d024b-1d15-44ef-a7b1-463ecd842ac8",
+  "edited": {
+    "user": "UDG9ZESGZ",
+    "ts": "1540038307.000000"
+  },
+  "ts": "1540037703.000100",
+  "timestamp": 1540037703000,
+  "isoDate": "2018-10-20T12:15:03.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "Hi there! :loudspeaker::loudspeaker::warning:\nPlease fill in our form if you want to participate in the <#CC9CCGQP8|everis>:everis: challenge!! <https://goo.gl/forms/HBxV1dB8HqKnub2o2>",
+  "client_msg_id": "20052f20-7984-4510-abe1-0d7d4ddf2b4b",
+  "attachments": [
+    {
+      "service_name": "Google Docs",
+      "title": "HackUPC'18 - everis",
+      "title_link": "https://goo.gl/forms/HBxV1dB8HqKnub2o2",
+      "text": "\"Virtual assistants for good\" - Registration form",
+      "fallback": "Google Docs: HackUPC'18 - everis",
+      "image_url": "https://lh4.googleusercontent.com/lkR4dmPrZhpC8WOClHKNPRVRH-upmZ-YdvDBO6tSD50w9Lf8J2xpo78JKz1En4R9VBg",
+      "image_width": 333,
+      "image_height": 250,
+      "from_url": "https://goo.gl/forms/HBxV1dB8HqKnub2o2",
+      "image_bytes": 47652,
+      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+      "id": 1,
+      "original_url": "https://goo.gl/forms/HBxV1dB8HqKnub2o2"
+    }
+  ],
+  "ts": "1540037302.000100",
+  "timestamp": 1540037302000,
+  "isoDate": "2018-10-20T12:08:22.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "cool",
+  "client_msg_id": "2e24fa28-4ee3-4a99-b16b-09efd9ab5402",
+  "thread_ts": "1540031749.000100",
+  "parent_user_id": "UCKMQ48V8",
+  "ts": "1540034251.000100",
+  "timestamp": 1540034251000,
+  "isoDate": "2018-10-20T11:17:31.000Z"
+},{
+  "type": "message",
+  "user": "UCKMQ48V8",
+  "text": "Ok, will be there after the lunch.",
+  "client_msg_id": "589973b3-742f-4ab1-b7ab-e5989f53cf82",
+  "thread_ts": "1540031749.000100",
+  "parent_user_id": "UCKMQ48V8",
+  "ts": "1540034062.000100",
+  "timestamp": 1540034062000,
+  "isoDate": "2018-10-20T11:14:22.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "<@UCKMQ48V8> The second floor is actually the third because the first is not taken into account. You can also ask to any hackUPC organizers and they will help you :wink:",
+  "client_msg_id": "2875fb69-a287-4bb7-851f-48cf8f43fc16",
+  "edited": {
+    "user": "UDG9ZESGZ",
+    "ts": "1540033953.000000"
+  },
+  "thread_ts": "1540031749.000100",
+  "parent_user_id": "UCKMQ48V8",
+  "ts": "1540033495.000100",
+  "timestamp": 1540033495000,
+  "isoDate": "2018-10-20T11:04:55.000Z"
+},{
+  "type": "message",
+  "user": "UCKMQ48V8",
+  "text": "<@UDG9ZESGZ> ",
+  "client_msg_id": "25E4B7B7-8A2F-4A98-B1EA-C6371E556E59",
+  "thread_ts": "1540031749.000100",
+  "parent_user_id": "UCKMQ48V8",
+  "ts": "1540032397.000100",
+  "timestamp": 1540032397000,
+  "isoDate": "2018-10-20T10:46:37.000Z"
+},{
+  "type": "message",
+  "user": "UCKMQ48V8",
+  "text": "Where exactly? There are only Skyscanner and some other guys",
+  "client_msg_id": "29340863-2360-4B9A-996D-044DBFFFAF96",
+  "thread_ts": "1540031749.000100",
+  "parent_user_id": "UCKMQ48V8",
+  "ts": "1540032174.000100",
+  "timestamp": 1540032174000,
+  "isoDate": "2018-10-20T10:42:54.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "You can find us in A6, second floor :everis:",
+  "client_msg_id": "d68468b7-686d-4efc-a0a3-b32269a6a9e0",
+  "thread_ts": "1540031749.000100",
+  "parent_user_id": "UCKMQ48V8",
+  "ts": "1540031893.000100",
+  "timestamp": 1540031893000,
+  "isoDate": "2018-10-20T10:38:13.000Z"
+},{
+  "type": "message",
+  "user": "UCKMQ48V8",
+  "text": "<@UDG9ZESGZ> ",
+  "client_msg_id": "C62D498D-9989-4BB9-BBD4-277F980EA4BE",
+  "ts": "1540031779.000100",
+  "timestamp": 1540031779000,
+  "isoDate": "2018-10-20T10:36:19.000Z"
+},{
+  "type": "message",
+  "user": "UCKMQ48V8",
+  "text": "Hey, guys, where do you stay? We would like to talk about your challenge :smile:",
+  "client_msg_id": "E694CB64-0B80-4CA0-A00D-13DEBD43DA44",
+  "thread_ts": "1540031749.000100",
+  "reply_count": 6,
+  "replies": [
+    {
+      "user": "UDG9ZESGZ",
+      "ts": "1540031893.000100"
+    },
+    {
+      "user": "UCKMQ48V8",
+      "ts": "1540032174.000100"
+    },
+    {
+      "user": "UCKMQ48V8",
+      "ts": "1540032397.000100"
+    },
+    {
+      "user": "UDG9ZESGZ",
+      "ts": "1540033495.000100"
+    },
+    {
+      "user": "UCKMQ48V8",
+      "ts": "1540034062.000100"
+    },
+    {
+      "user": "UDG9ZESGZ",
+      "ts": "1540034251.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 6,
+  "ts": "1540031749.000100",
+  "reactions": [
+    {
+      "name": "eyes",
+      "users": [
+        "UDG9ZESGZ",
+        "UCKMQ48V8",
+        "UDHJQASPK",
+        "UDGNPL6KE"
+      ],
+      "count": 4
+    }
+  ],
+  "timestamp": 1540031749000,
+  "isoDate": "2018-10-20T10:35:49.000Z"
+},{
+  "type": "message",
+  "user": "UCUL7GZE0",
+  "text": "Thank you!",
+  "client_msg_id": "10aa7c5d-d903-4f28-b47b-dc1de5e97755",
+  "thread_ts": "1540028286.000100",
+  "parent_user_id": "UDG9ZESGZ",
+  "ts": "1540029877.000100",
+  "reactions": [
+    {
+      "name": "eyes",
+      "users": [
+        "UDG9ZESGZ"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540029877000,
+  "isoDate": "2018-10-20T10:04:37.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "Guys, answering your database doubts.. please watch this video: <https://www.youtube.com/watch?v=imaA_s4jx9M>\nThe main idea is that you can define the function name in 'Action and parameters' inside the Intent, and then in the JS code you can use the database connection to check or save data, using this code:\n\n`// initialise DB connection\nconst admin = require('firebase-admin');\nadmin.initializeApp({\n  credential: admin.credential.applicationDefault(),\n  databaseURL: 'ws://[DATABASE NAME].<http://firebaseio.com/|firebaseio.com/>',\n});\n\n//save into database\nreturn admin.database().ref('/name').push({name: name}).then((snapshot) =&gt; {\n    // Redirect with 303 SEE OTHER to the URL of the pushed object in the Firebase console.\n    console.log('database write sucessful: ' + snapshot.ref.toString());\n  });\n  }`",
+  "client_msg_id": "784b3570-dd9f-45d3-900f-9b23dba17993",
+  "attachments": [
+    {
+      "service_name": "YouTube",
+      "service_url": "https://www.youtube.com/",
+      "title": "Building a Chatbot with Dialogflow - Saving Data in the Realtime Database",
+      "title_link": "https://www.youtube.com/watch?v=imaA_s4jx9M",
+      "author_name": "Peter Fessel",
+      "author_link": "https://www.youtube.com/channel/UCmBGWgaTx1_KwbNm2PJF0_A",
+      "thumb_url": "https://i.ytimg.com/vi/imaA_s4jx9M/hqdefault.jpg",
+      "thumb_width": 480,
+      "thumb_height": 360,
+      "fallback": "YouTube Video: Building a Chatbot with Dialogflow - Saving Data in the Realtime Database",
+      "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/imaA_s4jx9M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "video_html_width": 400,
+      "video_html_height": 300,
+      "from_url": "https://www.youtube.com/watch?v=imaA_s4jx9M",
+      "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+      "id": 1,
+      "original_url": "https://www.youtube.com/watch?v=imaA_s4jx9M"
+    }
+  ],
+  "edited": {
+    "user": "UDG9ZESGZ",
+    "ts": "1540038254.000000"
+  },
+  "thread_ts": "1540028286.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UCUL7GZE0",
+      "ts": "1540029877.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1540028286.000100",
+  "timestamp": 1540028286000,
+  "isoDate": "2018-10-20T09:38:06.000Z"
+},{
+  "type": "message",
+  "user": "UDJ0X35LP",
+  "text": "To JOIN everis challenge, please fill out the following form: <https://goo.gl/forms/HBxV1dB8HqKnub2o2> .We will handle your request when this Game starts! (3:14am)",
+  "client_msg_id": "c7d46217-2ae6-438b-936e-595ebed1d897",
+  "attachments": [
+    {
+      "service_name": "Google Docs",
+      "title": "HackUPC'18 - everis",
+      "title_link": "https://goo.gl/forms/HBxV1dB8HqKnub2o2",
+      "text": "\"Virtual assistants for good\" - Registration form",
+      "fallback": "Google Docs: HackUPC'18 - everis",
+      "image_url": "https://lh4.googleusercontent.com/lkR4dmPrZhpC8WOClHKNPRVRH-upmZ-YdvDBO6tSD50w9Lf8J2xpo78JKz1En4R9VBg",
+      "image_width": 333,
+      "image_height": 250,
+      "from_url": "https://goo.gl/forms/HBxV1dB8HqKnub2o2",
+      "image_bytes": 47652,
+      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+      "id": 1,
+      "original_url": "https://goo.gl/forms/HBxV1dB8HqKnub2o2"
+    }
+  ],
+  "ts": "1539989456.000100",
+  "timestamp": 1539989456000,
+  "isoDate": "2018-10-19T22:50:56.000Z"
+},{
+  "type": "message",
+  "user": "UCARLGNMS",
+  "text": "Hi, how can I have credential to try google assistant ?",
+  "client_msg_id": "9a1a1fc1-8612-4c02-8068-70771bed51aa",
+  "ts": "1539988659.000100",
+  "timestamp": 1539988659000,
+  "isoDate": "2018-10-19T22:37:39.000Z"
+},{
+  "type": "message",
+  "user": "UDG9ZESGZ",
+  "text": "Guys!!! :loudspeaker: :loudspeaker: :warning: \nPlease come to our <#CC9CCGQP8|everis> extended challenge talk at 23:30, which will take place in A5001 . <@UDGM53YL8> will talk about the everis challenge and the prizes por the winners! ",
+  "client_msg_id": "afa643ab-734b-4900-a018-6ffbddcec843",
+  "ts": "1539973075.000100",
+  "timestamp": 1539973075000,
+  "isoDate": "2018-10-19T18:17:55.000Z"
+},{
+  "type": "message",
+  "text": "Building for Dialogflow-AOG",
+  "files": [
+    {
+      "id": "FDK4Z3TE3",
+      "created": 1539960607,
+      "timestamp": 1539960607,
+      "name": "Hackathon-dialogflow-AOG.pdf",
+      "title": "Hackathon-dialogflow-AOG.pdf",
+      "mimetype": "application/pdf",
+      "filetype": "pdf",
+      "pretty_type": "PDF",
+      "user": "UDG9HESC9",
+      "editable": false,
+      "size": 1942393,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDK4Z3TE3/hackathon-dialogflow-aog.pdf",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDK4Z3TE3/download/hackathon-dialogflow-aog.pdf",
+      "thumb_pdf": "https://files.slack.com/files-tmb/TC8RKNA4X-FDK4Z3TE3-ad7f22f872/hackathon-dialogflow-aog_thumb_pdf.png",
+      "thumb_pdf_w": 910,
+      "thumb_pdf_h": 1286,
+      "permalink": "https://hackupc2018.slack.com/files/UDG9HESC9/FDK4Z3TE3/hackathon-dialogflow-aog.pdf",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDK4Z3TE3-6cf9d2bda8"
+    }
+  ],
+  "upload": true,
+  "user": "UDG9HESC9",
+  "display_as_bot": false,
+  "ts": "1539960609.000100",
+  "timestamp": 1539960609000,
+  "isoDate": "2018-10-19T14:50:09.000Z"
+},{
+  "type": "message",
+  "text": "Timetable tutors",
+  "files": [
+    {
+      "id": "FDHTP0SCU",
+      "created": 1539960441,
+      "timestamp": 1539960441,
+      "name": "Tutorias.png",
+      "title": "Tutorias.png",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDG9HESC9",
+      "editable": false,
+      "size": 127276,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDHTP0SCU/tutorias.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDHTP0SCU/download/tutorias.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHTP0SCU-29f3dd3ce5/tutorias_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHTP0SCU-29f3dd3ce5/tutorias_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHTP0SCU-29f3dd3ce5/tutorias_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 146,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHTP0SCU-29f3dd3ce5/tutorias_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 195,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHTP0SCU-29f3dd3ce5/tutorias_160.png",
+      "image_exif_rotation": 1,
+      "original_w": 531,
+      "original_h": 216,
+      "permalink": "https://hackupc2018.slack.com/files/UDG9HESC9/FDHTP0SCU/tutorias.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDHTP0SCU-139f7e0e01"
+    }
+  ],
+  "upload": true,
+  "user": "UDG9HESC9",
+  "display_as_bot": false,
+  "ts": "1539960444.000100",
+  "timestamp": 1539960444000,
+  "isoDate": "2018-10-19T14:47:24.000Z"
+},{
+  "type": "message",
+  "text": "Building for Amazon Alexa",
+  "files": [
+    {
+      "id": "FDK4W2LPR",
+      "created": 1539960411,
+      "timestamp": 1539960411,
+      "name": "Hackathon-Alexa.pdf",
+      "title": "Hackathon-Alexa.pdf",
+      "mimetype": "application/pdf",
+      "filetype": "pdf",
+      "pretty_type": "PDF",
+      "user": "UDG9HESC9",
+      "editable": false,
+      "size": 2042725,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDK4W2LPR/hackathon-alexa.pdf",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDK4W2LPR/download/hackathon-alexa.pdf",
+      "thumb_pdf": "https://files.slack.com/files-tmb/TC8RKNA4X-FDK4W2LPR-4472d59194/hackathon-alexa_thumb_pdf.png",
+      "thumb_pdf_w": 910,
+      "thumb_pdf_h": 1286,
+      "permalink": "https://hackupc2018.slack.com/files/UDG9HESC9/FDK4W2LPR/hackathon-alexa.pdf",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDK4W2LPR-bebb4a2d74"
+    }
+  ],
+  "upload": true,
+  "user": "UDG9HESC9",
+  "display_as_bot": false,
+  "ts": "1539960414.000100",
+  "timestamp": 1539960414000,
+  "isoDate": "2018-10-19T14:46:54.000Z"
+},{
+  "type": "message",
+  "text": "Building for Google Assistant",
+  "files": [
+    {
+      "id": "FDJ0FAWFM",
+      "created": 1539960389,
+      "timestamp": 1539960389,
+      "name": "Building for Google Assistant.pdf",
+      "title": "Building for Google Assistant.pdf",
+      "mimetype": "application/pdf",
+      "filetype": "pdf",
+      "pretty_type": "PDF",
+      "user": "UDG9HESC9",
+      "editable": false,
+      "size": 872134,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ0FAWFM/building_for_google_assistant.pdf",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ0FAWFM/download/building_for_google_assistant.pdf",
+      "thumb_pdf": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ0FAWFM-1a6812355c/building_for_google_assistant_thumb_pdf.png",
+      "thumb_pdf_w": 1467,
+      "thumb_pdf_h": 825,
+      "permalink": "https://hackupc2018.slack.com/files/UDG9HESC9/FDJ0FAWFM/building_for_google_assistant.pdf",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJ0FAWFM-2a2d88ccd4"
+    }
+  ],
+  "upload": true,
+  "user": "UDG9HESC9",
+  "display_as_bot": false,
+  "ts": "1539960391.000100",
+  "timestamp": 1539960391000,
+  "isoDate": "2018-10-19T14:46:31.000Z"
+},{
+  "user": "UDGNPL6KE",
+  "text": "<@UDGNPL6KE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539853209.000200",
+  "timestamp": 1539853209000,
+  "isoDate": "2018-10-18T09:00:09.000Z"
+},{
+  "user": "UDGQMKNBV",
+  "text": "<@UDGQMKNBV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539852121.000200",
+  "timestamp": 1539852121000,
+  "isoDate": "2018-10-18T08:42:01.000Z"
+},{
+  "user": "UDG9HESC9",
+  "text": "<@UDG9HESC9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539851984.000200",
+  "timestamp": 1539851984000,
+  "isoDate": "2018-10-18T08:39:44.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779847.000200",
+  "timestamp": 1539779847000,
+  "isoDate": "2018-10-17T12:37:27.000Z"
+},{
+  "user": "UCVQ01423",
+  "text": "<@UCVQ01423> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539715585.000200",
+  "timestamp": 1539715585000,
+  "isoDate": "2018-10-16T18:46:25.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539658998.000200",
+  "timestamp": 1539658998000,
+  "isoDate": "2018-10-16T03:03:18.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539626982.000200",
+  "timestamp": 1539626982000,
+  "isoDate": "2018-10-15T18:09:42.000Z"
+},{
+  "user": "UD43BFXA6",
+  "text": "<@UD43BFXA6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539611365.000200",
+  "timestamp": 1539611365000,
+  "isoDate": "2018-10-15T13:49:25.000Z"
+},{
+  "user": "UDDFHHDMX",
+  "text": "<@UDDFHHDMX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539589061.000200",
+  "timestamp": 1539589061000,
+  "isoDate": "2018-10-15T07:37:41.000Z"
+},{
+  "user": "UDDAY24QY",
+  "text": "<@UDDAY24QY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539586247.000200",
+  "timestamp": 1539586247000,
+  "isoDate": "2018-10-15T06:50:47.000Z"
+},{
+  "user": "UDDTADUKE",
+  "text": "<@UDDTADUKE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539584776.000200",
+  "timestamp": 1539584776000,
+  "isoDate": "2018-10-15T06:26:16.000Z"
+},{
+  "user": "UDE2TB2FL",
+  "text": "<@UDE2TB2FL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539583785.000200",
+  "timestamp": 1539583785000,
+  "isoDate": "2018-10-15T06:09:45.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514145.000200",
+  "timestamp": 1539514145000,
+  "isoDate": "2018-10-14T10:49:05.000Z"
+},{
+  "user": "UDDBJDW84",
+  "text": "<@UDDBJDW84> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539422484.000200",
+  "timestamp": 1539422484000,
+  "isoDate": "2018-10-13T09:21:24.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373601.000200",
+  "timestamp": 1539373601000,
+  "isoDate": "2018-10-12T19:46:41.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169013.000200",
+  "timestamp": 1539169013000,
+  "isoDate": "2018-10-10T10:56:53.000Z"
+},{
+  "user": "UC942ECMR",
+  "text": "<@UC942ECMR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539160910.000200",
+  "timestamp": 1539160910000,
+  "isoDate": "2018-10-10T08:41:50.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173428.000200",
+  "timestamp": 1537173428000,
+  "isoDate": "2018-09-17T08:37:08.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401228.000200",
+  "timestamp": 1534401228000,
+  "isoDate": "2018-08-16T06:33:48.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Everis channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Everis channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534225012.000100",
+  "timestamp": 1534225012000,
+  "isoDate": "2018-08-14T05:36:52.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534225011.000200",
+  "timestamp": 1534225011000,
+  "isoDate": "2018-08-14T05:36:51.000Z"
+}]

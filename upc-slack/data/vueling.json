@@ -1,0 +1,294 @@
+[
+{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDJ9YVCDS",
+      "created": 1539993299,
+      "timestamp": 1539993299,
+      "name": "2kitai.jpg",
+      "title": "2kitai.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UDKN8V46A",
+      "editable": false,
+      "size": 51831,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ9YVCDS/2kitai.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ9YVCDS/download/2kitai.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ9YVCDS-a1622540e3/2kitai_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ9YVCDS-a1622540e3/2kitai_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ9YVCDS-a1622540e3/2kitai_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 283,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ9YVCDS-a1622540e3/2kitai_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 377,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ9YVCDS-a1622540e3/2kitai_160.jpg",
+      "image_exif_rotation": 1,
+      "original_w": 600,
+      "original_h": 471,
+      "permalink": "https://hackupc2018.slack.com/files/UDKN8V46A/FDJ9YVCDS/2kitai.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJ9YVCDS-40de0a1a4b"
+    }
+  ],
+  "upload": true,
+  "user": "UDKN8V46A",
+  "display_as_bot": false,
+  "ts": "1539993301.000100",
+  "reactions": [
+    {
+      "name": "heart",
+      "users": [
+        "UCARB2G7M",
+        "UCVQ01423",
+        "UDJ8X0HP0"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1539993301000,
+  "isoDate": "2018-10-19T23:55:01.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "Thanks! ",
+  "client_msg_id": "05900ee4-25bc-4e30-b67b-46211cec5f95",
+  "ts": "1539983149.000100",
+  "timestamp": 1539983149000,
+  "isoDate": "2018-10-19T21:05:49.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": " :+1: ",
+  "client_msg_id": "5b0f7c8e-0050-426c-9f98-c1735a53d424",
+  "ts": "1539983118.000100",
+  "timestamp": 1539983118000,
+  "isoDate": "2018-10-19T21:05:18.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Vueling has no Challenge this edition <@UCD4NNLAZ>, however a round-trip to any vueling destination will be awarded to the winner of HackUPC",
+  "client_msg_id": "72def09c-4449-4326-86bd-2e37f92638dd",
+  "ts": "1539982111.000100",
+  "timestamp": 1539982111000,
+  "isoDate": "2018-10-19T20:48:31.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "?*",
+  "client_msg_id": "e389b296-d4a1-486b-bd1a-fb1a15f28e64",
+  "ts": "1539975373.000100",
+  "timestamp": 1539975373000,
+  "isoDate": "2018-10-19T18:56:13.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "Hey! can anyoune remind what the challenge is/",
+  "client_msg_id": "2e45fd44-b38d-467f-9864-0cb4553744aa",
+  "ts": "1539975371.000100",
+  "timestamp": 1539975371000,
+  "isoDate": "2018-10-19T18:56:11.000Z"
+},{
+  "type": "message",
+  "user": "UCVQ01423",
+  "text": "Anyone who has the vueling gadget and can't fit in the luggage to home, I'm willing to sacrifice and accept it as donation :relaxed:",
+  "client_msg_id": "c852f246-8670-4b9e-aaeb-ec40654322d4",
+  "ts": "1539968466.000100",
+  "reactions": [
+    {
+      "name": "joy",
+      "users": [
+        "UDJ22GNNN"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539968466000,
+  "isoDate": "2018-10-19T17:01:06.000Z"
+},{
+  "type": "message",
+  "user": "UDHQMHP6F",
+  "text": ":+1: ",
+  "client_msg_id": "27653eeb-d3da-4a84-b0bf-8f6ac5356f31",
+  "ts": "1539946952.000100",
+  "timestamp": 1539946952000,
+  "isoDate": "2018-10-19T11:02:32.000Z"
+},{
+  "user": "UCW8BJUVC",
+  "text": "<@UCW8BJUVC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539855552.000200",
+  "timestamp": 1539855552000,
+  "isoDate": "2018-10-18T09:39:12.000Z"
+},{
+  "user": "UDJ8X0HP0",
+  "text": "<@UDJ8X0HP0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539852021.000200",
+  "timestamp": 1539852021000,
+  "isoDate": "2018-10-18T08:40:21.000Z"
+},{
+  "user": "UDA0TV2VB",
+  "text": "<@UDA0TV2VB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539846377.000200",
+  "timestamp": 1539846377000,
+  "isoDate": "2018-10-18T07:06:17.000Z"
+},{
+  "user": "UDF04C9A8",
+  "text": "<@UDF04C9A8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539804149.000200",
+  "timestamp": 1539804149000,
+  "isoDate": "2018-10-17T19:22:29.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779952.000200",
+  "timestamp": 1539779952000,
+  "isoDate": "2018-10-17T12:39:12.000Z"
+},{
+  "user": "UCLLQPDLP",
+  "text": "<@UCLLQPDLP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539717477.000200",
+  "timestamp": 1539717477000,
+  "isoDate": "2018-10-16T19:17:57.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659023.000200",
+  "timestamp": 1539659023000,
+  "isoDate": "2018-10-16T03:03:43.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539627066.000200",
+  "timestamp": 1539627066000,
+  "isoDate": "2018-10-15T18:11:06.000Z"
+},{
+  "user": "UD43BFXA6",
+  "text": "<@UD43BFXA6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539611494.000200",
+  "timestamp": 1539611494000,
+  "isoDate": "2018-10-15T13:51:34.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598766.000200",
+  "timestamp": 1539598766000,
+  "isoDate": "2018-10-15T10:19:26.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514165.000200",
+  "timestamp": 1539514165000,
+  "isoDate": "2018-10-14T10:49:25.000Z"
+},{
+  "user": "UCUF00L9X",
+  "text": "<@UCUF00L9X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539432025.000200",
+  "timestamp": 1539432025000,
+  "isoDate": "2018-10-13T12:00:25.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539208888.000200",
+  "timestamp": 1539208888000,
+  "isoDate": "2018-10-10T22:01:28.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169035.000200",
+  "timestamp": 1539169035000,
+  "isoDate": "2018-10-10T10:57:15.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168812.000200",
+  "timestamp": 1539168812000,
+  "isoDate": "2018-10-10T10:53:32.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736893.000200",
+  "timestamp": 1538736893000,
+  "isoDate": "2018-10-05T10:54:53.000Z"
+},{
+  "user": "UC7UGRDUK",
+  "text": "<@UC7UGRDUK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537178095.000200",
+  "timestamp": 1537178095000,
+  "isoDate": "2018-09-17T09:54:55.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173467.000200",
+  "timestamp": 1537173467000,
+  "isoDate": "2018-09-17T08:37:47.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667647.000200",
+  "timestamp": 1536667647000,
+  "isoDate": "2018-09-11T12:07:27.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Vueling's channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Vueling's channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536659276.000300",
+  "timestamp": 1536659276000,
+  "isoDate": "2018-09-11T09:47:56.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536659276.000200",
+  "timestamp": 1536659276000,
+  "isoDate": "2018-09-11T09:47:56.000Z"
+}]

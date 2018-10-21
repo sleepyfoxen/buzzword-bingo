@@ -1,0 +1,1181 @@
+[
+{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": ":warning: :warning: :typeform: :panda_face: :sleeping:\nyall, I probably go back home in half an hour to get some sleep (weak.. I know.. :P)\nso if you have any question about Typeform, now is the time :wink:\nwe will be back early tomorrow to help you with finish touches",
+  "client_msg_id": "b1917793-3015-4335-9a96-853b69e64c0d",
+  "edited": {
+    "user": "UDD2FUBLM",
+    "ts": "1540077663.000000"
+  },
+  "ts": "1540077632.000100",
+  "timestamp": 1540077632000,
+  "isoDate": "2018-10-20T23:20:32.000Z"
+},{
+  "type": "message",
+  "user": "UCKS28REH",
+  "text": "Thank you very much.",
+  "client_msg_id": "fffcff81-1e76-4ed3-89a6-fd5d882e5273",
+  "thread_ts": "1540076378.000100",
+  "parent_user_id": "UCKS28REH",
+  "ts": "1540077320.000100",
+  "timestamp": 1540077320000,
+  "isoDate": "2018-10-20T23:15:20.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "yes just drag and drop :wink:",
+  "client_msg_id": "de0ca65f-b314-4508-90ac-86c20c9ec6ec",
+  "thread_ts": "1540076378.000100",
+  "parent_user_id": "UCKS28REH",
+  "ts": "1540076930.000100",
+  "timestamp": 1540076930000,
+  "isoDate": "2018-10-20T23:08:50.000Z"
+},{
+  "type": "message",
+  "user": "UCKS28REH",
+  "text": "Can I copy a form that I designed in my private workspace to the HackUPC workspace?",
+  "client_msg_id": "9babbe54-19f4-4d84-8dad-4668c872f612",
+  "thread_ts": "1540076378.000100",
+  "parent_user_id": "UCKS28REH",
+  "ts": "1540076809.000100",
+  "timestamp": 1540076809000,
+  "isoDate": "2018-10-20T23:06:49.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "you should see `hackUPC` workspace on your account :wink:",
+  "client_msg_id": "d4fc018f-2dfe-40c0-bedb-8cb146c414fa",
+  "thread_ts": "1540076378.000100",
+  "parent_user_id": "UCKS28REH",
+  "ts": "1540076618.000100",
+  "timestamp": 1540076618000,
+  "isoDate": "2018-10-20T23:03:38.000Z"
+},{
+  "type": "message",
+  "user": "UCKS28REH",
+  "text": "Can you add me please to the pro workspace?\nHere is my email address\n<mailto:davooa@usi.ch|davooa@usi.ch>",
+  "client_msg_id": "0e932513-0843-425a-8357-51ba569f1d3f",
+  "thread_ts": "1540076378.000100",
+  "reply_count": 4,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1540076618.000100"
+    },
+    {
+      "user": "UCKS28REH",
+      "ts": "1540076809.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1540076930.000100"
+    },
+    {
+      "user": "UCKS28REH",
+      "ts": "1540077320.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 4,
+  "ts": "1540076378.000100",
+  "timestamp": 1540076378000,
+  "isoDate": "2018-10-20T22:59:38.000Z"
+},{
+  "type": "message",
+  "user": "UDHHQ3LE5",
+  "text": "Okay will do, cheers",
+  "client_msg_id": "5028ff15-53e4-4366-82df-2776407cee6e",
+  "ts": "1540076288.000100",
+  "timestamp": 1540076288000,
+  "isoDate": "2018-10-20T22:58:08.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "duplicate the form, and delete old one.",
+  "client_msg_id": "ca7bf0b0-7102-45ba-82cc-5ab3152b4750",
+  "edited": {
+    "user": "UDD2FUBLM",
+    "ts": "1540076050.000000"
+  },
+  "ts": "1540076042.000100",
+  "timestamp": 1540076042000,
+  "isoDate": "2018-10-20T22:54:02.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "they do keep trying",
+  "client_msg_id": "c812e7dc-0d4e-4a90-89c9-7355cb309fdc",
+  "ts": "1540076028.000100",
+  "timestamp": 1540076028000,
+  "isoDate": "2018-10-20T22:53:48.000Z"
+},{
+  "type": "message",
+  "user": "UDHHQ3LE5",
+  "text": "Is there anyway to start from a clean slate if thats the case",
+  "client_msg_id": "cd8ac7ee-7f70-4516-8321-f42d7c38128a",
+  "ts": "1540075383.000100",
+  "timestamp": 1540075383000,
+  "isoDate": "2018-10-20T22:43:03.000Z"
+},{
+  "type": "message",
+  "user": "UDHHQ3LE5",
+  "text": "<@UDD2FUBLM> That could possibly be it, do they keep retrying until they work?",
+  "client_msg_id": "29f0d4b4-c9b0-48ea-84ca-478176394d24",
+  "ts": "1540075372.000100",
+  "timestamp": 1540075372000,
+  "isoDate": "2018-10-20T22:42:52.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "<@UDHHQ3LE5> oh really? still happening?\nisnt happening because you had failed calls before, and now you have a working URL?",
+  "client_msg_id": "bc65e67c-78ae-494d-a668-913bbd637d50",
+  "ts": "1540074909.000100",
+  "timestamp": 1540074909000,
+  "isoDate": "2018-10-20T22:35:09.000Z"
+},{
+  "type": "message",
+  "user": "UCM1CUDUP",
+  "text": "Thank you so much :slightly_smiling_face:",
+  "client_msg_id": "d15c015c-76dd-4c56-a104-67f5bb3a8410",
+  "thread_ts": "1540044581.000100",
+  "parent_user_id": "UCM1CUDUP",
+  "ts": "1540072825.000100",
+  "timestamp": 1540072825000,
+  "isoDate": "2018-10-20T22:00:25.000Z"
+},{
+  "type": "message",
+  "user": "UDHHQ3LE5",
+  "text": "Has anyone had any issues with delayed or random webhooks? We think they might be from previous entries that just haven't gone through?",
+  "client_msg_id": "12f81e22-1b85-4426-8506-ccac35c559de",
+  "ts": "1540072561.000100",
+  "timestamp": 1540072561000,
+  "isoDate": "2018-10-20T21:56:01.000Z"
+},{
+  "type": "message",
+  "user": "UDE1A1NQL",
+  "text": "Remember that no matter who gets the prize tomorrow, we would love to publish your ideas on our Community page and help you write about them on our Engineering blog (links on this channel topic). Submit them on this typeform :arrow_down: so we can have a proper look when this madness has ended! :zany_face: <https://developerplatform.typeform.com/to/Xc7NMh?source=hackupc2018>",
+  "client_msg_id": "c3e44e58-c0f5-41c7-a824-d1af6d927dfd",
+  "attachments": [
+    {
+      "title": "Get Involved with Typeform's Developer Platform",
+      "title_link": "https://developerplatform.typeform.com/to/Xc7NMh?source=hackupc2018",
+      "text": "Turn data collection into an experience with Typeform. Create beautiful online forms, surveys, quizzes, and so much more. Try it for FREE.",
+      "fallback": "Get Involved with Typeform's Developer Platform",
+      "image_url": "https://admin.typeform.com/bundles/quickyformapp/images/meta_productpage.png",
+      "from_url": "https://developerplatform.typeform.com/to/Xc7NMh?source=hackupc2018",
+      "image_width": 476,
+      "image_height": 250,
+      "image_bytes": 86812,
+      "service_icon": "https://developerplatform.typeform.com/favicon.ico",
+      "service_name": "developerplatform.typeform.com",
+      "id": 1,
+      "original_url": "https://developerplatform.typeform.com/to/Xc7NMh?source=hackupc2018"
+    }
+  ],
+  "ts": "1540047973.000100",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "UCVGE7A9M"
+      ],
+      "count": 1
+    },
+    {
+      "name": "sparkles",
+      "users": [
+        "UDFQA9WN8"
+      ],
+      "count": 1
+    },
+    {
+      "name": "typeform",
+      "users": [
+        "UCAUGUX50"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540047973000,
+  "isoDate": "2018-10-20T15:06:13.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "Hey :slightly_smiling_face:\nyou should have received an email inviting you to a workspace",
+  "client_msg_id": "7d5542f4-86b2-4e07-9cd1-45842c69d788",
+  "thread_ts": "1540044581.000100",
+  "parent_user_id": "UCM1CUDUP",
+  "ts": "1540047162.000100",
+  "timestamp": 1540047162000,
+  "isoDate": "2018-10-20T14:52:42.000Z"
+},{
+  "type": "message",
+  "user": "UCM1CUDUP",
+  "text": "We also need a pro account. Our email is:pablomatgar@gmail.com",
+  "client_msg_id": "21307256-29FC-48C5-9386-97AA9608CFBD",
+  "thread_ts": "1540044581.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1540047162.000100"
+    },
+    {
+      "user": "UCM1CUDUP",
+      "ts": "1540072825.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1540044581.000100",
+  "timestamp": 1540044581000,
+  "isoDate": "2018-10-20T14:09:41.000Z"
+},{
+  "type": "message",
+  "user": "UCLQG3TE3",
+  "text": "Hey, please could I get a pro account? My email is <mailto:sairahassan97@hotmail.com|sairahassan97@hotmail.com>",
+  "client_msg_id": "a749eabc-d0f9-4c3e-8fe2-2cfa40a66364",
+  "ts": "1540043598.000100",
+  "timestamp": 1540043598000,
+  "isoDate": "2018-10-20T13:53:18.000Z"
+},{
+  "type": "message",
+  "user": "UDE1A1NQL",
+  "text": "Extra help! :arrow_right: On our Community page (<https://developer.typeform.com/community/>) there are some projects you can have a look at or fork using Lambda, Ruby, JS... :candy: ",
+  "client_msg_id": "5bd5c96c-f101-4063-b864-999774f086c2",
+  "attachments": [
+    {
+      "title": "Community projects - Typeform's Developer Platform",
+      "title_link": "https://developer.typeform.com/community/",
+      "fallback": "Community projects - Typeform's Developer Platform",
+      "image_url": "https://developer.typeform.com/static/social-share.1dbdba17.png",
+      "from_url": "https://developer.typeform.com/community/",
+      "image_width": 500,
+      "image_height": 250,
+      "image_bytes": 53613,
+      "service_name": "developer.typeform.com",
+      "id": 1,
+      "original_url": "https://developer.typeform.com/community/"
+    }
+  ],
+  "ts": "1540040055.000100",
+  "reactions": [
+    {
+      "name": "dealwithitparrot",
+      "users": [
+        "UDFQA9WN8"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540040055000,
+  "isoDate": "2018-10-20T12:54:15.000Z"
+},{
+  "type": "message",
+  "user": "UDE1A1NQL",
+  "text": "Woohoo! Thank you pal! We will ping you in a few days to see how we can help you to promote it :rocket: ",
+  "client_msg_id": "dfad584f-b501-42f3-b2e5-d7e7b0403acc",
+  "thread_ts": "1539607305.000100",
+  "parent_user_id": "UDE1A1NQL",
+  "ts": "1540039372.000100",
+  "timestamp": 1540039372000,
+  "isoDate": "2018-10-20T12:42:52.000Z"
+},{
+  "type": "message",
+  "user": "UCAUGUX50",
+  "text": "I filled in the Get Involved form with my project :tada::typeform:",
+  "client_msg_id": "9e8d1a23-cfe5-498a-8350-aaa7c01fe4b9",
+  "thread_ts": "1539607305.000100",
+  "parent_user_id": "UDE1A1NQL",
+  "ts": "1540035854.000100",
+  "timestamp": 1540035854000,
+  "isoDate": "2018-10-20T11:44:14.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "Feel free to stop by to tell us about your hack :)",
+  "client_msg_id": "5FA0B09D-942F-423C-B60A-234ED8F984DB",
+  "thread_ts": "1540028806.000100",
+  "parent_user_id": "UDG99PYBZ",
+  "ts": "1540029600.000100",
+  "timestamp": 1540029600000,
+  "isoDate": "2018-10-20T10:00:00.000Z"
+},{
+  "type": "message",
+  "user": "UDG99PYBZ",
+  "text": "Thanks!!!",
+  "client_msg_id": "128bf1d7-7183-4d99-a526-e3b5aed746b7",
+  "thread_ts": "1540028806.000100",
+  "parent_user_id": "UDG99PYBZ",
+  "ts": "1540029478.000100",
+  "timestamp": 1540029478000,
+  "isoDate": "2018-10-20T09:57:58.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "you should have received an email :wink:",
+  "client_msg_id": "87be185a-42ed-40fe-b1e8-5a6d9af25139",
+  "thread_ts": "1540028806.000100",
+  "parent_user_id": "UDG99PYBZ",
+  "ts": "1540029237.000100",
+  "timestamp": 1540029237000,
+  "isoDate": "2018-10-20T09:53:57.000Z"
+},{
+  "type": "message",
+  "text": "If someone needs a mentor here is <@UDFQA9WN8> for you all",
+  "files": [
+    {
+      "id": "FDJJ7DH8S",
+      "created": 1540029076,
+      "timestamp": 1540029076,
+      "name": "IMG_20181020_114109_1.jpg",
+      "title": "IMG_20181020_114109_1.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UDE1A1NQL",
+      "editable": false,
+      "size": 2479083,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJJ7DH8S/img_20181020_114109_1.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJJ7DH8S/download/img_20181020_114109_1.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_360.jpg",
+      "thumb_360_w": 270,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_480.jpg",
+      "thumb_480_w": 360,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_720.jpg",
+      "thumb_720_w": 540,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1067,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_960.jpg",
+      "thumb_960_w": 720,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJJ7DH8S-2eb3736bdb/img_20181020_114109_1_1024.jpg",
+      "thumb_1024_w": 768,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 2736,
+      "original_h": 3648,
+      "permalink": "https://hackupc2018.slack.com/files/UDE1A1NQL/FDJJ7DH8S/img_20181020_114109_1.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJJ7DH8S-ca6e45f253"
+    }
+  ],
+  "upload": true,
+  "user": "UDE1A1NQL",
+  "display_as_bot": false,
+  "client_msg_id": "96701574-0bd3-4972-83f2-aea7844303ba",
+  "ts": "1540029084.000100",
+  "timestamp": 1540029084000,
+  "isoDate": "2018-10-20T09:51:24.000Z"
+},{
+  "type": "message",
+  "user": "UD5B77B9U",
+  "text": "<mailto:freddiejbawden@gmail.com|freddiejbawden@gmail.com>",
+  "client_msg_id": "7cebc97d-b566-43fd-9021-624b3e1c25ec",
+  "thread_ts": "1540025657.000100",
+  "parent_user_id": "UD5B77B9U",
+  "ts": "1540028843.000100",
+  "timestamp": 1540028843000,
+  "isoDate": "2018-10-20T09:47:23.000Z"
+},{
+  "type": "message",
+  "user": "UDG99PYBZ",
+  "text": "Thanks!",
+  "client_msg_id": "5a5b34d5-aae7-4ec4-9d44-a29f1acac63a",
+  "ts": "1540028812.000100",
+  "timestamp": 1540028812000,
+  "isoDate": "2018-10-20T09:46:52.000Z"
+},{
+  "type": "message",
+  "user": "UDG99PYBZ",
+  "text": "Hey, I would like a pro account! My mail is <mailto:alvaromr898@gmail.com|alvaromr898@gmail.com>",
+  "client_msg_id": "abed2976-9922-488b-921d-4e8c1e524749",
+  "thread_ts": "1540028806.000100",
+  "reply_count": 3,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1540029237.000100"
+    },
+    {
+      "user": "UDG99PYBZ",
+      "ts": "1540029478.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1540029600.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 3,
+  "ts": "1540028806.000100",
+  "timestamp": 1540028806000,
+  "isoDate": "2018-10-20T09:46:46.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "What’s your email?",
+  "client_msg_id": "805FB72E-63FE-453B-8491-AF4F724E024F",
+  "thread_ts": "1540025657.000100",
+  "parent_user_id": "UD5B77B9U",
+  "ts": "1540027195.000100",
+  "timestamp": 1540027195000,
+  "isoDate": "2018-10-20T09:19:55.000Z"
+},{
+  "type": "message",
+  "user": "UD5B77B9U",
+  "text": "hey, can I upgrade my account so I can use hidden fields?",
+  "client_msg_id": "ead34e62-955c-4d0a-8b55-c8fb7e2023b7",
+  "thread_ts": "1540025657.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1540027195.000100"
+    },
+    {
+      "user": "UD5B77B9U",
+      "ts": "1540028843.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1540025657.000100",
+  "timestamp": 1540025657000,
+  "isoDate": "2018-10-20T08:54:17.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": ":wave: \nWill probably be there in an hour or two, until then feel free to post here ",
+  "client_msg_id": "AE6842F2-1EF4-44D3-8D79-DBE0BB4FC43C",
+  "ts": "1540020479.000100",
+  "timestamp": 1540020479000,
+  "isoDate": "2018-10-20T07:27:59.000Z"
+},{
+  "user": "UDE1A1NQL",
+  "topic": ":hammer_and_wrench: <https://developer.typeform.com/> :bulb:<https://developer.typeform.com/community/> :rolled_up_newspaper:  <https://medium.com/typeforms-engineering-blog>",
+  "text": "<@UDE1A1NQL> set the channel topic: :hammer_and_wrench: <https://developer.typeform.com/> :bulb:<https://developer.typeform.com/community/> :rolled_up_newspaper:  <https://medium.com/typeforms-engineering-blog>",
+  "type": "message",
+  "subtype": "channel_topic",
+  "ts": "1540020027.000100",
+  "timestamp": 1540020027000,
+  "isoDate": "2018-10-20T07:20:27.000Z"
+},{
+  "type": "message",
+  "user": "UCKN6DZB4",
+  "text": "thank you",
+  "client_msg_id": "16bbbe6a-a1ef-4a86-94a7-9e95ed7064ef",
+  "thread_ts": "1539998445.000100",
+  "parent_user_id": "UCKN6DZB4",
+  "ts": "1539999931.000100",
+  "timestamp": 1539999931000,
+  "isoDate": "2018-10-20T01:45:31.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "done :slightly_smiling_face:",
+  "client_msg_id": "3f1cff8c-bbbe-4797-8137-10f15878f601",
+  "thread_ts": "1539998445.000100",
+  "parent_user_id": "UCKN6DZB4",
+  "ts": "1539998744.000100",
+  "timestamp": 1539998744000,
+  "isoDate": "2018-10-20T01:25:44.000Z"
+},{
+  "type": "message",
+  "user": "UCKN6DZB4",
+  "text": "<mailto:j23barsa@gmail.com|j23barsa@gmail.com>",
+  "client_msg_id": "15011d02-8df2-4428-b0cf-e9c1d30ba1a2",
+  "thread_ts": "1539998445.000100",
+  "parent_user_id": "UCKN6DZB4",
+  "ts": "1539998610.000100",
+  "timestamp": 1539998610000,
+  "isoDate": "2018-10-20T01:23:30.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "whats your email for your typeform account?",
+  "client_msg_id": "b37dedf1-6ad9-4785-89cd-754eb1ffd0e9",
+  "edited": {
+    "user": "UDD2FUBLM",
+    "ts": "1539998524.000000"
+  },
+  "thread_ts": "1539998445.000100",
+  "parent_user_id": "UCKN6DZB4",
+  "ts": "1539998464.000100",
+  "timestamp": 1539998464000,
+  "isoDate": "2018-10-20T01:21:04.000Z"
+},{
+  "type": "message",
+  "user": "UCKN6DZB4",
+  "text": "hi i would like to upgrade the account",
+  "client_msg_id": "a5dd0bb3-5732-4896-905f-4b76063a23ce",
+  "thread_ts": "1539998445.000100",
+  "reply_count": 4,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539998464.000100"
+    },
+    {
+      "user": "UCKN6DZB4",
+      "ts": "1539998610.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539998744.000100"
+    },
+    {
+      "user": "UCKN6DZB4",
+      "ts": "1539999931.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 4,
+  "ts": "1539998445.000100",
+  "timestamp": 1539998445000,
+  "isoDate": "2018-10-20T01:20:45.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "Post it here or by DM",
+  "client_msg_id": "21AA1392-BFB4-4B05-907F-B6A5517F17DD",
+  "ts": "1539995616.000100",
+  "timestamp": 1539995616000,
+  "isoDate": "2018-10-20T00:33:36.000Z"
+},{
+  "type": "message",
+  "user": "UD5EV3M9C",
+  "text": "don’t worry, can wait for tomorrow!",
+  "client_msg_id": "a30d9007-1456-4e16-8829-5ec062a164d2",
+  "ts": "1539995036.000100",
+  "timestamp": 1539995036000,
+  "isoDate": "2018-10-20T00:23:56.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "Hey y’all \nWe are about to head out with <@UDFQA9WN8>\nAnybody needs some help right now? Or upgrade their account?",
+  "client_msg_id": "ED33D11D-5181-463A-91D0-9B74D2BD4C13",
+  "ts": "1539993722.000100",
+  "timestamp": 1539993722000,
+  "isoDate": "2018-10-20T00:02:02.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "Yeah at the booth :) <@UD5EV3M9C> ",
+  "client_msg_id": "4DCC92C1-A184-4439-988E-84E2F97FFE9B",
+  "ts": "1539992417.000100",
+  "timestamp": 1539992417000,
+  "isoDate": "2018-10-19T23:40:17.000Z"
+},{
+  "type": "message",
+  "user": "UD5EV3M9C",
+  "text": "I have some questions about an integration on one of my projects",
+  "client_msg_id": "61b71284-f8b5-4fad-8968-c8f76353d01c",
+  "ts": "1539991918.000100",
+  "timestamp": 1539991918000,
+  "isoDate": "2018-10-19T23:31:58.000Z"
+},{
+  "type": "message",
+  "user": "UD5EV3M9C",
+  "text": "Hey! When are you available to chat? :smiley:",
+  "client_msg_id": "88bdcfa0-6794-43bd-bf61-db2ef0f89438",
+  "ts": "1539991888.000100",
+  "timestamp": 1539991888000,
+  "isoDate": "2018-10-19T23:31:28.000Z"
+},{
+  "type": "message",
+  "user": "UDFQA9WN8",
+  "text": "Hey. I’m here on case you need help!",
+  "client_msg_id": "35C9F64E-731E-4E45-AA93-FB9E29C6A00C",
+  "thread_ts": "1539988167.000100",
+  "parent_user_id": "UCMBTU6DU",
+  "ts": "1539991499.000100",
+  "timestamp": 1539991499000,
+  "isoDate": "2018-10-19T23:24:59.000Z"
+},{
+  "type": "message",
+  "user": "UDFQA9WN8",
+  "text": "Going there",
+  "client_msg_id": "309E4961-E8FF-44B9-A725-A2D5E0417E45",
+  "thread_ts": "1539988167.000100",
+  "parent_user_id": "UCMBTU6DU",
+  "ts": "1539991405.000100",
+  "timestamp": 1539991405000,
+  "isoDate": "2018-10-19T23:23:25.000Z"
+},{
+  "type": "message",
+  "user": "UCMBTU6DU",
+  "text": "Ohh dammit We missed your talk.. Right now I am back at your table :smile:",
+  "client_msg_id": "c2971499-72b7-461d-ab9a-35548b4a4bc7",
+  "thread_ts": "1539988167.000100",
+  "parent_user_id": "UCMBTU6DU",
+  "ts": "1539991246.000100",
+  "timestamp": 1539991246000,
+  "isoDate": "2018-10-19T23:20:46.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "and make sure you give understandable names to forms, dont leave it “new typeform” :stuck_out_tongue:",
+  "client_msg_id": "1e329ea4-454b-4483-a90a-2390a35bdc6b",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539990255.000100",
+  "timestamp": 1539990255000,
+  "isoDate": "2018-10-19T23:04:15.000Z"
+},{
+  "type": "message",
+  "user": "UCVU79ZEC",
+  "text": "thanks, and don't worry :heart:",
+  "client_msg_id": "eb631976-e676-4cb7-a8fb-bb199252cc8f",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539989922.000100",
+  "timestamp": 1539989922000,
+  "isoDate": "2018-10-19T22:58:42.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": ":warning: Dont mess with other people forms, please :pray:  :wink:",
+  "client_msg_id": "f054f9b7-c891-4d7b-829f-80790490ecee",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539989862.000100",
+  "timestamp": 1539989862000,
+  "isoDate": "2018-10-19T22:57:42.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "where you will have access to PRO features",
+  "client_msg_id": "a97cdbf1-f039-4cde-99f9-326459e7432f",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539989848.000100",
+  "timestamp": 1539989848000,
+  "isoDate": "2018-10-19T22:57:28.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "<@UCVU79ZEC> you should have received an invitation to a workspace",
+  "client_msg_id": "c561e6c1-8a9e-4146-91f4-106e029d41dd",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539989841.000100",
+  "timestamp": 1539989841000,
+  "isoDate": "2018-10-19T22:57:21.000Z"
+},{
+  "type": "message",
+  "user": "UCVU79ZEC",
+  "text": "can i have a Pro account too? my email is <mailto:aleixsanchis@hotmail.com|aleixsanchis@hotmail.com>",
+  "client_msg_id": "5938189c-c427-4d55-a85f-f9668d36bfb4",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539989794.000100",
+  "timestamp": 1539989794000,
+  "isoDate": "2018-10-19T22:56:34.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "hey :slightly_smiling_face:\nwhats your email on typeform?",
+  "client_msg_id": "c2a43b6d-bfb2-4126-bbe9-abc26a79f809",
+  "thread_ts": "1539987359.000100",
+  "parent_user_id": "UDHHQ3LE5",
+  "ts": "1539989659.000100",
+  "timestamp": 1539989659000,
+  "isoDate": "2018-10-19T22:54:19.000Z"
+},{
+  "type": "message",
+  "user": "UDFQA9WN8",
+  "text": "In the meantime. This article might help you embed your typeform <https://www.typeform.com/help/embed-a-typeform/>",
+  "client_msg_id": "E316F5D3-B37E-429A-89CF-4191D3124404",
+  "attachments": [
+    {
+      "service_name": "Typeform - Help Center",
+      "title": "Embed a Typeform | Typeform Help Center",
+      "title_link": "https://www.typeform.com/help/embed-a-typeform/",
+      "text": "How to embed your typeform. Find out how to avoid embedding issues and make sure your typeform looks great wherever you publish it.",
+      "fallback": "Typeform - Help Center: Embed a Typeform | Typeform Help Center",
+      "thumb_url": "https://d1nt04ao0vck22.cloudfront.net/img/footer-collage/6-pictures.jpg?v=2",
+      "ts": 1436293230,
+      "from_url": "https://www.typeform.com/help/embed-a-typeform/",
+      "thumb_width": 630,
+      "thumb_height": 329,
+      "service_icon": "https://d1nt04ao0vck22.cloudfront.net/img/icons/apple-touch-icon-57x57.png?v=2",
+      "id": 1,
+      "original_url": "https://www.typeform.com/help/embed-a-typeform/"
+    }
+  ],
+  "thread_ts": "1539988167.000100",
+  "parent_user_id": "UCMBTU6DU",
+  "ts": "1539989460.000200",
+  "timestamp": 1539989460000,
+  "isoDate": "2018-10-19T22:51:00.000Z"
+},{
+  "type": "message",
+  "user": "UDFQA9WN8",
+  "text": "Hey, we were at our talk. Where are you now? We can find you :)",
+  "client_msg_id": "57FE3DE5-1995-4CA2-AEAF-4653FFB76BC8",
+  "thread_ts": "1539988167.000100",
+  "parent_user_id": "UCMBTU6DU",
+  "ts": "1539989406.000100",
+  "timestamp": 1539989406000,
+  "isoDate": "2018-10-19T22:50:06.000Z"
+},{
+  "type": "message",
+  "user": "UCMBTU6DU",
+  "text": "Hi, I need some help to embed typeform on my page. I couldnt find you guys at your table.. also how can i use the input directly?",
+  "client_msg_id": "756d84a8-2cd1-4956-b07a-45e601b0aef0",
+  "thread_ts": "1539988167.000100",
+  "reply_count": 5,
+  "replies": [
+    {
+      "user": "UDFQA9WN8",
+      "ts": "1539989406.000100"
+    },
+    {
+      "user": "UDFQA9WN8",
+      "ts": "1539989460.000200"
+    },
+    {
+      "user": "UCMBTU6DU",
+      "ts": "1539991246.000100"
+    },
+    {
+      "user": "UDFQA9WN8",
+      "ts": "1539991405.000100"
+    },
+    {
+      "user": "UDFQA9WN8",
+      "ts": "1539991499.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 5,
+  "ts": "1539988167.000100",
+  "timestamp": 1539988167000,
+  "isoDate": "2018-10-19T22:29:27.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "<https://docs.google.com/presentation/d/1b_rlt8Rdw9U_rXW7ljG3p1-R9qqbb9GHa9Icf7UBHqk/edit?usp=sharing>",
+  "client_msg_id": "e9b6f796-05d0-4add-ab6d-30ddf1989011",
+  "ts": "1539987826.000200",
+  "timestamp": 1539987826000,
+  "isoDate": "2018-10-19T22:23:46.000Z"
+},{
+  "type": "message",
+  "user": "UDHHQ3LE5",
+  "text": "Is there anyway to get a Pro account as a student temporarily, I need access to functionality that is apparently locked away for pro accounts :disappointed:",
+  "client_msg_id": "c78790d5-402c-4e86-b46b-8827f3fca39c",
+  "thread_ts": "1539987359.000100",
+  "reply_count": 7,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539989659.000100"
+    },
+    {
+      "user": "UCVU79ZEC",
+      "ts": "1539989794.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539989841.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539989848.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539989862.000100"
+    },
+    {
+      "user": "UCVU79ZEC",
+      "ts": "1539989922.000100"
+    },
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539990255.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 7,
+  "ts": "1539987359.000100",
+  "timestamp": 1539987359000,
+  "isoDate": "2018-10-19T22:15:59.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hello :wave: typeform's talk will take place on A5002 ",
+  "client_msg_id": "de3d68e1-d391-4575-8d0d-1d0ff1b9d745",
+  "ts": "1539986237.000100",
+  "timestamp": 1539986237000,
+  "isoDate": "2018-10-19T21:57:17.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "looking at others talks, looks like it’s either `A5001` or `A5002`",
+  "client_msg_id": "2c8a3ffa-9afc-4b99-929b-62fb2c11c9b7",
+  "thread_ts": "1539983857.000100",
+  "parent_user_id": "UC99RD6R2",
+  "ts": "1539985228.000100",
+  "timestamp": 1539985228000,
+  "isoDate": "2018-10-19T21:40:28.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "ping <@UC92J4S2G>?",
+  "client_msg_id": "b24a0088-3a87-4cb7-8f34-c93cac9501a0",
+  "ts": "1539984759.000100",
+  "timestamp": 1539984759000,
+  "isoDate": "2018-10-19T21:32:39.000Z"
+},{
+  "type": "message",
+  "user": "UC99RD6R2",
+  "text": "Hello, when and where is the API 101 talk? Thank you!",
+  "client_msg_id": "e2586b3c-8ad4-4ab6-b332-1e68cc34311c",
+  "thread_ts": "1539983857.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDD2FUBLM",
+      "ts": "1539985228.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539983857.000100",
+  "timestamp": 1539983857000,
+  "isoDate": "2018-10-19T21:17:37.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "Resources for Typeform APIs :slightly_smiling_face:\n<https://gist.github.com/picsoung/c445c2a2d0a54483ba07bee3c2d9425e>",
+  "client_msg_id": "6b2f75af-3cd3-4dc5-afb9-496ba78fff33",
+  "ts": "1539982755.000100",
+  "timestamp": 1539982755000,
+  "isoDate": "2018-10-19T20:59:15.000Z"
+},{
+  "type": "message",
+  "user": "UDE1WT23B",
+  "text": "Hey <@UDH059HUL> A5 at the end of the hall ",
+  "client_msg_id": "1182FC62-B379-423A-AC49-421D75F5730E",
+  "ts": "1539979604.000100",
+  "timestamp": 1539979604000,
+  "isoDate": "2018-10-19T20:06:44.000Z"
+},{
+  "type": "message",
+  "user": "UDH059HUL",
+  "text": "Hello Typeform! Where can I find your stand? ",
+  "client_msg_id": "833e6cc5-ab20-4c42-ba67-763ed608aafc",
+  "ts": "1539979295.000100",
+  "timestamp": 1539979295000,
+  "isoDate": "2018-10-19T20:01:35.000Z"
+},{
+  "user": "UCMA50GD8",
+  "text": "<@UCMA50GD8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539960156.000200",
+  "timestamp": 1539960156000,
+  "isoDate": "2018-10-19T14:42:36.000Z"
+},{
+  "user": "UDH059HUL",
+  "text": "<@UDH059HUL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539873906.000200",
+  "timestamp": 1539873906000,
+  "isoDate": "2018-10-18T14:45:06.000Z"
+},{
+  "user": "UCUAH22F6",
+  "text": "<@UCUAH22F6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539865930.000200",
+  "timestamp": 1539865930000,
+  "isoDate": "2018-10-18T12:32:10.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779965.000200",
+  "timestamp": 1539779965000,
+  "isoDate": "2018-10-17T12:39:25.000Z"
+},{
+  "user": "UDFQA9WN8",
+  "text": "<@UDFQA9WN8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539762374.000200",
+  "timestamp": 1539762374000,
+  "isoDate": "2018-10-17T07:46:14.000Z"
+},{
+  "user": "UCBAEJR7H",
+  "text": "<@UCBAEJR7H> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539717761.000200",
+  "timestamp": 1539717761000,
+  "isoDate": "2018-10-16T19:22:41.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659037.000200",
+  "timestamp": 1539659037000,
+  "isoDate": "2018-10-16T03:03:57.000Z"
+},{
+  "user": "UDE1WT23B",
+  "text": "<@UDE1WT23B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539629763.000200",
+  "timestamp": 1539629763000,
+  "isoDate": "2018-10-15T18:56:03.000Z"
+},{
+  "type": "message",
+  "user": "UDE1A1NQL",
+  "text": "Hello everyone! I’m Eva from :typeform:, previously Dev Community Manager and now CoS to the CTO. If you build something with our APIs let us know and we will publish your project on our Dev Portal’s community page and help you write an article about it on our Engineering blog :brain: <http://bit.ly/2CNuDV6>",
+  "client_msg_id": "e36b3082-2b65-4d03-9d39-9ff49c6e2db4",
+  "attachments": [
+    {
+      "service_name": "Medium",
+      "title": "Typeform's Engineering Blog – Medium",
+      "title_link": "https://medium.com/typeforms-engineering-blog",
+      "text": "Engineer-provoking. A little witty. Definitely nerdy. Sometimes revelational. In code -and humans- we trust. → <https://developer.typeform.com/>.",
+      "fallback": "Medium: Typeform's Engineering Blog – Medium",
+      "from_url": "https://medium.com/typeforms-engineering-blog",
+      "thumb_url": "https://cdn-images-1.medium.com/max/1200/1*xkqAPmcs7BYaJXvWi5zO5A.png",
+      "thumb_width": 163,
+      "thumb_height": 163,
+      "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*xkqAPmcs7BYaJXvWi5zO5A.png",
+      "id": 1,
+      "original_url": "https://medium.com/typeforms-engineering-blog"
+    }
+  ],
+  "edited": {
+    "user": "UDE1A1NQL",
+    "ts": "1539607512.000000"
+  },
+  "thread_ts": "1539607305.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UCAUGUX50",
+      "ts": "1540035854.000100"
+    },
+    {
+      "user": "UDE1A1NQL",
+      "ts": "1540039372.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1539607305.000100",
+  "reactions": [
+    {
+      "name": "heart",
+      "users": [
+        "UC8ST2GMV"
+      ],
+      "count": 1
+    },
+    {
+      "name": "wave",
+      "users": [
+        "UCVU0EYFR"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539607305000,
+  "isoDate": "2018-10-15T12:41:45.000Z"
+},{
+  "user": "UDE1A1NQL",
+  "text": "<@UDE1A1NQL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539596353.000200",
+  "timestamp": 1539596353000,
+  "isoDate": "2018-10-15T09:39:13.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514178.000200",
+  "timestamp": 1539514178000,
+  "isoDate": "2018-10-14T10:49:38.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539443529.000200",
+  "timestamp": 1539443529000,
+  "isoDate": "2018-10-13T15:12:09.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373664.000200",
+  "timestamp": 1539373664000,
+  "isoDate": "2018-10-12T19:47:44.000Z"
+},{
+  "user": "UCTTFQU9X",
+  "text": "<@UCTTFQU9X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539352748.000200",
+  "timestamp": 1539352748000,
+  "isoDate": "2018-10-12T13:59:08.000Z"
+},{
+  "user": "UCLSQ3CBD",
+  "text": "<@UCLSQ3CBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539349395.000200",
+  "timestamp": 1539349395000,
+  "isoDate": "2018-10-12T13:03:15.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "let me know if you have any questions :slightly_smiling_face:",
+  "client_msg_id": "7505617c-d576-4a30-ac11-3ad7a09ab25a",
+  "ts": "1539340921.000100",
+  "timestamp": 1539340921000,
+  "isoDate": "2018-10-12T10:42:01.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "You can check our APIs here <https://developer.typeform.com>",
+  "client_msg_id": "9904fc33-f416-4d3d-bb3d-56e4c1694676",
+  "attachments": [
+    {
+      "title": "Typeform's Developer Platform",
+      "title_link": "https://developer.typeform.com/",
+      "fallback": "Typeform's Developer Platform",
+      "image_url": "https://developer.typeform.com/static/social-share.1dbdba17.png",
+      "from_url": "https://developer.typeform.com/",
+      "image_width": 500,
+      "image_height": 250,
+      "image_bytes": 53613,
+      "service_name": "developer.typeform.com",
+      "id": 1,
+      "original_url": "https://developer.typeform.com"
+    }
+  ],
+  "ts": "1539340913.000100",
+  "reactions": [
+    {
+      "name": "parrot",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC7UPACMT",
+        "UDE1A1NQL"
+      ],
+      "count": 4
+    },
+    {
+      "name": "mario_luigi_dance",
+      "users": [
+        "UDE1A1NQL"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539340913000,
+  "isoDate": "2018-10-12T10:41:53.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": "hello folks :smile:\nI am Nicolas, Developer Advocate at Typeform",
+  "client_msg_id": "1e35fff4-8a6e-402c-9a06-185d205163d6",
+  "ts": "1539340504.000100",
+  "timestamp": 1539340504000,
+  "isoDate": "2018-10-12T10:35:04.000Z"
+},{
+  "type": "message",
+  "user": "UDD2FUBLM",
+  "text": ":wave:",
+  "client_msg_id": "7d4199a9-02ff-4155-97a3-2443c3b896ec",
+  "ts": "1539340492.000100",
+  "timestamp": 1539340492000,
+  "isoDate": "2018-10-12T10:34:52.000Z"
+},{
+  "user": "UDD2FUBLM",
+  "text": "<@UDD2FUBLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539340382.000200",
+  "timestamp": 1539340382000,
+  "isoDate": "2018-10-12T10:33:02.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169053.000200",
+  "timestamp": 1539169053000,
+  "isoDate": "2018-10-10T10:57:33.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539070957.000200",
+  "timestamp": 1539070957000,
+  "isoDate": "2018-10-09T07:42:37.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736877.000200",
+  "timestamp": 1538736877000,
+  "isoDate": "2018-10-05T10:54:37.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538733374.000200",
+  "timestamp": 1538733374000,
+  "isoDate": "2018-10-05T09:56:14.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Typeform's channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Typeform's channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1538427217.000100",
+  "timestamp": 1538427217000,
+  "isoDate": "2018-10-01T20:53:37.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538427193.000200",
+  "timestamp": 1538427193000,
+  "isoDate": "2018-10-01T20:53:13.000Z"
+}]

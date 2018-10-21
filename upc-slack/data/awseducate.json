@@ -1,0 +1,666 @@
+[
+{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "I have took a break, but right now I will retry",
+  "client_msg_id": "5192d29b-d123-405a-95b1-e41c1cc1518c",
+  "thread_ts": "1540070826.000100",
+  "parent_user_id": "UDCT6CY79",
+  "ts": "1540074049.000100",
+  "timestamp": 1540074049000,
+  "isoDate": "2018-10-20T22:20:49.000Z"
+},{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "Hi! I couldn't...",
+  "client_msg_id": "311f5d92-d418-4cf6-bd21-8a0aa2650c11",
+  "thread_ts": "1540070826.000100",
+  "parent_user_id": "UDCT6CY79",
+  "ts": "1540074028.000100",
+  "timestamp": 1540074028000,
+  "isoDate": "2018-10-20T22:20:28.000Z"
+},{
+  "type": "message",
+  "user": "UCWP8SFNF",
+  "text": "have you solved the problem <@UCKN0503D>? I'm by no means an expert, but maybe I can help with that",
+  "client_msg_id": "d879d0ed-2d5f-4a74-962f-7b36f1388b6c",
+  "thread_ts": "1540070826.000100",
+  "parent_user_id": "UDCT6CY79",
+  "ts": "1540072521.000100",
+  "timestamp": 1540072521000,
+  "isoDate": "2018-10-20T21:55:21.000Z"
+},{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "I'm trying to solve it but nothing....",
+  "client_msg_id": "7180e7ce-4e1b-4fa0-a8d5-d07f3335beb8",
+  "thread_ts": "1540070826.000100",
+  "parent_user_id": "UDCT6CY79",
+  "ts": "1540071055.000100",
+  "timestamp": 1540071055000,
+  "isoDate": "2018-10-20T21:30:55.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "Happy Hacking guys! ",
+  "client_msg_id": "2EB894B2-BB95-46FA-8878-293748B71557",
+  "ts": "1540071044.000100",
+  "timestamp": 1540071044000,
+  "isoDate": "2018-10-20T21:30:44.000Z"
+},{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "no he podido resolverlo todavia....",
+  "client_msg_id": "b56948c5-3981-415f-b3aa-2da203037050",
+  "thread_ts": "1540070826.000100",
+  "parent_user_id": "UDCT6CY79",
+  "ts": "1540071023.000100",
+  "timestamp": 1540071023000,
+  "isoDate": "2018-10-20T21:30:23.000Z"
+},{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "Hola Juan",
+  "client_msg_id": "ee9d8d61-c323-459f-b2ae-b5a24c3a3dba",
+  "thread_ts": "1540070826.000100",
+  "parent_user_id": "UDCT6CY79",
+  "ts": "1540071013.000100",
+  "timestamp": 1540071013000,
+  "isoDate": "2018-10-20T21:30:13.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "<@UDCT6CY79> yes! Thanks!! We are enjoying serverless",
+  "client_msg_id": "f44b81db-d0fd-4598-9162-218e0217792f",
+  "ts": "1540070880.000100",
+  "timestamp": 1540070880000,
+  "isoDate": "2018-10-20T21:28:00.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UCK2VED16> <@UCKN0503D> did you solve the issue?",
+  "client_msg_id": "A43B9C72-EDA3-44A6-A068-3C99D00FF35D",
+  "thread_ts": "1540070826.000100",
+  "reply_count": 6,
+  "replies": [
+    {
+      "user": "UCKN0503D",
+      "ts": "1540071013.000100"
+    },
+    {
+      "user": "UCKN0503D",
+      "ts": "1540071023.000100"
+    },
+    {
+      "user": "UCKN0503D",
+      "ts": "1540071055.000100"
+    },
+    {
+      "user": "UCWP8SFNF",
+      "ts": "1540072521.000100"
+    },
+    {
+      "user": "UCKN0503D",
+      "ts": "1540074028.000100"
+    },
+    {
+      "user": "UCKN0503D",
+      "ts": "1540074049.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 6,
+  "ts": "1540070826.000100",
+  "timestamp": 1540070826000,
+  "isoDate": "2018-10-20T21:27:06.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UD3G0CV41> already responded privately! ",
+  "client_msg_id": "FF4003D0-FE9F-46EB-82B9-D27EF8ADEADB",
+  "ts": "1540070801.000100",
+  "timestamp": 1540070801000,
+  "isoDate": "2018-10-20T21:26:41.000Z"
+},{
+  "type": "message",
+  "user": "UD3G0CV41",
+  "text": "Is there any promo code for credits??",
+  "client_msg_id": "5b0b88e3-7e65-4d91-8a92-4120633fa39e",
+  "ts": "1540066181.000100",
+  "timestamp": 1540066181000,
+  "isoDate": "2018-10-20T20:09:41.000Z"
+},{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "Thanks! :blush:",
+  "client_msg_id": "0b6ab303-fb6b-495b-914b-6b09d8952b3d",
+  "ts": "1540064118.000100",
+  "timestamp": 1540064118000,
+  "isoDate": "2018-10-20T19:35:18.000Z"
+},{
+  "type": "message",
+  "user": "UCKN0503D",
+  "text": "Hi! I have a problem when I'm trying to write into the  dynamoDB from lambda function. When I execute the code of my function, it seems to work well, but when I go to the DB it's completely empty. Someone have an idea what can it be?",
+  "client_msg_id": "81000839-b904-4d3d-8d35-25550589c78c",
+  "ts": "1540064113.000100",
+  "timestamp": 1540064113000,
+  "isoDate": "2018-10-20T19:35:13.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "Any idea?¿",
+  "client_msg_id": "72c6511a-33f9-4ba2-b995-1a8922faab6b",
+  "ts": "1540058188.000100",
+  "timestamp": 1540058188000,
+  "isoDate": "2018-10-20T17:56:28.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "botocore.exceptions.NoRegionError: You must specify a region. Error when I deploy",
+  "client_msg_id": "0839e170-e934-479e-8b3b-f119c6e59d7f",
+  "ts": "1540058181.000100",
+  "timestamp": 1540058181000,
+  "isoDate": "2018-10-20T17:56:21.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<https://github.com/carloscarcamo/aws-lambda-unzip-py>",
+  "client_msg_id": "be49ffdb-ec3f-4f94-aa23-8b4b421e19a5",
+  "attachments": [
+    {
+      "service_name": "GitHub",
+      "title": "carloscarcamo/aws-lambda-unzip-py",
+      "title_link": "https://github.com/carloscarcamo/aws-lambda-unzip-py",
+      "text": "AWS Lambda function to extract zip files uploaded to S3 - carloscarcamo/aws-lambda-unzip-py",
+      "fallback": "GitHub: carloscarcamo/aws-lambda-unzip-py",
+      "from_url": "https://github.com/carloscarcamo/aws-lambda-unzip-py",
+      "thumb_url": "https://avatars2.githubusercontent.com/u/2413746?s=400&v=4",
+      "thumb_width": 250,
+      "thumb_height": 250,
+      "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+      "id": 1,
+      "original_url": "https://github.com/carloscarcamo/aws-lambda-unzip-py"
+    }
+  ],
+  "ts": "1540052572.000100",
+  "timestamp": 1540052572000,
+  "isoDate": "2018-10-20T16:22:52.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<http://awshackupc.s3-website-eu-west-1.amazonaws.com/>",
+  "client_msg_id": "b31e4da5-7c01-42b8-927b-dd8f49d21f9e",
+  "attachments": [
+    {
+      "service_name": "Amazon Web Services, Inc.",
+      "title": "Announcing the Artificial Intelligence (AI) Hackathon",
+      "title_link": "http://awshackupc.s3-website-eu-west-1.amazonaws.com/",
+      "text": "Amazon Web Services (AWS) brings computer vision, natural language processing, speech recognition, text-to-speech, and machine translation within the reach of every developer. Application services by AWS enable developers to plug-in pre-built AI functionality into your apps without having to worry about the machine learning models that power these services. Put your skills to the test and apply language and vision intelligence to a new or existing application! Use language and vision APIs including Amazon Comprehend, Amazon Transcribe, Amazon Polly, Amazon Lex, Amazon Translate, and Amazon Rekognition to gain customer insights, personalize content recommendations, identify celebrities, objects and scenes, and much more!",
+      "fallback": "Amazon Web Services, Inc.: Announcing the Artificial Intelligence (AI) Hackathon",
+      "thumb_url": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+      "from_url": "http://awshackupc.s3-website-eu-west-1.amazonaws.com/",
+      "thumb_width": 179,
+      "thumb_height": 109,
+      "service_icon": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+      "id": 1,
+      "original_url": "http://awshackupc.s3-website-eu-west-1.amazonaws.com/"
+    }
+  ],
+  "ts": "1540049085.000100",
+  "timestamp": 1540049085000,
+  "isoDate": "2018-10-20T15:24:45.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<https://aws.amazon.com/blogs/big-data/harmonize-query-and-visualize-data-from-various-providers-using-aws-glue-amazon-athena-and-amazon-quicksight/>",
+  "client_msg_id": "97f0a633-1fbf-45cb-9c1f-bf996464b10b",
+  "attachments": [
+    {
+      "service_name": "Amazon Web Services",
+      "title": "Harmonize, Query, and Visualize Data from Various Providers using AWS Glue, Amazon Athena, and Amazon QuickSight | Amazon Web Services",
+      "title_link": "https://aws.amazon.com/blogs/big-data/harmonize-query-and-visualize-data-from-various-providers-using-aws-glue-amazon-athena-and-amazon-quicksight/",
+      "text": "Have you ever been faced with many different data sources in different formats that need to be analyzed together to drive value and insights?  You need to be able to query, analyze, process, and visualize all your data as one canonical dataset, regardless of the data source or original format. In this post, I walk […]",
+      "fallback": "Amazon Web Services: Harmonize, Query, and Visualize Data from Various Providers using AWS Glue, Amazon Athena, and Amazon QuickSight | Amazon Web Services",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2017/08/14/harmonize_glue_1.gif",
+      "image_width": 441,
+      "image_height": 250,
+      "ts": 1502889477,
+      "from_url": "https://aws.amazon.com/blogs/big-data/harmonize-query-and-visualize-data-from-various-providers-using-aws-glue-amazon-athena-and-amazon-quicksight/",
+      "image_bytes": 38982,
+      "service_icon": "http://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png",
+      "id": 1,
+      "original_url": "https://aws.amazon.com/blogs/big-data/harmonize-query-and-visualize-data-from-various-providers-using-aws-glue-amazon-athena-and-amazon-quicksight/"
+    }
+  ],
+  "ts": "1540048643.000100",
+  "timestamp": 1540048643000,
+  "isoDate": "2018-10-20T15:17:23.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UCVBB11V5> you have a demo for that usecase with serverless here: <https://github.com/awslabs/serverless-subtitles>",
+  "client_msg_id": "d51179e3-0e2a-4990-8644-767edbd46f79",
+  "attachments": [
+    {
+      "service_name": "GitHub",
+      "title": "awslabs/serverless-subtitles",
+      "title_link": "https://github.com/awslabs/serverless-subtitles",
+      "text": "Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video. - awslabs/serverless-subtitles",
+      "fallback": "GitHub: awslabs/serverless-subtitles",
+      "from_url": "https://github.com/awslabs/serverless-subtitles",
+      "thumb_url": "https://avatars2.githubusercontent.com/u/3299148?s=400&v=4",
+      "thumb_width": 210,
+      "thumb_height": 210,
+      "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+      "id": 1,
+      "original_url": "https://github.com/awslabs/serverless-subtitles"
+    }
+  ],
+  "ts": "1540046490.000100",
+  "timestamp": 1540046490000,
+  "isoDate": "2018-10-20T14:41:30.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UCVBB11V5> it can handle up to 2hours audio file length <https://docs.aws.amazon.com/transcribe/latest/dg/limits-guidelines.html>",
+  "client_msg_id": "72c8cf51-8355-409d-a84d-64bc4269fcc0",
+  "attachments": [
+    {
+      "title": "Guidelines and Limits - Amazon Transcribe",
+      "title_link": "https://docs.aws.amazon.com/transcribe/latest/dg/limits-guidelines.html",
+      "text": "Limits for Amazon Transcribe.",
+      "fallback": "Guidelines and Limits - Amazon Transcribe",
+      "from_url": "https://docs.aws.amazon.com/transcribe/latest/dg/limits-guidelines.html",
+      "service_icon": "https://docs.aws.amazon.com/images/favicon.ico",
+      "service_name": "docs.aws.amazon.com",
+      "id": 1,
+      "original_url": "https://docs.aws.amazon.com/transcribe/latest/dg/limits-guidelines.html"
+    }
+  ],
+  "ts": "1540046442.000100",
+  "timestamp": 1540046442000,
+  "isoDate": "2018-10-20T14:40:42.000Z"
+},{
+  "type": "message",
+  "user": "UCVBB11V5",
+  "text": "we need something like that for our hack :slightly_smiling_face:",
+  "client_msg_id": "f913f105-94c1-421f-9eeb-601c13cbbb93",
+  "ts": "1540042401.000100",
+  "timestamp": 1540042401000,
+  "isoDate": "2018-10-20T13:33:21.000Z"
+},{
+  "type": "message",
+  "user": "UCVBB11V5",
+  "text": "hi! not really related to serverless, but is the aws transcribe api able to handle long duration, real-time audio streaming?",
+  "client_msg_id": "95a6a419-26dc-4e81-abaa-4276e1900f8a",
+  "ts": "1540042389.000100",
+  "timestamp": 1540042389000,
+  "isoDate": "2018-10-20T13:33:09.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "Lambda to dynamodb ( java ) <https://github.com/aws-samples/lambda-java8-dynamodb>",
+  "client_msg_id": "4888203e-7571-4523-80c8-b57974630ff8",
+  "attachments": [
+    {
+      "service_name": "GitHub",
+      "title": "aws-samples/lambda-java8-dynamodb",
+      "title_link": "https://github.com/aws-samples/lambda-java8-dynamodb",
+      "text": "Contribute to aws-samples/lambda-java8-dynamodb development by creating an account on GitHub.",
+      "fallback": "GitHub: aws-samples/lambda-java8-dynamodb",
+      "from_url": "https://github.com/aws-samples/lambda-java8-dynamodb",
+      "thumb_url": "https://avatars1.githubusercontent.com/u/8931462?s=400&v=4",
+      "thumb_width": 210,
+      "thumb_height": 210,
+      "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+      "id": 1,
+      "original_url": "https://github.com/aws-samples/lambda-java8-dynamodb"
+    }
+  ],
+  "ts": "1540041640.000100",
+  "timestamp": 1540041640000,
+  "isoDate": "2018-10-20T13:20:40.000Z"
+},{
+  "type": "message",
+  "text": "guys, find attached the slides from our Serverless talk! enjoy!",
+  "files": [
+    {
+      "id": "FDL1QC78W",
+      "created": 1540039389,
+      "timestamp": 1540039389,
+      "name": "Getting Started with Serverless Architecture.pdf",
+      "title": "Getting Started with Serverless Architecture.pdf",
+      "mimetype": "application/pdf",
+      "filetype": "pdf",
+      "pretty_type": "PDF",
+      "user": "UDCT6CY79",
+      "editable": false,
+      "size": 1610660,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDL1QC78W/getting_started_with_serverless_architecture.pdf",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDL1QC78W/download/getting_started_with_serverless_architecture.pdf",
+      "thumb_pdf": "https://files.slack.com/files-tmb/TC8RKNA4X-FDL1QC78W-8427946492/getting_started_with_serverless_architecture_thumb_pdf.png",
+      "thumb_pdf_w": 1100,
+      "thumb_pdf_h": 619,
+      "permalink": "https://hackupc2018.slack.com/files/UDCT6CY79/FDL1QC78W/getting_started_with_serverless_architecture.pdf",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDL1QC78W-6254088743"
+    }
+  ],
+  "upload": true,
+  "user": "UDCT6CY79",
+  "display_as_bot": false,
+  "ts": "1540039391.000100",
+  "timestamp": 1540039391000,
+  "isoDate": "2018-10-20T12:43:11.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "give me a sec",
+  "client_msg_id": "31a50c4a-40f4-4a41-b6e5-65e5dbd431f1",
+  "ts": "1540037798.000100",
+  "timestamp": 1540037798000,
+  "isoDate": "2018-10-20T12:16:38.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UCMB40T1S> ",
+  "client_msg_id": "A39C4D9E-48E9-46FB-974A-36D3F865B5C8",
+  "ts": "1540037781.000100",
+  "timestamp": 1540037781000,
+  "isoDate": "2018-10-20T12:16:21.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "We are back!",
+  "client_msg_id": "363312FD-EC8C-4C46-A0D2-C180816B20A5",
+  "ts": "1540037772.000100",
+  "timestamp": 1540037772000,
+  "isoDate": "2018-10-20T12:16:12.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "Let me know when someone is back at the table, I have some questions about dynamodb",
+  "client_msg_id": "970b9d7d-a4da-4297-ab9b-078ee8d9396e",
+  "ts": "1540035891.000100",
+  "timestamp": 1540035891000,
+  "isoDate": "2018-10-20T11:44:51.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "AWSome",
+  "client_msg_id": "609798dc-8361-47db-a966-013c5ce648da",
+  "ts": "1540031510.000100",
+  "timestamp": 1540031510000,
+  "isoDate": "2018-10-20T10:31:50.000Z"
+},{
+  "type": "message",
+  "user": "UCVQ01423",
+  "text": "thanks, we managed to get acccess to lambda services in the end",
+  "client_msg_id": "782cc3e2-105a-418d-b57e-be9fb69b2d26",
+  "ts": "1540031382.000100",
+  "timestamp": 1540031382000,
+  "isoDate": "2018-10-20T10:29:42.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "{\n\"Sid\": \"CSI_customMessage_eu-west-xxx_CSI_customMessage\",\n\"Effect\": \"Allow\",\n\"Principal\": {\n\"Service\": \"<http://cognito-idp.amazonaws.com|cognito-idp.amazonaws.com>\"\n},\n\"Action\": \"lambda:InvokeFunction\",\n\"Resource\": \"*\",\n\"Condition\": {\n\"ArnLike\": {\n\"AWS:SourceArn\": \"arn:aws:cognito-identity:us-east-1:563740731420:identitypool/us-east-1:30b87aaa-5633-4ef0-bae2-4d36c3ab731d\"\n}\n}\n}",
+  "client_msg_id": "7b2b3e6e-3c4a-41d7-9b61-566ec51bbf61",
+  "ts": "1540031086.000100",
+  "timestamp": 1540031086000,
+  "isoDate": "2018-10-20T10:24:46.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "{\n\"Sid\": \"CSI_customMessage_eu-west-xxx_CSI_customMessage\",\n\"Effect\": \"Allow\",\n\"Principal\": {\n\"Service\": \"<http://cognito-idp.amazonaws.com|cognito-idp.amazonaws.com>\"\n},\n\"Action\": \"lambda:InvokeFunction\",\n\"Resource\": \"arn:aws:lambda:<https://forums.aws.amazon.com/:https://forums.aws.amazon.com/:function:https://forums.aws.amazon.com/>\",\n\"Condition\": {\n\"ArnLike\": {\n\"AWS:SourceArn\": \"arn:aws:cognito-idp:<https://forums.aws.amazon.com/:https://forums.aws.amazon.com/:userpool/https://forums.aws.amazon.com/>\"\n}\n}\n}",
+  "client_msg_id": "df56dad9-67e1-4e86-8c4c-406724f5281f",
+  "ts": "1540030816.000100",
+  "timestamp": 1540030816000,
+  "isoDate": "2018-10-20T10:20:16.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "Caused by: com.amazonaws.AmazonServiceException: User: arn:aws:sts::563740731420:assumed-role/Cognito_HackUPCPoolUnauth_Role/CognitoIdentityCredentials is not authorized to perform: lambda:InvokeFunction on resource: arn:aws:lambda:us-east-1:563740731420:function:SaveLocationV2 with an explicit deny (Service: AWSLambda; Status Code: 403; Error Code: AccessDeniedException; Request ID: 4b6d5b03-d450-11e8-bb0e-9b840de8a4db)",
+  "client_msg_id": "f580c1df-483f-4ac3-84db-bd105db8dabd",
+  "ts": "1540030325.000100",
+  "timestamp": 1540030325000,
+  "isoDate": "2018-10-20T10:12:05.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UDJ69ER7Y> were you able to find a team?",
+  "client_msg_id": "d469b573-c20b-41ed-878d-9cf255592de6",
+  "ts": "1540029558.000100",
+  "timestamp": 1540029558000,
+  "isoDate": "2018-10-20T09:59:18.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UCMB40T1S> sorry for the delay mate, were you able to solve the problem?",
+  "client_msg_id": "41b2adaa-aa5b-4af8-b03c-4d797931b5ec",
+  "ts": "1540029537.000100",
+  "timestamp": 1540029537000,
+  "isoDate": "2018-10-20T09:58:57.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UCVQ01423> mate, you can use AWS Cognito ( <https://aws.amazon.com/cognito/> ) for the AWS challenge. If it is for encryption, you need to create keys on KMS. I am happy to help you if you have further questions, happy hack!",
+  "client_msg_id": "2fe44b76-930a-4983-b18d-f620e9a996ee",
+  "ts": "1540029494.000100",
+  "timestamp": 1540029494000,
+  "isoDate": "2018-10-20T09:58:14.000Z"
+},{
+  "type": "message",
+  "user": "UDCT6CY79",
+  "text": "<@UC98MS691> it can take up to 48 hours to get the account approved and receive the $100 credits. You can still run the challenge without those credits and top up the aws account with the credits as soon as receive them.",
+  "client_msg_id": "e6da2c65-2fcb-446c-8286-f5a82eaebba7",
+  "ts": "1540029415.000100",
+  "timestamp": 1540029415000,
+  "isoDate": "2018-10-20T09:56:55.000Z"
+},{
+  "type": "message",
+  "user": "UC98MS691",
+  "text": "I already had an AWS Educate account, is it possible to get some credits?",
+  "client_msg_id": "7b22dddf-f32c-4212-aad9-2f84ff6ae648",
+  "ts": "1540028083.000100",
+  "timestamp": 1540028083000,
+  "isoDate": "2018-10-20T09:34:43.000Z"
+},{
+  "type": "message",
+  "user": "UCVQ01423",
+  "text": "what was the tool to help managing the aws credentials?",
+  "client_msg_id": "32c7305f-8b74-4614-922e-3fb61a5f8596",
+  "ts": "1540003201.000100",
+  "timestamp": 1540003201000,
+  "isoDate": "2018-10-20T02:40:01.000Z"
+},{
+  "type": "message",
+  "user": "UCMB40T1S",
+  "text": "who are the mentors/helpers for aws? I need help with making sense of how to use lambda within android. I managed to get through the tutorial but then when I changed it a bit, it spun out of control",
+  "client_msg_id": "dabe435d-321b-4f0d-9fea-cf65f1e11129",
+  "ts": "1539998007.000100",
+  "timestamp": 1539998007000,
+  "isoDate": "2018-10-20T01:13:27.000Z"
+},{
+  "type": "message",
+  "user": "UDJ69ER7Y",
+  "text": "Hi everyone! I'm looking for a team to work on the aws challenge! My expertise is back-end, Java, C++/C#, Python. I have experience with projects and can adapt easily to new tools :) I'm also a business-like person and can public speak/pitch. Good luck to everyone!",
+  "client_msg_id": "1cb05b98-295c-46ac-af7c-8dcd12a9ea9c",
+  "ts": "1539975066.000100",
+  "timestamp": 1539975066000,
+  "isoDate": "2018-10-19T18:51:06.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539627003.000200",
+  "timestamp": 1539627003000,
+  "isoDate": "2018-10-15T18:10:03.000Z"
+},{
+  "user": "UDFJD4XEJ",
+  "text": "<@UDFJD4XEJ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539599882.000200",
+  "timestamp": 1539599882000,
+  "isoDate": "2018-10-15T10:38:02.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598725.000200",
+  "timestamp": 1539598725000,
+  "isoDate": "2018-10-15T10:18:45.000Z"
+},{
+  "user": "UD42HQXDY",
+  "text": "<@UD42HQXDY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539531245.000200",
+  "timestamp": 1539531245000,
+  "isoDate": "2018-10-14T15:34:05.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514131.000200",
+  "timestamp": 1539514131000,
+  "isoDate": "2018-10-14T10:48:51.000Z"
+},{
+  "user": "UCLS7E7LP",
+  "text": "<@UCLS7E7LP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539449228.000200",
+  "timestamp": 1539449228000,
+  "isoDate": "2018-10-13T16:47:08.000Z"
+},{
+  "user": "UDBN5RSR2",
+  "text": "<@UDBN5RSR2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539249220.000200",
+  "timestamp": 1539249220000,
+  "isoDate": "2018-10-11T09:13:40.000Z"
+},{
+  "user": "UDCT6CY79",
+  "text": "<@UDCT6CY79> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539244145.000200",
+  "timestamp": 1539244145000,
+  "isoDate": "2018-10-11T07:49:05.000Z"
+},{
+  "user": "UDD68QQ22",
+  "text": "<@UDD68QQ22> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539241852.000200",
+  "timestamp": 1539241852000,
+  "isoDate": "2018-10-11T07:10:52.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539203056.000200",
+  "timestamp": 1539203056000,
+  "isoDate": "2018-10-10T20:24:16.000Z"
+},{
+  "user": "UDCME5YNS",
+  "text": "<@UDCME5YNS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539189751.000200",
+  "timestamp": 1539189751000,
+  "isoDate": "2018-10-10T16:42:31.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168931.000200",
+  "timestamp": 1539168931000,
+  "isoDate": "2018-10-10T10:55:31.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168791.000200",
+  "timestamp": 1539168791000,
+  "isoDate": "2018-10-10T10:53:11.000Z"
+},{
+  "user": "UC942ECMR",
+  "text": "<@UC942ECMR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539160918.000200",
+  "timestamp": 1539160918000,
+  "isoDate": "2018-10-10T08:41:58.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736911.000200",
+  "timestamp": 1538736911000,
+  "isoDate": "2018-10-05T10:55:11.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538484632.000200",
+  "timestamp": 1538484632000,
+  "isoDate": "2018-10-02T12:50:32.000Z"
+},{
+  "user": "UD41KSZ6F",
+  "text": "<@UD41KSZ6F> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538344185.000200",
+  "timestamp": 1538344185000,
+  "isoDate": "2018-09-30T21:49:45.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537194089.000200",
+  "timestamp": 1537194089000,
+  "isoDate": "2018-09-17T14:21:29.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173415.000200",
+  "timestamp": 1537173415000,
+  "isoDate": "2018-09-17T08:36:55.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "AWSEducate's channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: AWSEducate's channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1537032949.000100",
+  "timestamp": 1537032949000,
+  "isoDate": "2018-09-15T17:35:49.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537032948.000200",
+  "timestamp": 1537032948000,
+  "isoDate": "2018-09-15T17:35:48.000Z"
+}]

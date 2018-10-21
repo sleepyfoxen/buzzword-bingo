@@ -1,0 +1,3576 @@
+[
+{
+  "text": "The spot is taken! Wish you luck ",
+  "unfurl_links": true,
+  "client_msg_id": "d0fedc74-367e-461a-bd9c-88831fb6b02b",
+  "unfurl_media": true,
+  "thread_ts": "1539939489.000100",
+  "is_thread_broadcast": true,
+  "type": "message",
+  "subtype": "thread_broadcast",
+  "user": "UDHL8317W",
+  "root": {
+    "type": "message",
+    "user": "UDHL8317W",
+    "text": "Hello! One or two people can stay at my house on Monday and/or Sunday night",
+    "client_msg_id": "afdb377f-e20b-4f32-96b8-46cb2fbdcb7b",
+    "thread_ts": "1539939489.000100",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "UCL4T1F4M",
+        "ts": "1539943505.000100"
+      },
+      {
+        "user": "UCAJYA806",
+        "ts": "1539950571.000100"
+      },
+      {
+        "user": "UDHL8317W",
+        "ts": "1539953086.000100"
+      }
+    ],
+    "subscribed": false,
+    "unread_count": 3,
+    "ts": "1539939489.000100"
+  },
+  "ts": "1539953086.000100",
+  "timestamp": 1539953086000,
+  "isoDate": "2018-10-19T12:44:46.000Z"
+},{
+  "type": "message",
+  "user": "UCAJYA806",
+  "text": "Interested",
+  "client_msg_id": "6b7745f1-2f5a-46bb-8483-5d1590077cff",
+  "thread_ts": "1539939489.000100",
+  "parent_user_id": "UDHL8317W",
+  "ts": "1539950571.000100",
+  "timestamp": 1539950571000,
+  "isoDate": "2018-10-19T12:02:51.000Z"
+},{
+  "type": "message",
+  "user": "UCL4T1F4M",
+  "text": "Awesome! I send you a msg :slightly_smiling_face:",
+  "client_msg_id": "f86c0eac-3af8-4f84-959b-78528fef6052",
+  "thread_ts": "1539939489.000100",
+  "parent_user_id": "UDHL8317W",
+  "ts": "1539943505.000100",
+  "timestamp": 1539943505000,
+  "isoDate": "2018-10-19T10:05:05.000Z"
+},{
+  "type": "message",
+  "user": "UDHL8317W",
+  "text": "Hello! One or two people can stay at my house on Monday and/or Sunday night",
+  "client_msg_id": "afdb377f-e20b-4f32-96b8-46cb2fbdcb7b",
+  "thread_ts": "1539939489.000100",
+  "reply_count": 3,
+  "replies": [
+    {
+      "user": "UCL4T1F4M",
+      "ts": "1539943505.000100"
+    },
+    {
+      "user": "UCAJYA806",
+      "ts": "1539950571.000100"
+    },
+    {
+      "user": "UDHL8317W",
+      "ts": "1539953086.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 3,
+  "ts": "1539939489.000100",
+  "reactions": [
+    {
+      "name": "tada",
+      "users": [
+        "UD9DAGL3H",
+        "UCL4T1F4M"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539939489000,
+  "isoDate": "2018-10-19T08:58:09.000Z"
+},{
+  "type": "message",
+  "user": "UD4LHM3KM",
+  "text": "crec que sería millor si ho diguessis en angles",
+  "client_msg_id": "5e4de1c3-8eb6-48d4-98f0-f11dd4fe28ca",
+  "thread_ts": "1539599205.000100",
+  "parent_user_id": "UDF86PW6B",
+  "ts": "1539680598.000100",
+  "timestamp": 1539680598000,
+  "isoDate": "2018-10-16T09:03:18.000Z"
+},{
+  "type": "message",
+  "user": "UDF86PW6B",
+  "text": "Yo puedo alojar a un par de personas en mi casa",
+  "client_msg_id": "8f47c11e-f99a-41c0-982e-9f68daf37c35",
+  "thread_ts": "1539599205.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UD4LHM3KM",
+      "ts": "1539680598.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539599205.000100",
+  "reactions": [
+    {
+      "name": "middleparrot",
+      "users": [
+        "UC78DKYN5"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539599205000,
+  "isoDate": "2018-10-15T10:26:45.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Thanks for the tips :smiley:",
+  "client_msg_id": "452c6fbe-28e5-4836-972a-61325d7b7ae5",
+  "thread_ts": "1539008152.000100",
+  "parent_user_id": "UC9FMV9PC",
+  "ts": "1539075932.000100",
+  "timestamp": 1539075932000,
+  "isoDate": "2018-10-09T09:05:32.000Z"
+},{
+  "type": "message",
+  "user": "UC7AV4J0G",
+  "text": "Hello! I don't know from myself best hostel but I can give you some tips to get one searching by Internet :mag_right: \n\nNear university :mortar_board: unfortunately there's no much hostels. The neighbour is not much turistic so it can be difficult find what you want.\n\nAlso, public transport communications are quite great. I recommend you to find some hostels near *L3 (green line) or L9 Sud (orange line)* because it well be fast to arrive to university and also it connects with al city if you want to visit Barcelona :blush:. And don't mention that on Friday night metro :metro: is open until 3am and Saturday all night long.\n\nI hope help you almost a little :pray:",
+  "client_msg_id": "1495d3ff-f8ad-436d-8d75-61c761d416ef",
+  "thread_ts": "1539008152.000100",
+  "parent_user_id": "UC9FMV9PC",
+  "ts": "1539034763.000100",
+  "timestamp": 1539034763000,
+  "isoDate": "2018-10-08T21:39:23.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "<@UD9DAGL3H> wait for special track for that!",
+  "client_msg_id": "d12915f8-cb71-4b7c-9ae3-9dc8d5f0e653",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539022623.000100",
+  "timestamp": 1539022623000,
+  "isoDate": "2018-10-08T18:17:03.000Z"
+},{
+  "type": "message",
+  "user": "UD9DAGL3H",
+  "text": "looking forward to (bio)hacking",
+  "client_msg_id": "d260e934-d03e-4e36-b561-c13d86afd692",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539011850.000100",
+  "reactions": [
+    {
+      "name": "biohazard_sign",
+      "users": [
+        "UC7UPACMT",
+        "UD3SU4HT6"
+      ],
+      "count": 2
+    },
+    {
+      "name": "female-scientist::skin-tone-3",
+      "users": [
+        "UC7UPACMT"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539011850000,
+  "isoDate": "2018-10-08T15:17:30.000Z"
+},{
+  "type": "message",
+  "user": "UC7UPACMT",
+  "text": "Sleep is for the weak :coffeeparrot:",
+  "client_msg_id": "6108b9d6-e570-4cb1-a756-90de8f8542b2",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539011791.000100",
+  "reactions": [
+    {
+      "name": "muscle",
+      "users": [
+        "UD9DAGL3H",
+        "UC946BFLK",
+        "UDE3W4YUB",
+        "UD3SU4HT6"
+      ],
+      "count": 4
+    }
+  ],
+  "timestamp": 1539011791000,
+  "isoDate": "2018-10-08T15:16:31.000Z"
+},{
+  "type": "message",
+  "text": "So in this picture I have my mattress, blanket and pillow. The sad part was that I was one of the organiser. So for the organisers: please also take care of yourselves as well!",
+  "files": [
+    {
+      "id": "FD99QRRDJ",
+      "created": 1539011645,
+      "timestamp": 1539011645,
+      "name": "Image from iOS.jpg",
+      "title": "Image from iOS",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UD9DAGL3H",
+      "editable": false,
+      "size": 5429135,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FD99QRRDJ/image_from_ios.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FD99QRRDJ/download/image_from_ios.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_360.jpg",
+      "thumb_360_w": 270,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_480.jpg",
+      "thumb_480_w": 360,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_720.jpg",
+      "thumb_720_w": 540,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1067,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_960.jpg",
+      "thumb_960_w": 720,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FD99QRRDJ-7d22e6d726/image_from_ios_1024.jpg",
+      "thumb_1024_w": 768,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 2448,
+      "original_h": 3264,
+      "permalink": "https://hackupc2018.slack.com/files/UD9DAGL3H/FD99QRRDJ/image_from_ios.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FD99QRRDJ-30093b528c"
+    }
+  ],
+  "upload": true,
+  "user": "UD9DAGL3H",
+  "display_as_bot": false,
+  "upload_reply_to": "7EDFB2CA-2977-4220-8C89-6AC39CB8D233",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539011645.000100",
+  "reactions": [
+    {
+      "name": "heart",
+      "users": [
+        "UC78DKYN5",
+        "UC9B317TL",
+        "UCM2MTN9K"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1539011645000,
+  "isoDate": "2018-10-08T15:14:05.000Z"
+},{
+  "type": "message",
+  "user": "UD9DAGL3H",
+  "text": "cool! this is way better what happened to me at one event. i thought i didn’t need to sleep for 48h:",
+  "client_msg_id": "d839031e-94f0-491f-9d68-9db1f9134aef",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539011449.000100",
+  "reactions": [
+    {
+      "name": "joy",
+      "users": [
+        "UC7UPACMT",
+        "UC7JLBRR7",
+        "UC8ST2GMV",
+        "UC78DKYN5",
+        "UC7GG52L9",
+        "UD3SU4HT6"
+      ],
+      "count": 6
+    }
+  ],
+  "timestamp": 1539011449000,
+  "isoDate": "2018-10-08T15:10:49.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Sleeping rooms with air mattresses will be available both nights to rest if you need it :sleeping:",
+  "client_msg_id": "9dc06383-59f7-4a00-85c9-32291b3ae904",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539011420.000100",
+  "timestamp": 1539011420000,
+  "isoDate": "2018-10-08T15:10:20.000Z"
+},{
+  "type": "message",
+  "user": "UC7UPACMT",
+  "text": "Hello <@UD9DAGL3H>! We'll provide some dark rooms and air mattresses both Friday and Saturday nights, sleeping bag is up to you! :slightly_smiling_face:",
+  "client_msg_id": "1ae6e3dc-821f-4e26-b09e-8cbeae2ae73f",
+  "thread_ts": "1539011299.000100",
+  "parent_user_id": "UD9DAGL3H",
+  "ts": "1539011394.000100",
+  "timestamp": 1539011394000,
+  "isoDate": "2018-10-08T15:09:54.000Z"
+},{
+  "type": "message",
+  "user": "UD9DAGL3H",
+  "text": "i guess there will be dark cornes at the hackathon where there is a chance to get some sleep?",
+  "client_msg_id": "d179a0ce-2141-42f8-a687-708b8d0d4d91",
+  "thread_ts": "1539011299.000100",
+  "reply_count": 7,
+  "replies": [
+    {
+      "user": "UC7UPACMT",
+      "ts": "1539011394.000100"
+    },
+    {
+      "user": "UC7JLBRR7",
+      "ts": "1539011420.000100"
+    },
+    {
+      "user": "UD9DAGL3H",
+      "ts": "1539011449.000100"
+    },
+    {
+      "user": "UD9DAGL3H",
+      "ts": "1539011645.000100"
+    },
+    {
+      "user": "UC7UPACMT",
+      "ts": "1539011791.000100"
+    },
+    {
+      "user": "UD9DAGL3H",
+      "ts": "1539011850.000100"
+    },
+    {
+      "user": "UCQ3MJYP7",
+      "ts": "1539022623.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 7,
+  "ts": "1539011299.000100",
+  "reactions": [
+    {
+      "name": "parrotsleep",
+      "users": [
+        "UC7UPACMT",
+        "UD9DAGL3H",
+        "UC946BFLK",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    }
+  ],
+  "timestamp": 1539011299000,
+  "isoDate": "2018-10-08T15:08:19.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Would love to join you guys on Thursday or after the event, but I am mortal and do need to sleep :rolling_on_the_floor_laughing:",
+  "client_msg_id": "22d60c91-c2bc-4d2f-a651-f3acc56b3ff2",
+  "thread_ts": "1538733044.000100",
+  "parent_user_id": "UCQ3MJYP7",
+  "ts": "1539008223.000100",
+  "timestamp": 1539008223000,
+  "isoDate": "2018-10-08T14:17:03.000Z"
+},{
+  "type": "message",
+  "user": "UC9FMV9PC",
+  "text": "Anyone recommend any cheap hostels near the uni? :smiley: Arriving on Thursday night and need a place to overnight on 21th and 22th as well (leaving on Tuesday)",
+  "client_msg_id": "ffbe2afb-870f-449e-b565-af0553591c10",
+  "thread_ts": "1539008152.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UC7AV4J0G",
+      "ts": "1539034763.000100"
+    },
+    {
+      "user": "UC9FMV9PC",
+      "ts": "1539075932.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1539008152.000100",
+  "timestamp": 1539008152000,
+  "isoDate": "2018-10-08T14:15:52.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "We are going to arrive with only one backpack. So I think we will not need any place to keep our stuff :slightly_smiling_face:",
+  "client_msg_id": "ea3ae694-69f9-4e6c-ba2d-ba10cbabf1fd",
+  "ts": "1538838157.000100",
+  "timestamp": 1538838157000,
+  "isoDate": "2018-10-06T15:02:37.000Z"
+},{
+  "type": "message",
+  "user": "UD3JFSUBS",
+  "text": "yes indeed",
+  "client_msg_id": "84748472-0272-4f32-a035-a7364830b5ba",
+  "ts": "1538735673.000100",
+  "timestamp": 1538735673000,
+  "isoDate": "2018-10-05T10:34:33.000Z"
+},{
+  "type": "message",
+  "user": "UCAJYA806",
+  "text": "Sure can do that but where do your keep the stuff? Maybe will need a couch to crash if needs be.",
+  "client_msg_id": "9ec0947d-8a0a-4e30-bb2d-fbbafb7bd6ad",
+  "ts": "1538733908.000100",
+  "timestamp": 1538733908000,
+  "isoDate": "2018-10-05T10:05:08.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "So as I understand right: <@UCAJYA806> <@UD3JFSUBS> wanted to join us!",
+  "client_msg_id": "e5e72903-11a6-4803-829e-55e5f8852860",
+  "ts": "1538733733.000100",
+  "timestamp": 1538733733000,
+  "isoDate": "2018-10-05T10:02:13.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Our team (Russian <http://okhlopkov.com|okhlopkov.com> and Ukrainian <http://bykhun.com|bykhun.com>) will arrive on Thursday night! and leave on Monday morning. WE `Have no plan to sleep, want to sightsee and explore Barcelona!`",
+  "client_msg_id": "5872d266-a1a5-42a2-9d42-ae99e8997000",
+  "thread_ts": "1538733044.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UC9FMV9PC",
+      "ts": "1539008223.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1538733044.000100",
+  "reactions": [
+    {
+      "name": "sunglasses",
+      "users": [
+        "UCAJYA806"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1538733044000,
+  "isoDate": "2018-10-05T09:50:44.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Yes!! YEs! YES!",
+  "client_msg_id": "a98628b2-1b95-4f37-8288-e1c4dbeed166",
+  "ts": "1538732969.000100",
+  "timestamp": 1538732969000,
+  "isoDate": "2018-10-05T09:49:29.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "<@UCAJYA806>!!!!!!!",
+  "client_msg_id": "e6d92678-fa65-49a8-9c23-c3a05452e718",
+  "ts": "1538732963.000100",
+  "timestamp": 1538732963000,
+  "isoDate": "2018-10-05T09:49:23.000Z"
+},{
+  "type": "message",
+  "user": "UCAJYA806",
+  "text": "Hey guys, I need a place to crash on Thursday night and Sunday night. Let's connect and hang. Have no plan to sleep, want to sightsee and explore Barcelona!",
+  "client_msg_id": "a50c3535-791e-4914-95df-550e4214e299",
+  "ts": "1538584258.000100",
+  "timestamp": 1538584258000,
+  "isoDate": "2018-10-03T16:30:58.000Z"
+},{
+  "type": "message",
+  "user": "UD3JFSUBS",
+  "text": "+1",
+  "client_msg_id": "0b7d5c4b-3af8-42f9-90da-0ff98a2faa11",
+  "thread_ts": "1537984572.000100",
+  "parent_user_id": "UCQ3MJYP7",
+  "ts": "1538574440.000100",
+  "timestamp": 1538574440000,
+  "isoDate": "2018-10-03T13:47:20.000Z"
+},{
+  "type": "message",
+  "user": "UD42CNDNE",
+  "text": "Holaaaa",
+  "client_msg_id": "a16e8a17-ff0d-439a-8f69-7b48940e39d6",
+  "ts": "1538332237.000100",
+  "reactions": [
+    {
+      "name": "wave::skin-tone-3",
+      "users": [
+        "UC7UPACMT",
+        "UC946BFLK",
+        "UCL4T1F4M",
+        "UCN6M8CCA",
+        "UD625UUKY",
+        "UC8CALG0Z",
+        "UC9B317TL"
+      ],
+      "count": 7
+    }
+  ],
+  "timestamp": 1538332237000,
+  "isoDate": "2018-09-30T18:30:37.000Z"
+},{
+  "type": "message",
+  "user": "UCKK7TS4T",
+  "text": "+1",
+  "client_msg_id": "71d717c0-5b03-4970-8392-f1088269bdd8",
+  "thread_ts": "1537984572.000100",
+  "parent_user_id": "UCQ3MJYP7",
+  "ts": "1537989218.000100",
+  "timestamp": 1537989218000,
+  "isoDate": "2018-09-26T19:13:38.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Join us!",
+  "client_msg_id": "5d9f0e9a-07f6-4a32-b81e-67b2d3b50924",
+  "ts": "1537984575.000100",
+  "timestamp": 1537984575000,
+  "isoDate": "2018-09-26T17:56:15.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Guys!!! Two guys need to sleep somewhere in Thursday night and Sunday night. Let’s unite and hang together! We also want not to sleep and go sightseeing whole night long.",
+  "client_msg_id": "1396976a-dede-4d4d-8c7a-7eeb6d41a7b9",
+  "thread_ts": "1537984572.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UCKK7TS4T",
+      "ts": "1537989218.000100"
+    },
+    {
+      "user": "UD3JFSUBS",
+      "ts": "1538574440.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1537984572.000100",
+  "timestamp": 1537984572000,
+  "isoDate": "2018-09-26T17:56:12.000Z"
+},{
+  "type": "message",
+  "user": "UCKK7TS4T",
+  "text": "seems like Spanish are not so hospitable :troll::troll::troll:",
+  "client_msg_id": "aa41bb7c-5e29-43bc-8d3f-43b31c7d740a",
+  "ts": "1537972627.000100",
+  "timestamp": 1537972627000,
+  "isoDate": "2018-09-26T14:37:07.000Z"
+},{
+  "type": "message",
+  "user": "UCN8L1RQ8",
+  "text": "Hey everyone. I'm staying 2 more nights (sunday and monday) to visit Barcelona after the hackaton. Does someone have some couch I could crash on? Even one night would be good. I'm also taking recommendations for youth hostels or cheap places.\n\nI'm a friendly and discreet Swiss guy. If I can occupy a couch, you won't even notice I'm here!",
+  "client_msg_id": "35306fd8-b12a-4c06-bfc5-5c2cb7804613",
+  "ts": "1537938419.000100",
+  "timestamp": 1537938419000,
+  "isoDate": "2018-09-26T05:06:59.000Z"
+},{
+  "type": "message",
+  "user": "UCVSQV7CN",
+  "text": "Hello! Me and my team are looking for a place to stay. We want to be as near as possible to the FIB, so we want you to recommend us great and cheap places. Thank you :smile:",
+  "client_msg_id": "894a09aa-3547-4f94-96cb-1fafb0c2279e",
+  "edited": {
+    "user": "UCVSQV7CN",
+    "ts": "1537102944.000000"
+  },
+  "ts": "1537102927.000100",
+  "timestamp": 1537102927000,
+  "isoDate": "2018-09-16T13:02:07.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "We will arrive on Thursday 18th and leave on Monday 22. Can someone accommodate us on Thursday night and Sunday night? Two guys from Russia :slightly_smiling_face:",
+  "client_msg_id": "1f6843ed-e359-4338-a8ed-3f28a5429ed3",
+  "ts": "1536865455.000100",
+  "timestamp": 1536865455000,
+  "isoDate": "2018-09-13T19:04:15.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Hi again!",
+  "client_msg_id": "58fffc07-1045-42c0-a2bb-2f377e4db6e0",
+  "ts": "1536865379.000100",
+  "timestamp": 1536865379000,
+  "isoDate": "2018-09-13T19:02:59.000Z"
+},{
+  "type": "message",
+  "user": "UCKK7TS4T",
+  "text": "Yeah, I know! I am a fan and I am trying to watch every game :grin:",
+  "client_msg_id": "856b33b0-5b5c-4e6f-9f5c-9afe78c4a090",
+  "thread_ts": "1536755200.000100",
+  "parent_user_id": "UCKK7TS4T",
+  "ts": "1536765083.000100",
+  "timestamp": 1536765083000,
+  "isoDate": "2018-09-12T15:11:23.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "You are gonna love that match <@UCKK7TS4T> if you could make it. Barça vs Sevilla is one of the best matches in the season :+1:",
+  "client_msg_id": "b0d9c622-1644-4923-81d5-f90bbfcb69c3",
+  "thread_ts": "1536755200.000100",
+  "parent_user_id": "UCKK7TS4T",
+  "ts": "1536755657.000100",
+  "timestamp": 1536755657000,
+  "isoDate": "2018-09-12T12:34:17.000Z"
+},{
+  "type": "message",
+  "user": "UCKK7TS4T",
+  "text": "Hi everyone! I'm traveling alone from Greece. I'm planning to arrive on Thursday 18 (to avoid flight delays) and leave on Monday 22. It would be nice if anyone could accommodate me. :camping: :camping:\n\nP.S: I'm also looking for guys to go watch Barça vs Sevilla on Sunday after hackathon ends since I've never been to Çamp Nou :soccer: :soccer:",
+  "client_msg_id": "09c98735-fc58-4047-af25-a72843133383",
+  "thread_ts": "1536755200.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UC8ST2GMV",
+      "ts": "1536755657.000100"
+    },
+    {
+      "user": "UCKK7TS4T",
+      "ts": "1536765083.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1536755200.000100",
+  "timestamp": 1536755200000,
+  "isoDate": "2018-09-12T12:26:40.000Z"
+},{
+  "user": "UCR79AGVD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCR79AGVD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702921.000400",
+  "timestamp": 1536702921000,
+  "isoDate": "2018-09-11T21:55:21.000Z"
+},{
+  "user": "UCR0L8Z54",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCR0L8Z54> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702921.000200",
+  "timestamp": 1536702921000,
+  "isoDate": "2018-09-11T21:55:21.000Z"
+},{
+  "user": "UCR0B4CAF",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCR0B4CAF> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702920.000800",
+  "timestamp": 1536702920000,
+  "isoDate": "2018-09-11T21:55:20.000Z"
+},{
+  "user": "UCQUTD7V1",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCQUTD7V1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702920.000600",
+  "timestamp": 1536702920000,
+  "isoDate": "2018-09-11T21:55:20.000Z"
+},{
+  "user": "UCQTS8H6Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCQTS8H6Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702920.000400",
+  "timestamp": 1536702920000,
+  "isoDate": "2018-09-11T21:55:20.000Z"
+},{
+  "user": "UCQA5BG87",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCQA5BG87> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702920.000200",
+  "timestamp": 1536702920000,
+  "isoDate": "2018-09-11T21:55:20.000Z"
+},{
+  "user": "UCPD3SLLV",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCPD3SLLV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702919.000600",
+  "timestamp": 1536702919000,
+  "isoDate": "2018-09-11T21:55:19.000Z"
+},{
+  "user": "UCPBSQG8M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCPBSQG8M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702919.000400",
+  "timestamp": 1536702919000,
+  "isoDate": "2018-09-11T21:55:19.000Z"
+},{
+  "user": "UCPA3CL9X",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCPA3CL9X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702919.000200",
+  "timestamp": 1536702919000,
+  "isoDate": "2018-09-11T21:55:19.000Z"
+},{
+  "user": "UCP7A0XST",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCP7A0XST> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702918.000400",
+  "timestamp": 1536702918000,
+  "isoDate": "2018-09-11T21:55:18.000Z"
+},{
+  "user": "UCP4ESBB4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCP4ESBB4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702918.000200",
+  "timestamp": 1536702918000,
+  "isoDate": "2018-09-11T21:55:18.000Z"
+},{
+  "user": "UCP0P44VA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCP0P44VA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702917.000800",
+  "timestamp": 1536702917000,
+  "isoDate": "2018-09-11T21:55:17.000Z"
+},{
+  "user": "UCP04DPPD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCP04DPPD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702917.000600",
+  "timestamp": 1536702917000,
+  "isoDate": "2018-09-11T21:55:17.000Z"
+},{
+  "user": "UCNTWQH1A",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCNTWQH1A> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702917.000400",
+  "timestamp": 1536702917000,
+  "isoDate": "2018-09-11T21:55:17.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702917.000200",
+  "timestamp": 1536702917000,
+  "isoDate": "2018-09-11T21:55:17.000Z"
+},{
+  "user": "UCNJEUPFT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCNJEUPFT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702916.000600",
+  "timestamp": 1536702916000,
+  "isoDate": "2018-09-11T21:55:16.000Z"
+},{
+  "user": "UCNEAGSDD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCNEAGSDD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702916.000400",
+  "timestamp": 1536702916000,
+  "isoDate": "2018-09-11T21:55:16.000Z"
+},{
+  "user": "UCNDTTLP9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCNDTTLP9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702916.000200",
+  "timestamp": 1536702916000,
+  "isoDate": "2018-09-11T21:55:16.000Z"
+},{
+  "user": "UCN9KSED9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN9KSED9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702915.000600",
+  "timestamp": 1536702915000,
+  "isoDate": "2018-09-11T21:55:15.000Z"
+},{
+  "user": "UCN8L1RQ8",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN8L1RQ8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702915.000400",
+  "timestamp": 1536702915000,
+  "isoDate": "2018-09-11T21:55:15.000Z"
+},{
+  "user": "UCN6M8CCA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN6M8CCA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702915.000200",
+  "timestamp": 1536702915000,
+  "isoDate": "2018-09-11T21:55:15.000Z"
+},{
+  "user": "UCN62RZ7C",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN62RZ7C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702914.000800",
+  "timestamp": 1536702914000,
+  "isoDate": "2018-09-11T21:55:14.000Z"
+},{
+  "user": "UCN3TGSN7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN3TGSN7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702914.000600",
+  "timestamp": 1536702914000,
+  "isoDate": "2018-09-11T21:55:14.000Z"
+},{
+  "user": "UCN26BRPT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN26BRPT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702914.000400",
+  "timestamp": 1536702914000,
+  "isoDate": "2018-09-11T21:55:14.000Z"
+},{
+  "user": "UCN1DS2UD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN1DS2UD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702914.000200",
+  "timestamp": 1536702914000,
+  "isoDate": "2018-09-11T21:55:14.000Z"
+},{
+  "user": "UCN0L9R63",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCN0L9R63> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702913.000700",
+  "timestamp": 1536702913000,
+  "isoDate": "2018-09-11T21:55:13.000Z"
+},{
+  "user": "UCMSQ9004",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMSQ9004> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702913.000500",
+  "timestamp": 1536702913000,
+  "isoDate": "2018-09-11T21:55:13.000Z"
+},{
+  "user": "UCMQJE6TT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMQJE6TT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702913.000300",
+  "timestamp": 1536702913000,
+  "isoDate": "2018-09-11T21:55:13.000Z"
+},{
+  "user": "UCMMB647R",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMMB647R> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702913.000100",
+  "timestamp": 1536702913000,
+  "isoDate": "2018-09-11T21:55:13.000Z"
+},{
+  "user": "UCMLETLQ4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMLETLQ4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702912.000600",
+  "timestamp": 1536702912000,
+  "isoDate": "2018-09-11T21:55:12.000Z"
+},{
+  "user": "UCMJTU8PR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMJTU8PR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702912.000400",
+  "timestamp": 1536702912000,
+  "isoDate": "2018-09-11T21:55:12.000Z"
+},{
+  "user": "UCMJ8SD3Q",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMJ8SD3Q> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702912.000200",
+  "timestamp": 1536702912000,
+  "isoDate": "2018-09-11T21:55:12.000Z"
+},{
+  "user": "UCMG73VL0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMG73VL0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702911.000800",
+  "timestamp": 1536702911000,
+  "isoDate": "2018-09-11T21:55:11.000Z"
+},{
+  "user": "UCMD8GHSR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMD8GHSR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702911.000600",
+  "timestamp": 1536702911000,
+  "isoDate": "2018-09-11T21:55:11.000Z"
+},{
+  "user": "UCMCS01C6",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMCS01C6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702911.000400",
+  "timestamp": 1536702911000,
+  "isoDate": "2018-09-11T21:55:11.000Z"
+},{
+  "user": "UCMCNG806",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMCNG806> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702911.000200",
+  "timestamp": 1536702911000,
+  "isoDate": "2018-09-11T21:55:11.000Z"
+},{
+  "user": "UCMCBTQ5U",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMCBTQ5U> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702910.000600",
+  "timestamp": 1536702910000,
+  "isoDate": "2018-09-11T21:55:10.000Z"
+},{
+  "user": "UCMBTU6DU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMBTU6DU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702910.000400",
+  "timestamp": 1536702910000,
+  "isoDate": "2018-09-11T21:55:10.000Z"
+},{
+  "user": "UCMB40T1S",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMB40T1S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702910.000200",
+  "timestamp": 1536702910000,
+  "isoDate": "2018-09-11T21:55:10.000Z"
+},{
+  "user": "UCMAJV6AJ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMAJV6AJ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702909.000600",
+  "timestamp": 1536702909000,
+  "isoDate": "2018-09-11T21:55:09.000Z"
+},{
+  "user": "UCMA91Q7Q",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMA91Q7Q> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702909.000400",
+  "timestamp": 1536702909000,
+  "isoDate": "2018-09-11T21:55:09.000Z"
+},{
+  "user": "UCMA50GD8",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCMA50GD8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702909.000200",
+  "timestamp": 1536702909000,
+  "isoDate": "2018-09-11T21:55:09.000Z"
+},{
+  "user": "UCM728ZL4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM728ZL4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702908.000800",
+  "timestamp": 1536702908000,
+  "isoDate": "2018-09-11T21:55:08.000Z"
+},{
+  "user": "UCM6BKKNX",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM6BKKNX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702908.000600",
+  "timestamp": 1536702908000,
+  "isoDate": "2018-09-11T21:55:08.000Z"
+},{
+  "user": "UCM6A5DRU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM6A5DRU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702908.000400",
+  "timestamp": 1536702908000,
+  "isoDate": "2018-09-11T21:55:08.000Z"
+},{
+  "user": "UCM5R17B8",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM5R17B8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702908.000200",
+  "timestamp": 1536702908000,
+  "isoDate": "2018-09-11T21:55:08.000Z"
+},{
+  "user": "UCM53BTV4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM53BTV4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702907.000600",
+  "timestamp": 1536702907000,
+  "isoDate": "2018-09-11T21:55:07.000Z"
+},{
+  "user": "UCM47131D",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM47131D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702907.000400",
+  "timestamp": 1536702907000,
+  "isoDate": "2018-09-11T21:55:07.000Z"
+},{
+  "user": "UCM40U6T0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM40U6T0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702907.000200",
+  "timestamp": 1536702907000,
+  "isoDate": "2018-09-11T21:55:07.000Z"
+},{
+  "user": "UCM3RAQ76",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM3RAQ76> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702906.000800",
+  "timestamp": 1536702906000,
+  "isoDate": "2018-09-11T21:55:06.000Z"
+},{
+  "user": "UCM3GN2KU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM3GN2KU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702906.000600",
+  "timestamp": 1536702906000,
+  "isoDate": "2018-09-11T21:55:06.000Z"
+},{
+  "user": "UCM37UC9L",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM37UC9L> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702906.000400",
+  "timestamp": 1536702906000,
+  "isoDate": "2018-09-11T21:55:06.000Z"
+},{
+  "user": "UCM3168KG",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM3168KG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702906.000200",
+  "timestamp": 1536702906000,
+  "isoDate": "2018-09-11T21:55:06.000Z"
+},{
+  "user": "UCM2Z6SMU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM2Z6SMU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702905.000800",
+  "timestamp": 1536702905000,
+  "isoDate": "2018-09-11T21:55:05.000Z"
+},{
+  "user": "UCM2WBPPG",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM2WBPPG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702905.000600",
+  "timestamp": 1536702905000,
+  "isoDate": "2018-09-11T21:55:05.000Z"
+},{
+  "user": "UCM2VKQ7Q",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM2VKQ7Q> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702905.000400",
+  "timestamp": 1536702905000,
+  "isoDate": "2018-09-11T21:55:05.000Z"
+},{
+  "user": "UCM2SD77S",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM2SD77S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702905.000200",
+  "timestamp": 1536702905000,
+  "isoDate": "2018-09-11T21:55:05.000Z"
+},{
+  "user": "UCM2MTN9K",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM2MTN9K> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702904.000600",
+  "timestamp": 1536702904000,
+  "isoDate": "2018-09-11T21:55:04.000Z"
+},{
+  "user": "UCM2JR7JA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM2JR7JA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702904.000400",
+  "timestamp": 1536702904000,
+  "isoDate": "2018-09-11T21:55:04.000Z"
+},{
+  "user": "UCM24MP3Q",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM24MP3Q> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702904.000200",
+  "timestamp": 1536702904000,
+  "isoDate": "2018-09-11T21:55:04.000Z"
+},{
+  "user": "UCM21MMGX",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM21MMGX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702903.000600",
+  "timestamp": 1536702903000,
+  "isoDate": "2018-09-11T21:55:03.000Z"
+},{
+  "user": "UCM1HS79D",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM1HS79D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702903.000400",
+  "timestamp": 1536702903000,
+  "isoDate": "2018-09-11T21:55:03.000Z"
+},{
+  "user": "UCM1CUDUP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM1CUDUP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702903.000200",
+  "timestamp": 1536702903000,
+  "isoDate": "2018-09-11T21:55:03.000Z"
+},{
+  "user": "UCM0XMTTP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM0XMTTP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702902.000600",
+  "timestamp": 1536702902000,
+  "isoDate": "2018-09-11T21:55:02.000Z"
+},{
+  "user": "UCM0Q5XL0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM0Q5XL0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702902.000400",
+  "timestamp": 1536702902000,
+  "isoDate": "2018-09-11T21:55:02.000Z"
+},{
+  "user": "UCM0CUQR0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCM0CUQR0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702902.000200",
+  "timestamp": 1536702902000,
+  "isoDate": "2018-09-11T21:55:02.000Z"
+},{
+  "user": "UCLUZGGCE",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLUZGGCE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702901.000600",
+  "timestamp": 1536702901000,
+  "isoDate": "2018-09-11T21:55:01.000Z"
+},{
+  "user": "UCLUL56LW",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLUL56LW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702901.000400",
+  "timestamp": 1536702901000,
+  "isoDate": "2018-09-11T21:55:01.000Z"
+},{
+  "user": "UCLUJ75QW",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLUJ75QW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702901.000200",
+  "timestamp": 1536702901000,
+  "isoDate": "2018-09-11T21:55:01.000Z"
+},{
+  "user": "UCLSTHW1M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLSTHW1M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702900.000800",
+  "timestamp": 1536702900000,
+  "isoDate": "2018-09-11T21:55:00.000Z"
+},{
+  "user": "UCLSQ3CBD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLSQ3CBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702900.000600",
+  "timestamp": 1536702900000,
+  "isoDate": "2018-09-11T21:55:00.000Z"
+},{
+  "user": "UCLS7E7LP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLS7E7LP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702900.000400",
+  "timestamp": 1536702900000,
+  "isoDate": "2018-09-11T21:55:00.000Z"
+},{
+  "user": "UCLS72NDT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLS72NDT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702900.000200",
+  "timestamp": 1536702900000,
+  "isoDate": "2018-09-11T21:55:00.000Z"
+},{
+  "user": "UCLRW3PHD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLRW3PHD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702899.000600",
+  "timestamp": 1536702899000,
+  "isoDate": "2018-09-11T21:54:59.000Z"
+},{
+  "user": "UCLRESS4X",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLRESS4X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702899.000400",
+  "timestamp": 1536702899000,
+  "isoDate": "2018-09-11T21:54:59.000Z"
+},{
+  "user": "UCLQG3TE3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLQG3TE3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702899.000200",
+  "timestamp": 1536702899000,
+  "isoDate": "2018-09-11T21:54:59.000Z"
+},{
+  "user": "UCLPKBAA3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLPKBAA3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702898.000600",
+  "timestamp": 1536702898000,
+  "isoDate": "2018-09-11T21:54:58.000Z"
+},{
+  "user": "UCLP8HS8P",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLP8HS8P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702898.000400",
+  "timestamp": 1536702898000,
+  "isoDate": "2018-09-11T21:54:58.000Z"
+},{
+  "user": "UCLLQPDLP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLLQPDLP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702898.000200",
+  "timestamp": 1536702898000,
+  "isoDate": "2018-09-11T21:54:58.000Z"
+},{
+  "user": "UCLLEAC9M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLLEAC9M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702897.000800",
+  "timestamp": 1536702897000,
+  "isoDate": "2018-09-11T21:54:57.000Z"
+},{
+  "user": "UCLLCB0CX",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLLCB0CX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702897.000600",
+  "timestamp": 1536702897000,
+  "isoDate": "2018-09-11T21:54:57.000Z"
+},{
+  "user": "UCLKV8TBR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLKV8TBR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702897.000400",
+  "timestamp": 1536702897000,
+  "isoDate": "2018-09-11T21:54:57.000Z"
+},{
+  "user": "UCLKUG5N3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLKUG5N3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702897.000200",
+  "timestamp": 1536702897000,
+  "isoDate": "2018-09-11T21:54:57.000Z"
+},{
+  "user": "UCLKM6ZK9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLKM6ZK9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702896.000600",
+  "timestamp": 1536702896000,
+  "isoDate": "2018-09-11T21:54:56.000Z"
+},{
+  "user": "UCLH5PETE",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702896.000400",
+  "timestamp": 1536702896000,
+  "isoDate": "2018-09-11T21:54:56.000Z"
+},{
+  "user": "UCLDM2Y2D",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLDM2Y2D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702896.000200",
+  "timestamp": 1536702896000,
+  "isoDate": "2018-09-11T21:54:56.000Z"
+},{
+  "user": "UCLD7PY8M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLD7PY8M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702895.000800",
+  "timestamp": 1536702895000,
+  "isoDate": "2018-09-11T21:54:55.000Z"
+},{
+  "user": "UCLCLNK9T",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLCLNK9T> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702895.000600",
+  "timestamp": 1536702895000,
+  "isoDate": "2018-09-11T21:54:55.000Z"
+},{
+  "user": "UCLBLH82G",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCLBLH82G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702895.000400",
+  "timestamp": 1536702895000,
+  "isoDate": "2018-09-11T21:54:55.000Z"
+},{
+  "user": "UCL9WMVN1",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL9WMVN1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702895.000200",
+  "timestamp": 1536702895000,
+  "isoDate": "2018-09-11T21:54:55.000Z"
+},{
+  "user": "UCL947C76",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL947C76> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702894.000600",
+  "timestamp": 1536702894000,
+  "isoDate": "2018-09-11T21:54:54.000Z"
+},{
+  "user": "UCL71RK7X",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL71RK7X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702894.000400",
+  "timestamp": 1536702894000,
+  "isoDate": "2018-09-11T21:54:54.000Z"
+},{
+  "user": "UCL4T1F4M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL4T1F4M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702894.000200",
+  "timestamp": 1536702894000,
+  "isoDate": "2018-09-11T21:54:54.000Z"
+},{
+  "user": "UCL497WV7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL497WV7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702893.000800",
+  "timestamp": 1536702893000,
+  "isoDate": "2018-09-11T21:54:53.000Z"
+},{
+  "user": "UCL3JNNLA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL3JNNLA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702893.000600",
+  "timestamp": 1536702893000,
+  "isoDate": "2018-09-11T21:54:53.000Z"
+},{
+  "user": "UCL34GM7D",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL34GM7D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702893.000400",
+  "timestamp": 1536702893000,
+  "isoDate": "2018-09-11T21:54:53.000Z"
+},{
+  "user": "UCL1GQH3J",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCL1GQH3J> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702893.000200",
+  "timestamp": 1536702893000,
+  "isoDate": "2018-09-11T21:54:53.000Z"
+},{
+  "user": "UCKUJJ9B5",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKUJJ9B5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702892.000600",
+  "timestamp": 1536702892000,
+  "isoDate": "2018-09-11T21:54:52.000Z"
+},{
+  "user": "UCKUJ8KNZ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKUJ8KNZ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702892.000400",
+  "timestamp": 1536702892000,
+  "isoDate": "2018-09-11T21:54:52.000Z"
+},{
+  "user": "UCKUJ1G0Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKUJ1G0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702892.000200",
+  "timestamp": 1536702892000,
+  "isoDate": "2018-09-11T21:54:52.000Z"
+},{
+  "user": "UCKUCG677",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKUCG677> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702891.000800",
+  "timestamp": 1536702891000,
+  "isoDate": "2018-09-11T21:54:51.000Z"
+},{
+  "user": "UCKUC2PMZ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKUC2PMZ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702891.000600",
+  "timestamp": 1536702891000,
+  "isoDate": "2018-09-11T21:54:51.000Z"
+},{
+  "user": "UCKTTPJUV",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKTTPJUV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702891.000400",
+  "timestamp": 1536702891000,
+  "isoDate": "2018-09-11T21:54:51.000Z"
+},{
+  "user": "UCKTSBCGH",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKTSBCGH> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702891.000200",
+  "timestamp": 1536702891000,
+  "isoDate": "2018-09-11T21:54:51.000Z"
+},{
+  "user": "UCKTK6W4C",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKTK6W4C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702890.000700",
+  "timestamp": 1536702890000,
+  "isoDate": "2018-09-11T21:54:50.000Z"
+},{
+  "user": "UCKSWEFHT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKSWEFHT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702890.000500",
+  "timestamp": 1536702890000,
+  "isoDate": "2018-09-11T21:54:50.000Z"
+},{
+  "user": "UCKSMVC3V",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKSMVC3V> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702890.000300",
+  "timestamp": 1536702890000,
+  "isoDate": "2018-09-11T21:54:50.000Z"
+},{
+  "user": "UCKS28REH",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKS28REH> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702890.000100",
+  "timestamp": 1536702890000,
+  "isoDate": "2018-09-11T21:54:50.000Z"
+},{
+  "user": "UCKRZB51B",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKRZB51B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702889.000600",
+  "timestamp": 1536702889000,
+  "isoDate": "2018-09-11T21:54:49.000Z"
+},{
+  "user": "UCKRSV7RR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKRSV7RR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702889.000400",
+  "timestamp": 1536702889000,
+  "isoDate": "2018-09-11T21:54:49.000Z"
+},{
+  "user": "UCKREEBLM",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKREEBLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702889.000200",
+  "timestamp": 1536702889000,
+  "isoDate": "2018-09-11T21:54:49.000Z"
+},{
+  "user": "UCKRB658S",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKRB658S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702888.000800",
+  "timestamp": 1536702888000,
+  "isoDate": "2018-09-11T21:54:48.000Z"
+},{
+  "user": "UCKR9VB6W",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKR9VB6W> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702888.000600",
+  "timestamp": 1536702888000,
+  "isoDate": "2018-09-11T21:54:48.000Z"
+},{
+  "user": "UCKQQ413P",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKQQ413P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702888.000400",
+  "timestamp": 1536702888000,
+  "isoDate": "2018-09-11T21:54:48.000Z"
+},{
+  "user": "UCKQB0K3J",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKQB0K3J> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702888.000200",
+  "timestamp": 1536702888000,
+  "isoDate": "2018-09-11T21:54:48.000Z"
+},{
+  "user": "UCKPSBF7F",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKPSBF7F> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702887.000600",
+  "timestamp": 1536702887000,
+  "isoDate": "2018-09-11T21:54:47.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702887.000400",
+  "timestamp": 1536702887000,
+  "isoDate": "2018-09-11T21:54:47.000Z"
+},{
+  "user": "UCKP16NF7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKP16NF7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702887.000200",
+  "timestamp": 1536702887000,
+  "isoDate": "2018-09-11T21:54:47.000Z"
+},{
+  "user": "UCKNYFYKC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKNYFYKC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702886.000800",
+  "timestamp": 1536702886000,
+  "isoDate": "2018-09-11T21:54:46.000Z"
+},{
+  "user": "UCKNTEK8A",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKNTEK8A> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702886.000600",
+  "timestamp": 1536702886000,
+  "isoDate": "2018-09-11T21:54:46.000Z"
+},{
+  "user": "UCKNLRY2E",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKNLRY2E> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702886.000400",
+  "timestamp": 1536702886000,
+  "isoDate": "2018-09-11T21:54:46.000Z"
+},{
+  "user": "UCKNJMNGZ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKNJMNGZ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702886.000200",
+  "timestamp": 1536702886000,
+  "isoDate": "2018-09-11T21:54:46.000Z"
+},{
+  "user": "UCKND4DAN",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKND4DAN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702885.000700",
+  "timestamp": 1536702885000,
+  "isoDate": "2018-09-11T21:54:45.000Z"
+},{
+  "user": "UCKN7DSF4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKN7DSF4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702885.000500",
+  "timestamp": 1536702885000,
+  "isoDate": "2018-09-11T21:54:45.000Z"
+},{
+  "user": "UCKN6DZB4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKN6DZB4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702885.000300",
+  "timestamp": 1536702885000,
+  "isoDate": "2018-09-11T21:54:45.000Z"
+},{
+  "user": "UCKN5GKTN",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKN5GKTN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702885.000100",
+  "timestamp": 1536702885000,
+  "isoDate": "2018-09-11T21:54:45.000Z"
+},{
+  "user": "UCKN3HR43",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKN3HR43> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702884.000600",
+  "timestamp": 1536702884000,
+  "isoDate": "2018-09-11T21:54:44.000Z"
+},{
+  "user": "UCKN0ANF4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKN0ANF4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702884.000400",
+  "timestamp": 1536702884000,
+  "isoDate": "2018-09-11T21:54:44.000Z"
+},{
+  "user": "UCKN0503D",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKN0503D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702884.000200",
+  "timestamp": 1536702884000,
+  "isoDate": "2018-09-11T21:54:44.000Z"
+},{
+  "user": "UCKMXUFCK",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKMXUFCK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702883.000800",
+  "timestamp": 1536702883000,
+  "isoDate": "2018-09-11T21:54:43.000Z"
+},{
+  "user": "UCKMQ48V8",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKMQ48V8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702883.000600",
+  "timestamp": 1536702883000,
+  "isoDate": "2018-09-11T21:54:43.000Z"
+},{
+  "user": "UCKM1PDS6",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKM1PDS6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702883.000400",
+  "timestamp": 1536702883000,
+  "isoDate": "2018-09-11T21:54:43.000Z"
+},{
+  "user": "UCKLZ6KKM",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKLZ6KKM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702883.000200",
+  "timestamp": 1536702883000,
+  "isoDate": "2018-09-11T21:54:43.000Z"
+},{
+  "user": "UCKLFGUP5",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKLFGUP5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702882.000600",
+  "timestamp": 1536702882000,
+  "isoDate": "2018-09-11T21:54:42.000Z"
+},{
+  "user": "UCKL4UM8T",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKL4UM8T> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702882.000400",
+  "timestamp": 1536702882000,
+  "isoDate": "2018-09-11T21:54:42.000Z"
+},{
+  "user": "UCKKFEEGK",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKKFEEGK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702882.000200",
+  "timestamp": 1536702882000,
+  "isoDate": "2018-09-11T21:54:42.000Z"
+},{
+  "user": "UCKJVJBNX",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJVJBNX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702881.000600",
+  "timestamp": 1536702881000,
+  "isoDate": "2018-09-11T21:54:41.000Z"
+},{
+  "user": "UCKJS296W",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJS296W> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702881.000400",
+  "timestamp": 1536702881000,
+  "isoDate": "2018-09-11T21:54:41.000Z"
+},{
+  "user": "UCKJNRCN5",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJNRCN5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702881.000200",
+  "timestamp": 1536702881000,
+  "isoDate": "2018-09-11T21:54:41.000Z"
+},{
+  "user": "UCKJL3MT5",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJL3MT5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702880.000800",
+  "timestamp": 1536702880000,
+  "isoDate": "2018-09-11T21:54:40.000Z"
+},{
+  "user": "UCKJHUQAW",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJHUQAW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702880.000600",
+  "timestamp": 1536702880000,
+  "isoDate": "2018-09-11T21:54:40.000Z"
+},{
+  "user": "UCKJH7URH",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJH7URH> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702880.000400",
+  "timestamp": 1536702880000,
+  "isoDate": "2018-09-11T21:54:40.000Z"
+},{
+  "user": "UCKJGNBFC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJGNBFC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702880.000200",
+  "timestamp": 1536702880000,
+  "isoDate": "2018-09-11T21:54:40.000Z"
+},{
+  "user": "UCKJG5SR1",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJG5SR1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702879.000800",
+  "timestamp": 1536702879000,
+  "isoDate": "2018-09-11T21:54:39.000Z"
+},{
+  "user": "UCKJ9GSMR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJ9GSMR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702879.000600",
+  "timestamp": 1536702879000,
+  "isoDate": "2018-09-11T21:54:39.000Z"
+},{
+  "user": "UCKJ9090B",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJ9090B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702879.000400",
+  "timestamp": 1536702879000,
+  "isoDate": "2018-09-11T21:54:39.000Z"
+},{
+  "user": "UCKJ4F18T",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJ4F18T> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702879.000200",
+  "timestamp": 1536702879000,
+  "isoDate": "2018-09-11T21:54:39.000Z"
+},{
+  "user": "UCKJ2FFFW",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKJ2FFFW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702878.000600",
+  "timestamp": 1536702878000,
+  "isoDate": "2018-09-11T21:54:38.000Z"
+},{
+  "user": "UCKHD9U7N",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKHD9U7N> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702878.000400",
+  "timestamp": 1536702878000,
+  "isoDate": "2018-09-11T21:54:38.000Z"
+},{
+  "user": "UCKH43NJC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKH43NJC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702878.000200",
+  "timestamp": 1536702878000,
+  "isoDate": "2018-09-11T21:54:38.000Z"
+},{
+  "user": "UCKGBST4Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKGBST4Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702877.000600",
+  "timestamp": 1536702877000,
+  "isoDate": "2018-09-11T21:54:37.000Z"
+},{
+  "user": "UCKGABUCC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKGABUCC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702877.000400",
+  "timestamp": 1536702877000,
+  "isoDate": "2018-09-11T21:54:37.000Z"
+},{
+  "user": "UCKGA9360",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKGA9360> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702877.000200",
+  "timestamp": 1536702877000,
+  "isoDate": "2018-09-11T21:54:37.000Z"
+},{
+  "user": "UCKG9E2D7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKG9E2D7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702876.000800",
+  "timestamp": 1536702876000,
+  "isoDate": "2018-09-11T21:54:36.000Z"
+},{
+  "user": "UCKG9486M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKG9486M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702876.000600",
+  "timestamp": 1536702876000,
+  "isoDate": "2018-09-11T21:54:36.000Z"
+},{
+  "user": "UCKG25160",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKG25160> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702876.000400",
+  "timestamp": 1536702876000,
+  "isoDate": "2018-09-11T21:54:36.000Z"
+},{
+  "user": "UCKFVB61Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKFVB61Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702876.000200",
+  "timestamp": 1536702876000,
+  "isoDate": "2018-09-11T21:54:36.000Z"
+},{
+  "user": "UCKFUFC20",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKFUFC20> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702875.000800",
+  "timestamp": 1536702875000,
+  "isoDate": "2018-09-11T21:54:35.000Z"
+},{
+  "user": "UCKFGND6Y",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKFGND6Y> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702875.000600",
+  "timestamp": 1536702875000,
+  "isoDate": "2018-09-11T21:54:35.000Z"
+},{
+  "user": "UCKETDTC3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKETDTC3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702875.000400",
+  "timestamp": 1536702875000,
+  "isoDate": "2018-09-11T21:54:35.000Z"
+},{
+  "user": "UCKE4JGQH",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKE4JGQH> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702875.000200",
+  "timestamp": 1536702875000,
+  "isoDate": "2018-09-11T21:54:35.000Z"
+},{
+  "user": "UCKDE91U0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKDE91U0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702874.000600",
+  "timestamp": 1536702874000,
+  "isoDate": "2018-09-11T21:54:34.000Z"
+},{
+  "user": "UCKD0R9BJ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKD0R9BJ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702874.000400",
+  "timestamp": 1536702874000,
+  "isoDate": "2018-09-11T21:54:34.000Z"
+},{
+  "user": "UCKCT7JJ0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKCT7JJ0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702874.000200",
+  "timestamp": 1536702874000,
+  "isoDate": "2018-09-11T21:54:34.000Z"
+},{
+  "user": "UCKCG9F5W",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKCG9F5W> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702873.000400",
+  "timestamp": 1536702873000,
+  "isoDate": "2018-09-11T21:54:33.000Z"
+},{
+  "user": "UCKCE6LC9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKCE6LC9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702873.000200",
+  "timestamp": 1536702873000,
+  "isoDate": "2018-09-11T21:54:33.000Z"
+},{
+  "user": "UCKC7PV08",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKC7PV08> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702872.000600",
+  "timestamp": 1536702872000,
+  "isoDate": "2018-09-11T21:54:32.000Z"
+},{
+  "user": "UCKBZ14QL",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKBZ14QL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702872.000400",
+  "timestamp": 1536702872000,
+  "isoDate": "2018-09-11T21:54:32.000Z"
+},{
+  "user": "UCKBYBPKJ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKBYBPKJ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702872.000200",
+  "timestamp": 1536702872000,
+  "isoDate": "2018-09-11T21:54:32.000Z"
+},{
+  "user": "UCKBXPBV2",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKBXPBV2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702871.000600",
+  "timestamp": 1536702871000,
+  "isoDate": "2018-09-11T21:54:31.000Z"
+},{
+  "user": "UCKAFGB5E",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCKAFGB5E> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702871.000400",
+  "timestamp": 1536702871000,
+  "isoDate": "2018-09-11T21:54:31.000Z"
+},{
+  "user": "UCK9QGUDN",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK9QGUDN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702871.000200",
+  "timestamp": 1536702871000,
+  "isoDate": "2018-09-11T21:54:31.000Z"
+},{
+  "user": "UCK9NAHNC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK9NAHNC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702870.000600",
+  "timestamp": 1536702870000,
+  "isoDate": "2018-09-11T21:54:30.000Z"
+},{
+  "user": "UCK90R1PT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK90R1PT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702870.000400",
+  "timestamp": 1536702870000,
+  "isoDate": "2018-09-11T21:54:30.000Z"
+},{
+  "user": "UCK8RVDNC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK8RVDNC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702870.000200",
+  "timestamp": 1536702870000,
+  "isoDate": "2018-09-11T21:54:30.000Z"
+},{
+  "user": "UCK81HAUR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK81HAUR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702869.000800",
+  "timestamp": 1536702869000,
+  "isoDate": "2018-09-11T21:54:29.000Z"
+},{
+  "user": "UCK813HAL",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK813HAL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702869.000600",
+  "timestamp": 1536702869000,
+  "isoDate": "2018-09-11T21:54:29.000Z"
+},{
+  "user": "UCK7S18V7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK7S18V7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702869.000400",
+  "timestamp": 1536702869000,
+  "isoDate": "2018-09-11T21:54:29.000Z"
+},{
+  "user": "UCK7C4W3T",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK7C4W3T> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702869.000200",
+  "timestamp": 1536702869000,
+  "isoDate": "2018-09-11T21:54:29.000Z"
+},{
+  "user": "UCK743WHF",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK743WHF> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702868.000600",
+  "timestamp": 1536702868000,
+  "isoDate": "2018-09-11T21:54:28.000Z"
+},{
+  "user": "UCK723MHP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK723MHP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702868.000400",
+  "timestamp": 1536702868000,
+  "isoDate": "2018-09-11T21:54:28.000Z"
+},{
+  "user": "UCK5N3T2M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK5N3T2M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702868.000200",
+  "timestamp": 1536702868000,
+  "isoDate": "2018-09-11T21:54:28.000Z"
+},{
+  "user": "UCK357RCG",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK357RCG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702867.000600",
+  "timestamp": 1536702867000,
+  "isoDate": "2018-09-11T21:54:27.000Z"
+},{
+  "user": "UCK2VED16",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK2VED16> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702867.000400",
+  "timestamp": 1536702867000,
+  "isoDate": "2018-09-11T21:54:27.000Z"
+},{
+  "user": "UCK2RLDFB",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK2RLDFB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702867.000200",
+  "timestamp": 1536702867000,
+  "isoDate": "2018-09-11T21:54:27.000Z"
+},{
+  "user": "UCK2MJ65P",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK2MJ65P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702866.000800",
+  "timestamp": 1536702866000,
+  "isoDate": "2018-09-11T21:54:26.000Z"
+},{
+  "user": "UCK2F285N",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK2F285N> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702866.000600",
+  "timestamp": 1536702866000,
+  "isoDate": "2018-09-11T21:54:26.000Z"
+},{
+  "user": "UCK276UDP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK276UDP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702866.000400",
+  "timestamp": 1536702866000,
+  "isoDate": "2018-09-11T21:54:26.000Z"
+},{
+  "user": "UCK1YJDMX",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1YJDMX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702866.000200",
+  "timestamp": 1536702866000,
+  "isoDate": "2018-09-11T21:54:26.000Z"
+},{
+  "user": "UCK1VSH97",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1VSH97> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702865.000600",
+  "timestamp": 1536702865000,
+  "isoDate": "2018-09-11T21:54:25.000Z"
+},{
+  "user": "UCK1V13K3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1V13K3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702865.000400",
+  "timestamp": 1536702865000,
+  "isoDate": "2018-09-11T21:54:25.000Z"
+},{
+  "user": "UCK1PA2MP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1PA2MP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702865.000200",
+  "timestamp": 1536702865000,
+  "isoDate": "2018-09-11T21:54:25.000Z"
+},{
+  "user": "UCK1NRH6V",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1NRH6V> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702864.000700",
+  "timestamp": 1536702864000,
+  "isoDate": "2018-09-11T21:54:24.000Z"
+},{
+  "user": "UCK1N6SRW",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1N6SRW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702864.000500",
+  "timestamp": 1536702864000,
+  "isoDate": "2018-09-11T21:54:24.000Z"
+},{
+  "user": "UCK1JSUFK",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1JSUFK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702864.000300",
+  "timestamp": 1536702864000,
+  "isoDate": "2018-09-11T21:54:24.000Z"
+},{
+  "user": "UCK1CFYMN",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK1CFYMN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702864.000100",
+  "timestamp": 1536702864000,
+  "isoDate": "2018-09-11T21:54:24.000Z"
+},{
+  "user": "UCK18UBL0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK18UBL0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702863.000600",
+  "timestamp": 1536702863000,
+  "isoDate": "2018-09-11T21:54:23.000Z"
+},{
+  "user": "UCK15K2N4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK15K2N4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702863.000400",
+  "timestamp": 1536702863000,
+  "isoDate": "2018-09-11T21:54:23.000Z"
+},{
+  "user": "UCK0QR4Q0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK0QR4Q0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702863.000200",
+  "timestamp": 1536702863000,
+  "isoDate": "2018-09-11T21:54:23.000Z"
+},{
+  "user": "UCK0M7C72",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK0M7C72> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702862.000600",
+  "timestamp": 1536702862000,
+  "isoDate": "2018-09-11T21:54:22.000Z"
+},{
+  "user": "UCK0GP5DE",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK0GP5DE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702862.000400",
+  "timestamp": 1536702862000,
+  "isoDate": "2018-09-11T21:54:22.000Z"
+},{
+  "user": "UCK0C7YV6",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCK0C7YV6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702862.000200",
+  "timestamp": 1536702862000,
+  "isoDate": "2018-09-11T21:54:22.000Z"
+},{
+  "user": "UCJT4PF4Y",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJT4PF4Y> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702861.000600",
+  "timestamp": 1536702861000,
+  "isoDate": "2018-09-11T21:54:21.000Z"
+},{
+  "user": "UCJT49YSU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJT49YSU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702861.000400",
+  "timestamp": 1536702861000,
+  "isoDate": "2018-09-11T21:54:21.000Z"
+},{
+  "user": "UCJT3DUGY",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJT3DUGY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702861.000200",
+  "timestamp": 1536702861000,
+  "isoDate": "2018-09-11T21:54:21.000Z"
+},{
+  "user": "UCJT2HW3S",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJT2HW3S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702860.000800",
+  "timestamp": 1536702860000,
+  "isoDate": "2018-09-11T21:54:20.000Z"
+},{
+  "user": "UCJSYC1UY",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJSYC1UY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702860.000600",
+  "timestamp": 1536702860000,
+  "isoDate": "2018-09-11T21:54:20.000Z"
+},{
+  "user": "UCJSXCTLG",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJSXCTLG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702860.000400",
+  "timestamp": 1536702860000,
+  "isoDate": "2018-09-11T21:54:20.000Z"
+},{
+  "user": "UCJSSAWDN",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJSSAWDN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702860.000200",
+  "timestamp": 1536702860000,
+  "isoDate": "2018-09-11T21:54:20.000Z"
+},{
+  "user": "UCJSMATQQ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJSMATQQ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702859.000600",
+  "timestamp": 1536702859000,
+  "isoDate": "2018-09-11T21:54:19.000Z"
+},{
+  "user": "UCJJUNUT0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJJUNUT0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702859.000400",
+  "timestamp": 1536702859000,
+  "isoDate": "2018-09-11T21:54:19.000Z"
+},{
+  "user": "UCJ906JM7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCJ906JM7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702859.000200",
+  "timestamp": 1536702859000,
+  "isoDate": "2018-09-11T21:54:19.000Z"
+},{
+  "user": "UCFHU1Q3Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCFHU1Q3Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702858.000800",
+  "timestamp": 1536702858000,
+  "isoDate": "2018-09-11T21:54:18.000Z"
+},{
+  "user": "UCESEDMQF",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCESEDMQF> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702858.000600",
+  "timestamp": 1536702858000,
+  "isoDate": "2018-09-11T21:54:18.000Z"
+},{
+  "user": "UCE4J2N2H",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCE4J2N2H> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702858.000400",
+  "timestamp": 1536702858000,
+  "isoDate": "2018-09-11T21:54:18.000Z"
+},{
+  "user": "UCE2QHVQ9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCE2QHVQ9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702858.000200",
+  "timestamp": 1536702858000,
+  "isoDate": "2018-09-11T21:54:18.000Z"
+},{
+  "user": "UCDRPJ273",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCDRPJ273> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702857.000800",
+  "timestamp": 1536702857000,
+  "isoDate": "2018-09-11T21:54:17.000Z"
+},{
+  "user": "UCD4NNLAZ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCD4NNLAZ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702857.000600",
+  "timestamp": 1536702857000,
+  "isoDate": "2018-09-11T21:54:17.000Z"
+},{
+  "user": "UCCSQ9ATY",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCCSQ9ATY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702857.000400",
+  "timestamp": 1536702857000,
+  "isoDate": "2018-09-11T21:54:17.000Z"
+},{
+  "user": "UCCRM8JB0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCCRM8JB0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702857.000200",
+  "timestamp": 1536702857000,
+  "isoDate": "2018-09-11T21:54:17.000Z"
+},{
+  "user": "UCCJUL1PF",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCCJUL1PF> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702856.000600",
+  "timestamp": 1536702856000,
+  "isoDate": "2018-09-11T21:54:16.000Z"
+},{
+  "user": "UCCGPRM6J",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCCGPRM6J> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702856.000400",
+  "timestamp": 1536702856000,
+  "isoDate": "2018-09-11T21:54:16.000Z"
+},{
+  "user": "UCCAGCHSA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCCAGCHSA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702856.000200",
+  "timestamp": 1536702856000,
+  "isoDate": "2018-09-11T21:54:16.000Z"
+},{
+  "user": "UCC9C20F9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCC9C20F9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702855.000800",
+  "timestamp": 1536702855000,
+  "isoDate": "2018-09-11T21:54:15.000Z"
+},{
+  "user": "UCC3B4L87",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCC3B4L87> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702855.000600",
+  "timestamp": 1536702855000,
+  "isoDate": "2018-09-11T21:54:15.000Z"
+},{
+  "user": "UCC33N9SB",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCC33N9SB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702855.000400",
+  "timestamp": 1536702855000,
+  "isoDate": "2018-09-11T21:54:15.000Z"
+},{
+  "user": "UCBSMT5D4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCBSMT5D4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702855.000200",
+  "timestamp": 1536702855000,
+  "isoDate": "2018-09-11T21:54:15.000Z"
+},{
+  "user": "UCBS55D7Y",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCBS55D7Y> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702854.000800",
+  "timestamp": 1536702854000,
+  "isoDate": "2018-09-11T21:54:14.000Z"
+},{
+  "user": "UCBD62QCS",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCBD62QCS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702854.000600",
+  "timestamp": 1536702854000,
+  "isoDate": "2018-09-11T21:54:14.000Z"
+},{
+  "user": "UCBC44VRD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCBC44VRD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702854.000400",
+  "timestamp": 1536702854000,
+  "isoDate": "2018-09-11T21:54:14.000Z"
+},{
+  "user": "UCBAEJR7H",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCBAEJR7H> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702854.000200",
+  "timestamp": 1536702854000,
+  "isoDate": "2018-09-11T21:54:14.000Z"
+},{
+  "user": "UCB7D5W4C",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCB7D5W4C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702853.000600",
+  "timestamp": 1536702853000,
+  "isoDate": "2018-09-11T21:54:13.000Z"
+},{
+  "user": "UCB7CBAUA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCB7CBAUA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702853.000400",
+  "timestamp": 1536702853000,
+  "isoDate": "2018-09-11T21:54:13.000Z"
+},{
+  "user": "UCB78GYQ4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCB78GYQ4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702853.000200",
+  "timestamp": 1536702853000,
+  "isoDate": "2018-09-11T21:54:13.000Z"
+},{
+  "user": "UCB3XPQ14",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCB3XPQ14> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702852.000800",
+  "timestamp": 1536702852000,
+  "isoDate": "2018-09-11T21:54:12.000Z"
+},{
+  "user": "UCB3E0W21",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCB3E0W21> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702852.000600",
+  "timestamp": 1536702852000,
+  "isoDate": "2018-09-11T21:54:12.000Z"
+},{
+  "user": "UCB27AA11",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCB27AA11> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702852.000400",
+  "timestamp": 1536702852000,
+  "isoDate": "2018-09-11T21:54:12.000Z"
+},{
+  "user": "UCAV88PEE",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAV88PEE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702852.000200",
+  "timestamp": 1536702852000,
+  "isoDate": "2018-09-11T21:54:12.000Z"
+},{
+  "user": "UCAUGUX50",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAUGUX50> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702851.000800",
+  "timestamp": 1536702851000,
+  "isoDate": "2018-09-11T21:54:11.000Z"
+},{
+  "user": "UCARLGNMS",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCARLGNMS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702851.000600",
+  "timestamp": 1536702851000,
+  "isoDate": "2018-09-11T21:54:11.000Z"
+},{
+  "user": "UCARB2G7M",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCARB2G7M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702851.000400",
+  "timestamp": 1536702851000,
+  "isoDate": "2018-09-11T21:54:11.000Z"
+},{
+  "user": "UCAKN24F4",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAKN24F4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702851.000200",
+  "timestamp": 1536702851000,
+  "isoDate": "2018-09-11T21:54:11.000Z"
+},{
+  "user": "UCAJYA806",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAJYA806> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702850.000600",
+  "timestamp": 1536702850000,
+  "isoDate": "2018-09-11T21:54:10.000Z"
+},{
+  "user": "UCAJXKKKQ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAJXKKKQ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702850.000400",
+  "timestamp": 1536702850000,
+  "isoDate": "2018-09-11T21:54:10.000Z"
+},{
+  "user": "UCAJJSXGW",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAJJSXGW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702850.000200",
+  "timestamp": 1536702850000,
+  "isoDate": "2018-09-11T21:54:10.000Z"
+},{
+  "user": "UCAJ61Q0N",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAJ61Q0N> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702849.000800",
+  "timestamp": 1536702849000,
+  "isoDate": "2018-09-11T21:54:09.000Z"
+},{
+  "user": "UCAHVPAMC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAHVPAMC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702849.000600",
+  "timestamp": 1536702849000,
+  "isoDate": "2018-09-11T21:54:09.000Z"
+},{
+  "user": "UCAG9L6CS",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAG9L6CS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702849.000400",
+  "timestamp": 1536702849000,
+  "isoDate": "2018-09-11T21:54:09.000Z"
+},{
+  "user": "UCAG3KLDA",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCAG3KLDA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702849.000200",
+  "timestamp": 1536702849000,
+  "isoDate": "2018-09-11T21:54:09.000Z"
+},{
+  "user": "UCADQHUD8",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCADQHUD8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702848.000600",
+  "timestamp": 1536702848000,
+  "isoDate": "2018-09-11T21:54:08.000Z"
+},{
+  "user": "UCABS9KB9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCABS9KB9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702848.000400",
+  "timestamp": 1536702848000,
+  "isoDate": "2018-09-11T21:54:08.000Z"
+},{
+  "user": "UCABKR1F1",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCABKR1F1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702848.000200",
+  "timestamp": 1536702848000,
+  "isoDate": "2018-09-11T21:54:08.000Z"
+},{
+  "user": "UCABDBU7K",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCABDBU7K> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702847.000600",
+  "timestamp": 1536702847000,
+  "isoDate": "2018-09-11T21:54:07.000Z"
+},{
+  "user": "UCA90EZ4P",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCA90EZ4P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702847.000400",
+  "timestamp": 1536702847000,
+  "isoDate": "2018-09-11T21:54:07.000Z"
+},{
+  "user": "UCA8XU42Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCA8XU42Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702847.000200",
+  "timestamp": 1536702847000,
+  "isoDate": "2018-09-11T21:54:07.000Z"
+},{
+  "user": "UCA8G5MN0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCA8G5MN0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702846.000600",
+  "timestamp": 1536702846000,
+  "isoDate": "2018-09-11T21:54:06.000Z"
+},{
+  "user": "UCA6PHNUS",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCA6PHNUS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702846.000400",
+  "timestamp": 1536702846000,
+  "isoDate": "2018-09-11T21:54:06.000Z"
+},{
+  "user": "UCA3C9FQC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCA3C9FQC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702846.000200",
+  "timestamp": 1536702846000,
+  "isoDate": "2018-09-11T21:54:06.000Z"
+},{
+  "user": "UCA1C6GHK",
+  "inviter": "UC7UPACMT",
+  "text": "<@UCA1C6GHK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702845.000800",
+  "timestamp": 1536702845000,
+  "isoDate": "2018-09-11T21:54:05.000Z"
+},{
+  "user": "UC9V1RLCS",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9V1RLCS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702845.000600",
+  "timestamp": 1536702845000,
+  "isoDate": "2018-09-11T21:54:05.000Z"
+},{
+  "user": "UC9UE09GR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9UE09GR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702845.000400",
+  "timestamp": 1536702845000,
+  "isoDate": "2018-09-11T21:54:05.000Z"
+},{
+  "user": "UC9RB5X7F",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9RB5X7F> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702845.000200",
+  "timestamp": 1536702845000,
+  "isoDate": "2018-09-11T21:54:05.000Z"
+},{
+  "user": "UC9Q1P5FB",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9Q1P5FB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702844.000800",
+  "timestamp": 1536702844000,
+  "isoDate": "2018-09-11T21:54:04.000Z"
+},{
+  "user": "UC9KJ1E66",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9KJ1E66> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702844.000600",
+  "timestamp": 1536702844000,
+  "isoDate": "2018-09-11T21:54:04.000Z"
+},{
+  "user": "UC9JZ3FPV",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9JZ3FPV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702844.000400",
+  "timestamp": 1536702844000,
+  "isoDate": "2018-09-11T21:54:04.000Z"
+},{
+  "user": "UC9JGTG3B",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9JGTG3B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702844.000200",
+  "timestamp": 1536702844000,
+  "isoDate": "2018-09-11T21:54:04.000Z"
+},{
+  "user": "UC9HKP27P",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9HKP27P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702843.000600",
+  "timestamp": 1536702843000,
+  "isoDate": "2018-09-11T21:54:03.000Z"
+},{
+  "user": "UC9GYR6A0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9GYR6A0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702843.000400",
+  "timestamp": 1536702843000,
+  "isoDate": "2018-09-11T21:54:03.000Z"
+},{
+  "user": "UC9GB35M0",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9GB35M0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702843.000200",
+  "timestamp": 1536702843000,
+  "isoDate": "2018-09-11T21:54:03.000Z"
+},{
+  "user": "UC9G790F3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9G790F3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702842.000800",
+  "timestamp": 1536702842000,
+  "isoDate": "2018-09-11T21:54:02.000Z"
+},{
+  "user": "UC9FMV9PC",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9FMV9PC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702842.000600",
+  "timestamp": 1536702842000,
+  "isoDate": "2018-09-11T21:54:02.000Z"
+},{
+  "user": "UC9FMUWBU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9FMUWBU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702842.000400",
+  "timestamp": 1536702842000,
+  "isoDate": "2018-09-11T21:54:02.000Z"
+},{
+  "user": "UC9D6MZ7D",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9D6MZ7D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702842.000200",
+  "timestamp": 1536702842000,
+  "isoDate": "2018-09-11T21:54:02.000Z"
+},{
+  "user": "UC9CRC9N1",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9CRC9N1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702841.000600",
+  "timestamp": 1536702841000,
+  "isoDate": "2018-09-11T21:54:01.000Z"
+},{
+  "user": "UC9CHTFNZ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9CHTFNZ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702841.000400",
+  "timestamp": 1536702841000,
+  "isoDate": "2018-09-11T21:54:01.000Z"
+},{
+  "user": "UC9CGJJMT",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9CGJJMT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702841.000200",
+  "timestamp": 1536702841000,
+  "isoDate": "2018-09-11T21:54:01.000Z"
+},{
+  "user": "UC9CG7D1B",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9CG7D1B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702840.000600",
+  "timestamp": 1536702840000,
+  "isoDate": "2018-09-11T21:54:00.000Z"
+},{
+  "user": "UC9CDLGG5",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9CDLGG5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702840.000400",
+  "timestamp": 1536702840000,
+  "isoDate": "2018-09-11T21:54:00.000Z"
+},{
+  "user": "UC9B317TL",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9B317TL> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702840.000200",
+  "timestamp": 1536702840000,
+  "isoDate": "2018-09-11T21:54:00.000Z"
+},{
+  "user": "UC9A95C3U",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9A95C3U> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702839.000800",
+  "timestamp": 1536702839000,
+  "isoDate": "2018-09-11T21:53:59.000Z"
+},{
+  "user": "UC99RD6R2",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC99RD6R2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702839.000600",
+  "timestamp": 1536702839000,
+  "isoDate": "2018-09-11T21:53:59.000Z"
+},{
+  "user": "UC98MS691",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC98MS691> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702839.000400",
+  "timestamp": 1536702839000,
+  "isoDate": "2018-09-11T21:53:59.000Z"
+},{
+  "user": "UC98D7K26",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC98D7K26> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702839.000200",
+  "timestamp": 1536702839000,
+  "isoDate": "2018-09-11T21:53:59.000Z"
+},{
+  "user": "UC982AP5F",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC982AP5F> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702838.000400",
+  "timestamp": 1536702838000,
+  "isoDate": "2018-09-11T21:53:58.000Z"
+},{
+  "user": "UC95H0TB3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC95H0TB3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702838.000200",
+  "timestamp": 1536702838000,
+  "isoDate": "2018-09-11T21:53:58.000Z"
+},{
+  "user": "UC953069Z",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC953069Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702837.000800",
+  "timestamp": 1536702837000,
+  "isoDate": "2018-09-11T21:53:57.000Z"
+},{
+  "user": "UC94C524C",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC94C524C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702837.000600",
+  "timestamp": 1536702837000,
+  "isoDate": "2018-09-11T21:53:57.000Z"
+},{
+  "user": "UC946BFLK",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC946BFLK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702837.000400",
+  "timestamp": 1536702837000,
+  "isoDate": "2018-09-11T21:53:57.000Z"
+},{
+  "user": "UC942ECMR",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC942ECMR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702837.000200",
+  "timestamp": 1536702837000,
+  "isoDate": "2018-09-11T21:53:57.000Z"
+},{
+  "user": "UC92P48PN",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC92P48PN> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702836.000800",
+  "timestamp": 1536702836000,
+  "isoDate": "2018-09-11T21:53:56.000Z"
+},{
+  "user": "UC92J4S2G",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702836.000600",
+  "timestamp": 1536702836000,
+  "isoDate": "2018-09-11T21:53:56.000Z"
+},{
+  "user": "UC92BGXJ8",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC92BGXJ8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702836.000400",
+  "timestamp": 1536702836000,
+  "isoDate": "2018-09-11T21:53:56.000Z"
+},{
+  "user": "UC914QQTE",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC914QQTE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702836.000200",
+  "timestamp": 1536702836000,
+  "isoDate": "2018-09-11T21:53:56.000Z"
+},{
+  "user": "UC9114E04",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC9114E04> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702835.000400",
+  "timestamp": 1536702835000,
+  "isoDate": "2018-09-11T21:53:55.000Z"
+},{
+  "user": "UC8T24TCP",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC8T24TCP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702835.000200",
+  "timestamp": 1536702835000,
+  "isoDate": "2018-09-11T21:53:55.000Z"
+},{
+  "user": "UC8RY1ERY",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC8RY1ERY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702834.000800",
+  "timestamp": 1536702834000,
+  "isoDate": "2018-09-11T21:53:54.000Z"
+},{
+  "user": "UC8MYDMB3",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC8MYDMB3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702834.000600",
+  "timestamp": 1536702834000,
+  "isoDate": "2018-09-11T21:53:54.000Z"
+},{
+  "user": "UC8MS2ZNV",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC8MS2ZNV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702834.000400",
+  "timestamp": 1536702834000,
+  "isoDate": "2018-09-11T21:53:54.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702834.000200",
+  "timestamp": 1536702834000,
+  "isoDate": "2018-09-11T21:53:54.000Z"
+},{
+  "user": "UC8GJ6JAU",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC8GJ6JAU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702833.000200",
+  "timestamp": 1536702833000,
+  "isoDate": "2018-09-11T21:53:53.000Z"
+},{
+  "user": "UC89U1LLD",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC89U1LLD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702832.000400",
+  "timestamp": 1536702832000,
+  "isoDate": "2018-09-11T21:53:52.000Z"
+},{
+  "user": "UC7UGRDUK",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC7UGRDUK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702832.000200",
+  "timestamp": 1536702832000,
+  "isoDate": "2018-09-11T21:53:52.000Z"
+},{
+  "user": "UC7MP2QBV",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC7MP2QBV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702831.000400",
+  "timestamp": 1536702831000,
+  "isoDate": "2018-09-11T21:53:51.000Z"
+},{
+  "user": "UC7JLBRR7",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC7JLBRR7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702831.000200",
+  "timestamp": 1536702831000,
+  "isoDate": "2018-09-11T21:53:51.000Z"
+},{
+  "user": "UC7GG52L9",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC7GG52L9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702830.000600",
+  "timestamp": 1536702830000,
+  "isoDate": "2018-09-11T21:53:50.000Z"
+},{
+  "user": "UC7DGFBGQ",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC7DGFBGQ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702830.000400",
+  "timestamp": 1536702830000,
+  "isoDate": "2018-09-11T21:53:50.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702830.000200",
+  "timestamp": 1536702830000,
+  "isoDate": "2018-09-11T21:53:50.000Z"
+},{
+  "user": "UC79MBTMX",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC79MBTMX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702829.000400",
+  "timestamp": 1536702829000,
+  "isoDate": "2018-09-11T21:53:49.000Z"
+},{
+  "user": "UC78DKYN5",
+  "inviter": "UC7UPACMT",
+  "text": "<@UC78DKYN5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536702829.000200",
+  "timestamp": 1536702829000,
+  "isoDate": "2018-09-11T21:53:49.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536670459.000200",
+  "timestamp": 1536670459000,
+  "isoDate": "2018-09-11T12:54:19.000Z"
+},{
+  "user": "UC8HKDBMW",
+  "text": "<@UC8HKDBMW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536664534.000200",
+  "timestamp": 1536664534000,
+  "isoDate": "2018-09-11T11:15:34.000Z"
+},{
+  "user": "UCKCGUAF6",
+  "text": "<@UCKCGUAF6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536654033.000200",
+  "timestamp": 1536654033000,
+  "isoDate": "2018-09-11T08:20:33.000Z"
+},{
+  "user": "UCAARDQSE",
+  "text": "<@UCAARDQSE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536621426.000200",
+  "timestamp": 1536621426000,
+  "isoDate": "2018-09-10T23:17:06.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536590395.000200",
+  "timestamp": 1536590395000,
+  "isoDate": "2018-09-10T14:39:55.000Z"
+},{
+  "user": "UC7MTLDGB",
+  "text": "<@UC7MTLDGB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536584667.000200",
+  "timestamp": 1536584667000,
+  "isoDate": "2018-09-10T13:04:27.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "So if you want some fun with 1 Russian and 1 Ukrainian guys - DM me : )",
+  "client_msg_id": "e3a6646d-cf6a-423d-8f68-59ab3cf44e0a",
+  "ts": "1536579431.000100",
+  "timestamp": 1536579431000,
+  "isoDate": "2018-09-10T11:37:11.000Z"
+},{
+  "type": "message",
+  "user": "UCQ3MJYP7",
+  "text": "Hi guys!\n\nMy teammate and I will arrive on October, 19 and leave on Monday. Can someone provide as with accommodation for Thursday and Monday? We don’t want to book some hotel - it’s boring.",
+  "client_msg_id": "efe63681-5d32-467e-a0f3-b48566d61a9f",
+  "ts": "1536579381.000100",
+  "timestamp": 1536579381000,
+  "isoDate": "2018-09-10T11:36:21.000Z"
+},{
+  "user": "UCQ3MJYP7",
+  "text": "<@UCQ3MJYP7> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536579373.000200",
+  "timestamp": 1536579373000,
+  "isoDate": "2018-09-10T11:36:13.000Z"
+},{
+  "user": "UCM7SJQ14",
+  "text": "<@UCM7SJQ14> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536575850.000200",
+  "timestamp": 1536575850000,
+  "isoDate": "2018-09-10T10:37:30.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536574202.000200",
+  "timestamp": 1536574202000,
+  "isoDate": "2018-09-10T10:10:02.000Z"
+},{
+  "user": "UCKK7TS4T",
+  "text": "<@UCKK7TS4T> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536569267.000200",
+  "timestamp": 1536569267000,
+  "isoDate": "2018-09-10T08:47:47.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536564857.000200",
+  "timestamp": 1536564857000,
+  "isoDate": "2018-09-10T07:34:17.000Z"
+},{
+  "user": "UC7UPACMT",
+  "text": "<@UC7UPACMT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536564246.000200",
+  "timestamp": 1536564246000,
+  "isoDate": "2018-09-10T07:24:06.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "topic": ":sleeping:",
+  "text": "<@UC7MN3GBD> set the channel topic: :sleeping:",
+  "type": "message",
+  "subtype": "channel_topic",
+  "ts": "1536562561.000100",
+  "timestamp": 1536562561000,
+  "isoDate": "2018-09-10T06:56:01.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "purpose": "Looking for a place to sleep? This is your place!",
+  "text": "<@UC7MN3GBD> set the channel purpose: Looking for a place to sleep? This is your place!",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536562530.000100",
+  "timestamp": 1536562530000,
+  "isoDate": "2018-09-10T06:55:30.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536562529.000200",
+  "timestamp": 1536562529000,
+  "isoDate": "2018-09-10T06:55:29.000Z"
+}]

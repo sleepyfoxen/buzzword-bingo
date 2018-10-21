@@ -1,0 +1,640 @@
+[
+{
+  "type": "message",
+  "user": "UC7UGRDUK",
+  "text": "You have the details here, if you don't get the code in time, add the requested domain in the description or your project on desktop, and apply for the challenge anyways!",
+  "attachments": [
+    {
+      "fallback": "[October 17th, 2018 10:49 PM] victor: Hey there :wave: \nTo get your free domain, log onto <https://go.tech/hackupc18>, fill in your details, select *Hack UPC '18* and enter the code *HACKUPC.TECH* to submit the requests.\nCoupon codes will be received on your email once approved (1-6 hours), and you can use them at checkout on www.get.tech until the last day of the hackathon to get the domain name.\nIf you have any question, send an email to the amazing _*.tech*_ team at techsquad@get.tech.",
+      "ts": "1539809356.000100",
+      "author_id": "UC7MN3GBD",
+      "author_subname": "Víctor",
+      "channel_id": "CC7U0UYAX",
+      "channel_name": "tech-domains",
+      "is_msg_unfurl": true,
+      "text": "Hey there :wave: \nTo get your free domain, log onto <https://go.tech/hackupc18>, fill in your details, select *Hack UPC '18* and enter the code *HACKUPC.TECH* to submit the requests.\nCoupon codes will be received on your email once approved (1-6 hours), and you can use them at checkout on www.get.tech until the last day of the hackathon to get the domain name.\nIf you have any question, send an email to the amazing _*.tech*_ team at techsquad@get.tech.",
+      "author_name": "Víctor",
+      "author_link": "https://hackupc2018.slack.com/team/UC7MN3GBD",
+      "author_icon": "https://avatars.slack-edge.com/2018-08-24/422958404098_4cce7189bc060070e24f_48.png",
+      "mrkdwn_in": [
+        "text"
+      ],
+      "color": "D0D0D0",
+      "from_url": "https://hackupc2018.slack.com/archives/CC7U0UYAX/p1539809356000100",
+      "is_share": true,
+      "footer": "Posted in #tech-domains"
+    }
+  ],
+  "ts": "1540077067.000100",
+  "timestamp": 1540077067000,
+  "isoDate": "2018-10-20T23:11:07.000Z"
+},{
+  "type": "message",
+  "user": "UCKS28REH",
+  "text": "I wanted to request a domain but organizer team told me that I need to request it online at this slack channel.\nI want a domain Ifeelbad.tech\nPlease let me know if it is possible to take it for tomorrow?",
+  "client_msg_id": "a4887d8e-0400-47cf-9e83-4cf04630fae6",
+  "edited": {
+    "user": "UCKS28REH",
+    "ts": "1540076961.000000"
+  },
+  "ts": "1540076905.000100",
+  "timestamp": 1540076905000,
+  "isoDate": "2018-10-20T23:08:25.000Z"
+},{
+  "type": "message",
+  "user": "UDJ4AMKEG",
+  "text": "Hi, we requested a domain yesterday at around noon but we still haven't received one",
+  "client_msg_id": "15b69194-5cf9-4403-ab0e-1570238113b8",
+  "ts": "1540074848.000100",
+  "timestamp": 1540074848000,
+  "isoDate": "2018-10-20T22:34:08.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "<@UCD4NNLAZ>",
+  "client_msg_id": "35cc6dec-c04b-485b-9457-239ec1f88e24",
+  "ts": "1540074522.000100",
+  "timestamp": 1540074522000,
+  "isoDate": "2018-10-20T22:28:42.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "Yes!",
+  "client_msg_id": "d86e31b5-9d77-48cd-9302-188044ded137",
+  "ts": "1540074514.000100",
+  "timestamp": 1540074514000,
+  "isoDate": "2018-10-20T22:28:34.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "We still haven't received an answer... <@UCK2VED16> Did they answer you?",
+  "client_msg_id": "9bceda4f-6108-4cce-a5ac-b57996561044",
+  "ts": "1540073917.000100",
+  "timestamp": 1540073917000,
+  "isoDate": "2018-10-20T22:18:37.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "<@UCN0L9R63> Now it's working!",
+  "client_msg_id": "e66cdf5b-aaf9-4245-a26e-2e76d4b9e0d4",
+  "ts": "1540073667.000100",
+  "timestamp": 1540073667000,
+  "isoDate": "2018-10-20T22:14:27.000Z"
+},{
+  "type": "message",
+  "user": "UCN0L9R63",
+  "text": "hey, any news from .tech domanis?",
+  "client_msg_id": "F320E606-A4BD-4936-9BBC-1BA9A3EBBC3B",
+  "ts": "1540073167.000100",
+  "timestamp": 1540073167000,
+  "isoDate": "2018-10-20T22:06:07.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "Also,  since 1pm",
+  "client_msg_id": "d208267f-1074-42e2-96bc-a9e7c19d99b7",
+  "ts": "1540071846.000100",
+  "timestamp": 1540071846000,
+  "isoDate": "2018-10-20T21:44:06.000Z"
+},{
+  "type": "message",
+  "user": "UCK2VED16",
+  "text": "I'm also awaiting",
+  "client_msg_id": "3215d13c-8ab9-4a06-86ad-8613e540ea51",
+  "ts": "1540070352.000100",
+  "timestamp": 1540070352000,
+  "isoDate": "2018-10-20T21:19:12.000Z"
+},{
+  "type": "message",
+  "user": "UD8L19ML2",
+  "text": "Hello, looks like I'm not the only one awaiting domain approval?",
+  "client_msg_id": "b17de0e7-13cf-4868-83a6-417dc659c124",
+  "ts": "1540070185.000100",
+  "timestamp": 1540070185000,
+  "isoDate": "2018-10-20T21:16:25.000Z"
+},{
+  "type": "message",
+  "user": "UDG99PYBZ",
+  "text": "Same",
+  "client_msg_id": "2f5beb86-4d2c-4ab1-838a-52d756a58e25",
+  "thread_ts": "1540056277.000100",
+  "parent_user_id": "UCD4NNLAZ",
+  "ts": "1540068283.000100",
+  "timestamp": 1540068283000,
+  "isoDate": "2018-10-20T20:44:43.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey <@UCD4NNLAZ> we will try to contact them and see what's happening",
+  "client_msg_id": "5cb3c8bb-2bc4-4b9b-9c56-50e8d4b9cf11",
+  "ts": "1540059806.000100",
+  "timestamp": 1540059806000,
+  "isoDate": "2018-10-20T18:23:26.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "<@UC7MN3GBD> still no news, waiting from 1pm...",
+  "client_msg_id": "56ada109-a954-4737-a9c7-c30cc3ea5d72",
+  "thread_ts": "1540056277.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDG99PYBZ",
+      "ts": "1540068283.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1540056277.000100",
+  "timestamp": 1540056277000,
+  "isoDate": "2018-10-20T17:24:37.000Z"
+},{
+  "type": "message",
+  "user": "UCZ3H996E",
+  "text": "<@UC8ST2GMV> thanks for the fast reply",
+  "client_msg_id": "ef16bfc2-13ac-42c5-b37f-6fea821d7892",
+  "ts": "1540053458.000100",
+  "timestamp": 1540053458000,
+  "isoDate": "2018-10-20T16:37:38.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "There's no codes. I know that in HackUPC Live is saying things that aren't true but there was a misunderstanding. If you want to get a code, you have to click to go.tech/hackupc18",
+  "client_msg_id": "bcba5b2a-5665-49ea-81dc-7a425af7a295",
+  "ts": "1540051487.000100",
+  "timestamp": 1540051487000,
+  "isoDate": "2018-10-20T16:04:47.000Z"
+},{
+  "type": "message",
+  "user": "UCZ3H996E",
+  "text": "Hey, where is the table to get the codes?",
+  "client_msg_id": "0b8ff23a-107a-4b3c-a612-d93fa6e29e4d",
+  "ts": "1540050467.000100",
+  "timestamp": 1540050467000,
+  "isoDate": "2018-10-20T15:47:47.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Hi hackers! We've been talking with .tech and they told us that you will receive your domain as soon as they reviewed them. Sorry for the delay but we cannot do more from our side :disappointed: Sorry again.",
+  "client_msg_id": "48e63b26-9ce2-4646-8c61-5b7a9a3d6d0e",
+  "ts": "1540049814.000100",
+  "timestamp": 1540049814000,
+  "isoDate": "2018-10-20T15:36:54.000Z"
+},{
+  "type": "message",
+  "user": "UC8HQBM4G",
+  "text": "Same :disappointed:",
+  "client_msg_id": "b09cfe16-0b51-436a-aee5-3e192f13ee76",
+  "ts": "1540042305.000100",
+  "reactions": [
+    {
+      "name": "disappointed_relieved",
+      "users": [
+        "UCK18UBL0",
+        "UDG99PYBZ"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1540042305000,
+  "isoDate": "2018-10-20T13:31:45.000Z"
+},{
+  "type": "message",
+  "user": "UDG99PYBZ",
+  "text": ":disappointed:",
+  "client_msg_id": "6b02907f-bc6b-4d8a-96c2-6b184219ffcf",
+  "ts": "1540041723.000100",
+  "timestamp": 1540041723000,
+  "isoDate": "2018-10-20T13:22:03.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "Same, and still no answer from techsquad...",
+  "client_msg_id": "f550e8fe-4575-4727-9aeb-e385b9b51e49",
+  "ts": "1540041253.000100",
+  "timestamp": 1540041253000,
+  "isoDate": "2018-10-20T13:14:13.000Z"
+},{
+  "type": "message",
+  "user": "UDG99PYBZ",
+  "text": "We haven't get the domain code yet... Will it take any longer?",
+  "client_msg_id": "6366dc51-d0bc-4f3d-baae-1cc0182ca2d0",
+  "ts": "1540040725.000100",
+  "timestamp": 1540040725000,
+  "isoDate": "2018-10-20T13:05:25.000Z"
+},{
+  "type": "message",
+  "user": "UCB3XPQ14",
+  "text": "Ok, never mind, it started working the same moment I posted the previous message)",
+  "client_msg_id": "3c4554c7-3c7e-4545-bcb6-b6c15e3c37aa",
+  "ts": "1540037468.000100",
+  "reactions": [
+    {
+      "name": "parrot",
+      "users": [
+        "UC7MN3GBD",
+        "UC7UGRDUK"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1540037468000,
+  "isoDate": "2018-10-20T12:11:08.000Z"
+},{
+  "type": "message",
+  "user": "UCB3XPQ14",
+  "text": "We successfully got a domain and set up A record to an instance on Amazon. But I get DSNERROR when I try to access the domain. I guess it just takes time for DNS records to get updated? How long can it take?",
+  "client_msg_id": "0faf4b29-bc44-4fce-aefe-276f2e1cd21d",
+  "ts": "1540037432.000100",
+  "timestamp": 1540037432000,
+  "isoDate": "2018-10-20T12:10:32.000Z"
+},{
+  "type": "message",
+  "user": "UCB3XPQ14",
+  "text": "We applied around 22 hours yesterday",
+  "client_msg_id": "f1aa430c-9cd4-4443-8e02-80fca1fc29b7",
+  "edited": {
+    "user": "UCB3XPQ14",
+    "ts": "1540036306.000000"
+  },
+  "thread_ts": "1540031388.000100",
+  "parent_user_id": "UC7MN3GBD",
+  "ts": "1540036298.000100",
+  "timestamp": 1540036298000,
+  "isoDate": "2018-10-20T11:51:38.000Z"
+},{
+  "type": "message",
+  "user": "UC8HQBM4G",
+  "text": "I’ve emailed them last night, but haven’t heard back yet. Any word?",
+  "client_msg_id": "31bde2f3-5ca2-4675-b150-7be7662f19d6",
+  "thread_ts": "1539984235.000100",
+  "parent_user_id": "UC8HQBM4G",
+  "ts": "1540036141.000100",
+  "timestamp": 1540036141000,
+  "isoDate": "2018-10-20T11:49:01.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey <@UCD4NNLAZ>, Can you please send an email to techsquad@get.tech? They will check if everything is ok with your request.",
+  "client_msg_id": "a1390862-877c-45f8-8f6d-4f95bb875fc1",
+  "ts": "1540035565.000100",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "UCD4NNLAZ"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540035565000,
+  "isoDate": "2018-10-20T11:39:25.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "Hey!\nWe still haven't got the petition...",
+  "client_msg_id": "38bda8df-31df-4907-934b-45eb8ea817c6",
+  "ts": "1540034980.000200",
+  "timestamp": 1540034980000,
+  "isoDate": "2018-10-20T11:29:40.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey there, tech-domains just told us they've accepted all petitions to the moment ",
+  "client_msg_id": "1e68b8ef-4909-4642-9615-6d1f031cf67e",
+  "ts": "1540034196.000100",
+  "timestamp": 1540034196000,
+  "isoDate": "2018-10-20T11:16:36.000Z"
+},{
+  "type": "message",
+  "user": "UCD4NNLAZ",
+  "text": "How long did it take until you got it? Because we are also waiting for a while",
+  "client_msg_id": "d44a9436-26d1-4f8e-abfa-ac5285020472",
+  "thread_ts": "1540031388.000100",
+  "parent_user_id": "UC7MN3GBD",
+  "ts": "1540033662.000100",
+  "timestamp": 1540033662000,
+  "isoDate": "2018-10-20T11:07:42.000Z"
+},{
+  "type": "message",
+  "user": "UCB3XPQ14",
+  "text": "Thanks, Victor! I've just got an approval e-mail",
+  "client_msg_id": "8ed7f31b-6677-49b0-8426-d077d78a2ee6",
+  "thread_ts": "1540031388.000100",
+  "parent_user_id": "UC7MN3GBD",
+  "ts": "1540033554.000100",
+  "timestamp": 1540033554000,
+  "isoDate": "2018-10-20T11:05:54.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey <@UCB3XPQ14>, sometimes it may take a while, but if you have any problem you can send an email to techsquad@get.tech and they will help you out",
+  "client_msg_id": "3ea955eb-c258-4400-80a7-0576a773c7d8",
+  "thread_ts": "1540031388.000100",
+  "reply_count": 3,
+  "replies": [
+    {
+      "user": "UCB3XPQ14",
+      "ts": "1540033554.000100"
+    },
+    {
+      "user": "UCD4NNLAZ",
+      "ts": "1540033662.000100"
+    },
+    {
+      "user": "UCB3XPQ14",
+      "ts": "1540036298.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 3,
+  "ts": "1540031388.000100",
+  "timestamp": 1540031388000,
+  "isoDate": "2018-10-20T10:29:48.000Z"
+},{
+  "type": "message",
+  "user": "UCB3XPQ14",
+  "text": "We applied for domain but haven't got any reply yet",
+  "client_msg_id": "8fe1162f-46fc-4010-8250-cdaab1df07e1",
+  "ts": "1540028936.000100",
+  "timestamp": 1540028936000,
+  "isoDate": "2018-10-20T09:48:56.000Z"
+},{
+  "type": "message",
+  "user": "UCB3XPQ14",
+  "text": "Hi!",
+  "client_msg_id": "ebb3b390-8eaf-4a2f-b7ab-38bb24011302",
+  "ts": "1540028877.000100",
+  "timestamp": 1540028877000,
+  "isoDate": "2018-10-20T09:47:57.000Z"
+},{
+  "type": "message",
+  "user": "UC7AV4J0G",
+  "text": "Hola <@UDHR7FSNP>, a veces tarda un poco, pero en puedes enviar un correo a techsquad@get.tech para saber el estado de la petición :smile:",
+  "client_msg_id": "50f26b52-edfb-4527-8ea4-67d41399058a",
+  "ts": "1540026038.000100",
+  "timestamp": 1540026038000,
+  "isoDate": "2018-10-20T09:00:38.000Z"
+},{
+  "type": "message",
+  "user": "UDHR7FSNP",
+  "text": "Lo pedí anoche y aún no lo tengo",
+  "client_msg_id": "4d010c67-da67-4292-a5af-515dd10f511a",
+  "ts": "1540025196.000100",
+  "timestamp": 1540025196000,
+  "isoDate": "2018-10-20T08:46:36.000Z"
+},{
+  "type": "message",
+  "user": "UDHR7FSNP",
+  "text": "Tengo problemas para que me den el dominio",
+  "client_msg_id": "847c026d-9878-48eb-a84c-24475b0b41c4",
+  "ts": "1540025190.000100",
+  "timestamp": 1540025190000,
+  "isoDate": "2018-10-20T08:46:30.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hello <@UC8HQBM4G>, I'm not sure about it. But if you send and email to techsquad@get.tech, I'm pretty sure they will help you out with your query",
+  "client_msg_id": "ed923e69-df75-444d-815a-25dffe246220",
+  "thread_ts": "1539984235.000100",
+  "parent_user_id": "UC8HQBM4G",
+  "ts": "1539986408.000100",
+  "timestamp": 1539986408000,
+  "isoDate": "2018-10-19T22:00:08.000Z"
+},{
+  "type": "message",
+  "user": "UC8HQBM4G",
+  "text": "<@UC7MN3GBD> ^",
+  "client_msg_id": "903710b0-87d4-406a-84fa-4921eb3c6a6a",
+  "thread_ts": "1539984235.000100",
+  "parent_user_id": "UC8HQBM4G",
+  "ts": "1539985582.000100",
+  "timestamp": 1539985582000,
+  "isoDate": "2018-10-19T21:46:22.000Z"
+},{
+  "type": "message",
+  "user": "UC8HQBM4G",
+  "text": "Hey :wave: is Privacy Protection included with the promo code?",
+  "client_msg_id": "c9f06fea-ca58-4e99-b050-5102cbab8fc3",
+  "thread_ts": "1539984235.000100",
+  "reply_count": 3,
+  "replies": [
+    {
+      "user": "UC8HQBM4G",
+      "ts": "1539985582.000100"
+    },
+    {
+      "user": "UC7MN3GBD",
+      "ts": "1539986408.000100"
+    },
+    {
+      "user": "UC8HQBM4G",
+      "ts": "1540036141.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 3,
+  "ts": "1539984235.000100",
+  "timestamp": 1539984235000,
+  "isoDate": "2018-10-19T21:23:55.000Z"
+},{
+  "user": "UC98MS691",
+  "text": "<@UC98MS691> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539871781.000200",
+  "timestamp": 1539871781000,
+  "isoDate": "2018-10-18T14:09:41.000Z"
+},{
+  "user": "UDD68D1F0",
+  "text": "<@UDD68D1F0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539868086.000200",
+  "timestamp": 1539868086000,
+  "isoDate": "2018-10-18T13:08:06.000Z"
+},{
+  "user": "UCUAH22F6",
+  "text": "<@UCUAH22F6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539865809.000200",
+  "timestamp": 1539865809000,
+  "isoDate": "2018-10-18T12:30:09.000Z"
+},{
+  "user": "UCUF19FKM",
+  "text": "<@UCUF19FKM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539861205.000200",
+  "timestamp": 1539861205000,
+  "isoDate": "2018-10-18T11:13:25.000Z"
+},{
+  "user": "UCN9KSED9",
+  "text": "<@UCN9KSED9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539853051.000200",
+  "timestamp": 1539853051000,
+  "isoDate": "2018-10-18T08:57:31.000Z"
+},{
+  "user": "UDF8Y3J4V",
+  "text": "<@UDF8Y3J4V> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539847107.000200",
+  "timestamp": 1539847107000,
+  "isoDate": "2018-10-18T07:18:27.000Z"
+},{
+  "user": "UCQA5BG87",
+  "text": "<@UCQA5BG87> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539818035.000200",
+  "timestamp": 1539818035000,
+  "isoDate": "2018-10-17T23:13:55.000Z"
+},{
+  "user": "UC7UGRDUK",
+  "text": "<@UC7UGRDUK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539816581.000200",
+  "timestamp": 1539816581000,
+  "isoDate": "2018-10-17T22:49:41.000Z"
+},{
+  "user": "UCMB40T1S",
+  "text": "<@UCMB40T1S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539811241.000200",
+  "timestamp": 1539811241000,
+  "isoDate": "2018-10-17T21:20:41.000Z"
+},{
+  "user": "UCV604FK4",
+  "text": "<@UCV604FK4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539810694.000200",
+  "timestamp": 1539810694000,
+  "isoDate": "2018-10-17T21:11:34.000Z"
+},{
+  "user": "UCA90EZ4P",
+  "text": "<@UCA90EZ4P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539809819.000200",
+  "timestamp": 1539809819000,
+  "isoDate": "2018-10-17T20:56:59.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey there :wave: \nTo get your free domain, log onto <https://go.tech/hackupc18>, fill in your details, select *Hack UPC '18* and enter the code *HACKUPC.TECH* to submit the requests.\nCoupon codes will be received on your email once approved (1-6 hours), and you can use them at checkout on www.get.tech until the last day of the hackathon to get the domain name.\nIf you have any question, send an email to the amazing _*.tech*_ team at techsquad@get.tech.",
+  "client_msg_id": "565ca524-e798-45c1-a472-63ada33590c4",
+  "attachments": [
+    {
+      "title": "Domain Offers - .TECH",
+      "title_link": "https://go.tech/hackupc18",
+      "fallback": "Domain Offers - .TECH",
+      "image_url": "https://cdn.get.tech/images/tech-logo.jpg",
+      "from_url": "https://go.tech/hackupc18",
+      "image_width": 476,
+      "image_height": 250,
+      "image_bytes": 41871,
+      "service_name": "get.tech",
+      "id": 1,
+      "original_url": "https://go.tech/hackupc18"
+    }
+  ],
+  "ts": "1539809356.000100",
+  "pinned_to": [
+    "CC7U0UYAX"
+  ],
+  "pinned_info": {
+    "channel": "CC7U0UYAX",
+    "pinned_by": "UC7MN3GBD",
+    "pinned_ts": 1539809365
+  },
+  "timestamp": 1539809356000,
+  "isoDate": "2018-10-17T20:49:16.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779986.000200",
+  "timestamp": 1539779986000,
+  "isoDate": "2018-10-17T12:39:46.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659106.000200",
+  "timestamp": 1539659106000,
+  "isoDate": "2018-10-16T03:05:06.000Z"
+},{
+  "user": "UD42HQXDY",
+  "text": "<@UD42HQXDY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539531336.000200",
+  "timestamp": 1539531336000,
+  "isoDate": "2018-10-14T15:35:36.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373634.000200",
+  "timestamp": 1539373634000,
+  "isoDate": "2018-10-12T19:47:14.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169069.000200",
+  "timestamp": 1539169069000,
+  "isoDate": "2018-10-10T10:57:49.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736870.000200",
+  "timestamp": 1538736870000,
+  "isoDate": "2018-10-05T10:54:30.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173459.000200",
+  "timestamp": 1537173459000,
+  "isoDate": "2018-09-17T08:37:39.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401238.000200",
+  "timestamp": 1534401238000,
+  "isoDate": "2018-08-16T06:33:58.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": ".tech Domains channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: .tech Domains channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534225173.000300",
+  "timestamp": 1534225173000,
+  "isoDate": "2018-08-14T05:39:33.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534225173.000200",
+  "timestamp": 1534225173000,
+  "isoDate": "2018-08-14T05:39:33.000Z"
+}]

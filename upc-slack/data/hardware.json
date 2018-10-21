@@ -1,0 +1,314 @@
+[
+{
+  "type": "message",
+  "user": "UDB08PCF6",
+  "text": "where can i get a monitor with HDMI to work with my pi?",
+  "client_msg_id": "a99ba498-d362-4a7a-a1b3-b9417b4eac80",
+  "ts": "1539991315.000100",
+  "timestamp": 1539991315000,
+  "isoDate": "2018-10-19T23:21:55.000Z"
+},{
+  "type": "message",
+  "user": "UC9HKP27P",
+  "text": "any news?",
+  "client_msg_id": "f886952c-7d72-4680-a532-0dc05662f909",
+  "ts": "1539983637.000100",
+  "timestamp": 1539983637000,
+  "isoDate": "2018-10-19T21:13:57.000Z"
+},{
+  "type": "message",
+  "user": "UC9HKP27P",
+  "text": ":ultrafastparrot:gimmie gimmie gimmie :d",
+  "client_msg_id": "154e7dd0-ddde-411d-aafd-56cf429ac1e7",
+  "ts": "1539978918.000100",
+  "timestamp": 1539978918000,
+  "isoDate": "2018-10-19T19:55:18.000Z"
+},{
+  "type": "message",
+  "user": "UC9HKP27P",
+  "text": "I'm also keen to know when the HW lab opens :stuck_out_tongue:",
+  "client_msg_id": "bd104729-8785-474c-b2ca-073559d21e1c",
+  "ts": "1539978893.000100",
+  "timestamp": 1539978893000,
+  "isoDate": "2018-10-19T19:54:53.000Z"
+},{
+  "type": "message",
+  "user": "UCARB2G7M",
+  "text": "Someone was saying it only opens at 10, is that correct?",
+  "client_msg_id": "7731f5f1-e2e4-4a5a-b7b9-1b8a9b46b0e5",
+  "ts": "1539976392.000100",
+  "timestamp": 1539976392000,
+  "isoDate": "2018-10-19T19:13:12.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey there, the hardware lab is in the same place as the info desk, in the middle of the A5 building.",
+  "client_msg_id": "fb97b8bd-affc-4171-8430-30eb573e2724",
+  "ts": "1539976269.000100",
+  "timestamp": 1539976269000,
+  "isoDate": "2018-10-19T19:11:09.000Z"
+},{
+  "type": "message",
+  "user": "UCARB2G7M",
+  "text": "Where's the hardware lab?",
+  "client_msg_id": "922da03d-de77-428e-8ea5-460c84b45c7e",
+  "edited": {
+    "user": "UCARB2G7M",
+    "ts": "1539975994.000000"
+  },
+  "ts": "1539975992.000100",
+  "timestamp": 1539975992000,
+  "isoDate": "2018-10-19T19:06:32.000Z"
+},{
+  "user": "UCBC44VRD",
+  "text": "<@UCBC44VRD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539957924.000200",
+  "timestamp": 1539957924000,
+  "isoDate": "2018-10-19T14:05:24.000Z"
+},{
+  "user": "UCAJXKKKQ",
+  "text": "<@UCAJXKKKQ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539443556.000200",
+  "timestamp": 1539443556000,
+  "isoDate": "2018-10-13T15:12:36.000Z"
+},{
+  "user": "UCWP8SFNF",
+  "text": "<@UCWP8SFNF> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539273091.000200",
+  "timestamp": 1539273091000,
+  "isoDate": "2018-10-11T15:51:31.000Z"
+},{
+  "user": "UD7CGGS6S",
+  "text": "<@UD7CGGS6S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538983852.000200",
+  "timestamp": 1538983852000,
+  "isoDate": "2018-10-08T07:30:52.000Z"
+},{
+  "user": "UC7MTLDGB",
+  "text": "<@UC7MTLDGB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538906764.000200",
+  "timestamp": 1538906764000,
+  "isoDate": "2018-10-07T10:06:04.000Z"
+},{
+  "type": "message",
+  "user": "UD3G0CV41",
+  "text": ":grin: no worries, thanks!",
+  "client_msg_id": "ce42cd75-f6b1-48df-af2c-cff2648280c2",
+  "thread_ts": "1538689825.000100",
+  "parent_user_id": "UD3G0CV41",
+  "ts": "1538819835.000100",
+  "reactions": [
+    {
+      "name": "slightly_smiling_face",
+      "users": [
+        "UC7UPACMT"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1538819835000,
+  "isoDate": "2018-10-06T09:57:15.000Z"
+},{
+  "type": "message",
+  "user": "UC79MBTMX",
+  "text": ":zipper_mouth_face:",
+  "client_msg_id": "7f542424-3da6-4bb6-ba30-220c3a0a9a8b",
+  "thread_ts": "1538689825.000100",
+  "parent_user_id": "UD3G0CV41",
+  "ts": "1538691967.000100",
+  "reactions": [
+    {
+      "name": "joy",
+      "users": [
+        "UC7UPACMT"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1538691967000,
+  "isoDate": "2018-10-04T22:26:07.000Z"
+},{
+  "type": "message",
+  "user": "UC7UPACMT",
+  "text": "<@UC79MBTMX> says not yet, but soon! :slightly_smiling_face:",
+  "client_msg_id": "a5723594-bc26-40e4-a4ce-dd870cb4f4ea",
+  "thread_ts": "1538689825.000100",
+  "parent_user_id": "UD3G0CV41",
+  "ts": "1538691289.000100",
+  "timestamp": 1538691289000,
+  "isoDate": "2018-10-04T22:14:49.000Z"
+},{
+  "user": "UC79MBTMX",
+  "text": "<@UC79MBTMX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538691078.000200",
+  "timestamp": 1538691078000,
+  "isoDate": "2018-10-04T22:11:18.000Z"
+},{
+  "type": "message",
+  "user": "UD3G0CV41",
+  "text": "Is there any hw list yet?",
+  "client_msg_id": "21ec32de-e7e9-4f99-8d19-a3a56f71c3d2",
+  "thread_ts": "1538689825.000100",
+  "reply_count": 3,
+  "replies": [
+    {
+      "user": "UC7UPACMT",
+      "ts": "1538691289.000100"
+    },
+    {
+      "user": "UC79MBTMX",
+      "ts": "1538691967.000100"
+    },
+    {
+      "user": "UD3G0CV41",
+      "ts": "1538819835.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 3,
+  "ts": "1538689825.000100",
+  "reactions": [
+    {
+      "name": "smirk",
+      "users": [
+        "UC7MTLDGB"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1538689825000,
+  "isoDate": "2018-10-04T21:50:25.000Z"
+},{
+  "user": "UD3G0CV41",
+  "text": "<@UD3G0CV41> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538689796.000200",
+  "timestamp": 1538689796000,
+  "isoDate": "2018-10-04T21:49:56.000Z"
+},{
+  "user": "UC7UPACMT",
+  "text": "<@UC7UPACMT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538594023.000200",
+  "timestamp": 1538594023000,
+  "isoDate": "2018-10-03T19:13:43.000Z"
+},{
+  "user": "UD402TE5R",
+  "text": "<@UD402TE5R> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538328213.000200",
+  "timestamp": 1538328213000,
+  "isoDate": "2018-09-30T17:23:33.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537986974.000200",
+  "timestamp": 1537986974000,
+  "isoDate": "2018-09-26T18:36:14.000Z"
+},{
+  "user": "UCPD3SLLV",
+  "text": "<@UCPD3SLLV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537824271.000200",
+  "timestamp": 1537824271000,
+  "isoDate": "2018-09-24T21:24:31.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537224565.000200",
+  "timestamp": 1537224565000,
+  "isoDate": "2018-09-17T22:49:25.000Z"
+},{
+  "user": "UCU087BLG",
+  "text": "<@UCU087BLG> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537158945.000200",
+  "timestamp": 1537158945000,
+  "isoDate": "2018-09-17T04:35:45.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537132591.000200",
+  "timestamp": 1537132591000,
+  "isoDate": "2018-09-16T21:16:31.000Z"
+},{
+  "user": "UCKJGNBFC",
+  "text": "<@UCKJGNBFC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537102328.000200",
+  "timestamp": 1537102328000,
+  "isoDate": "2018-09-16T12:52:08.000Z"
+},{
+  "user": "UCTJP5B24",
+  "text": "<@UCTJP5B24> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537027417.000200",
+  "timestamp": 1537027417000,
+  "isoDate": "2018-09-15T16:03:37.000Z"
+},{
+  "user": "UC7MP2QBV",
+  "text": "<@UC7MP2QBV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536949120.000200",
+  "timestamp": 1536949120000,
+  "isoDate": "2018-09-14T18:18:40.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667639.000200",
+  "timestamp": 1536667639000,
+  "isoDate": "2018-09-11T12:07:19.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536659236.000200",
+  "timestamp": 1536659236000,
+  "isoDate": "2018-09-11T09:47:16.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "purpose": "Do you plan to use hardware on you Hack? Ask your doubts here!",
+  "text": "<@UC7MN3GBD> set the channel purpose: Do you plan to use hardware on you Hack? Ask your doubts here!",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536574738.000300",
+  "timestamp": 1536574738000,
+  "isoDate": "2018-09-10T10:18:58.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536574738.000200",
+  "timestamp": 1536574738000,
+  "isoDate": "2018-09-10T10:18:58.000Z"
+}]

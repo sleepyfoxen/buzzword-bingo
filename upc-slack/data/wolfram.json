@@ -1,0 +1,155 @@
+[
+{
+  "user": "UCBSMT5D4",
+  "text": "<@UCBSMT5D4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1540087097.000200",
+  "timestamp": 1540087097000,
+  "isoDate": "2018-10-21T01:58:17.000Z"
+},{
+  "user": "UDFJH4YUB",
+  "text": "<@UDFJH4YUB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1540084428.000200",
+  "timestamp": 1540084428000,
+  "isoDate": "2018-10-21T01:13:48.000Z"
+},{
+  "user": "UCR0L8Z54",
+  "text": "<@UCR0L8Z54> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539981293.000200",
+  "timestamp": 1539981293000,
+  "isoDate": "2018-10-19T20:34:53.000Z"
+},{
+  "user": "UCPA3CL9X",
+  "text": "<@UCPA3CL9X> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539973766.000200",
+  "timestamp": 1539973766000,
+  "isoDate": "2018-10-19T18:29:26.000Z"
+},{
+  "user": "UCM1HS79D",
+  "text": "<@UCM1HS79D> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539967411.000200",
+  "timestamp": 1539967411000,
+  "isoDate": "2018-10-19T16:43:31.000Z"
+},{
+  "user": "UCA8G5MN0",
+  "text": "<@UCA8G5MN0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539963634.000200",
+  "timestamp": 1539963634000,
+  "isoDate": "2018-10-19T15:40:34.000Z"
+},{
+  "user": "UCMA50GD8",
+  "text": "<@UCMA50GD8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539960174.000200",
+  "timestamp": 1539960174000,
+  "isoDate": "2018-10-19T14:42:54.000Z"
+},{
+  "user": "UDF04C9A8",
+  "text": "<@UDF04C9A8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539804191.000200",
+  "timestamp": 1539804191000,
+  "isoDate": "2018-10-17T19:23:11.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779943.000200",
+  "timestamp": 1539779943000,
+  "isoDate": "2018-10-17T12:39:03.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659098.000200",
+  "timestamp": 1539659098000,
+  "isoDate": "2018-10-16T03:04:58.000Z"
+},{
+  "user": "UD42HQXDY",
+  "text": "<@UD42HQXDY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539531326.000200",
+  "timestamp": 1539531326000,
+  "isoDate": "2018-10-14T15:35:26.000Z"
+},{
+  "user": "UCLS7E7LP",
+  "text": "<@UCLS7E7LP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539449249.000200",
+  "timestamp": 1539449249000,
+  "isoDate": "2018-10-13T16:47:29.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373642.000200",
+  "timestamp": 1539373642000,
+  "isoDate": "2018-10-12T19:47:22.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168964.000200",
+  "timestamp": 1539168964000,
+  "isoDate": "2018-10-10T10:56:04.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736888.000200",
+  "timestamp": 1538736888000,
+  "isoDate": "2018-10-05T10:54:48.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173472.000200",
+  "timestamp": 1537173472000,
+  "isoDate": "2018-09-17T08:37:52.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401240.000200",
+  "timestamp": 1534401240000,
+  "isoDate": "2018-08-16T06:34:00.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Wolfram Language channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Wolfram Language channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534225154.000100",
+  "timestamp": 1534225154000,
+  "isoDate": "2018-08-14T05:39:14.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534225153.000200",
+  "timestamp": 1534225153000,
+  "isoDate": "2018-08-14T05:39:13.000Z"
+}]

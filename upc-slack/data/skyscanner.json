@@ -1,0 +1,427 @@
+[
+{
+  "type": "message",
+  "user": "UDF9ZRB8S",
+  "text": "Yep :smile:",
+  "client_msg_id": "8755dd30-44e3-4b05-a44b-68d0f3bf9f99",
+  "thread_ts": "1540063240.000100",
+  "parent_user_id": "UD4J6TWN9",
+  "ts": "1540064019.000100",
+  "timestamp": 1540064019000,
+  "isoDate": "2018-10-20T19:33:39.000Z"
+},{
+  "type": "message",
+  "user": "UDGR7P3QT",
+  "text": "<@UDHCM92G4> can you help? :blush:",
+  "client_msg_id": "951DD8B5-464C-4547-B34F-124E5657F046",
+  "thread_ts": "1540063168.000100",
+  "parent_user_id": "UCJT4PF4Y",
+  "ts": "1540064004.000100",
+  "timestamp": 1540064004000,
+  "isoDate": "2018-10-20T19:33:24.000Z"
+},{
+  "type": "message",
+  "user": "UDGR7P3QT",
+  "text": "<@UDF9ZRB8S>  can you help? :blush:",
+  "client_msg_id": "3AA43B48-91F0-49AD-B5B9-F609FEE79461",
+  "thread_ts": "1540063240.000100",
+  "parent_user_id": "UD4J6TWN9",
+  "ts": "1540063970.000100",
+  "timestamp": 1540063970000,
+  "isoDate": "2018-10-20T19:32:50.000Z"
+},{
+  "type": "message",
+  "user": "UD4J6TWN9",
+  "text": "Hey! Is anyone who can help me with curl php requests still here? The request are working fine from the Terminal but not from a php file",
+  "client_msg_id": "05f95bf2-15bc-4d36-8f32-5bf11e5e79d5",
+  "thread_ts": "1540063240.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UDGR7P3QT",
+      "ts": "1540063970.000100"
+    },
+    {
+      "user": "UDF9ZRB8S",
+      "ts": "1540064019.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1540063240.000100",
+  "timestamp": 1540063240000,
+  "isoDate": "2018-10-20T19:20:40.000Z"
+},{
+  "type": "message",
+  "user": "UCJT4PF4Y",
+  "text": "How can I join to the challenge?",
+  "client_msg_id": "6ef55346-bf74-49cd-bd6e-87d1379bf6c3",
+  "thread_ts": "1540063168.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDGR7P3QT",
+      "ts": "1540064004.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1540063168.000100",
+  "timestamp": 1540063168000,
+  "isoDate": "2018-10-20T19:19:28.000Z"
+},{
+  "type": "message",
+  "user": "UCVU79ZEC",
+  "text": "Hi, what's the difference between Browse Quotes and Browse Routes?",
+  "client_msg_id": "ef721c93-ccf1-4f54-aa3d-99dd5d782a59",
+  "ts": "1540045606.000100",
+  "reactions": [
+    {
+      "name": "ultrafastparrot",
+      "users": [
+        "UCLS7E7LP"
+      ],
+      "count": 1
+    },
+    {
+      "name": "earth_americas",
+      "users": [
+        "UCA8G5MN0"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540045606000,
+  "isoDate": "2018-10-20T14:26:46.000Z"
+},{
+  "user": "UDHCM92G4",
+  "topic": "",
+  "text": "<@UDHCM92G4> cleared channel topic",
+  "type": "message",
+  "subtype": "channel_topic",
+  "ts": "1540042908.000100",
+  "timestamp": 1540042908000,
+  "isoDate": "2018-10-20T13:41:48.000Z"
+},{
+  "type": "message",
+  "user": "UDH059HUL",
+  "text": "Hello! The Skyscanner api demo is going to start in 5 minutes! We're in room A5001. ",
+  "client_msg_id": "73a2286b-6f51-45b9-bb36-7ba3844d3ba1",
+  "ts": "1540022334.000100",
+  "timestamp": 1540022334000,
+  "isoDate": "2018-10-20T07:58:54.000Z"
+},{
+  "type": "message",
+  "user": "UDHCM92G4",
+  "text": "hey! What do you mean? (I'm not a android developer but I will try to help you)",
+  "client_msg_id": "3b57c54a-d480-46bd-8a1f-c12ff4ba1988",
+  "thread_ts": "1539992256.000100",
+  "parent_user_id": "UCJT4PF4Y",
+  "ts": "1539994830.000100",
+  "timestamp": 1539994830000,
+  "isoDate": "2018-10-20T00:20:30.000Z"
+},{
+  "type": "message",
+  "user": "UCJT4PF4Y",
+  "text": "Anyone knows if you can make a call with basic for android? Or is better to use Android Studio?",
+  "client_msg_id": "f9eb1bcd-61bc-447e-b45f-74beb1d9fa23",
+  "thread_ts": "1539992256.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDHCM92G4",
+      "ts": "1539994830.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539992256.000100",
+  "timestamp": 1539992256000,
+  "isoDate": "2018-10-19T23:37:36.000Z"
+},{
+  "user": "UDHCM92G4",
+  "topic": "If you need anything ping me: <@UDHCM92G4>",
+  "text": "<@UDHCM92G4> set the channel topic: If you need anything ping me: <@UDHCM92G4>",
+  "type": "message",
+  "subtype": "channel_topic",
+  "ts": "1539985820.000100",
+  "timestamp": 1539985820000,
+  "isoDate": "2018-10-19T21:50:20.000Z"
+},{
+  "type": "message",
+  "user": "UDHCM92G4",
+  "text": "DM you",
+  "client_msg_id": "271d7e70-b48a-4033-8367-4c6842b64f07",
+  "thread_ts": "1539984486.000100",
+  "parent_user_id": "UD0TYCKJR",
+  "ts": "1539985794.000100",
+  "timestamp": 1539985794000,
+  "isoDate": "2018-10-19T21:49:54.000Z"
+},{
+  "type": "message",
+  "user": "UDH3CBWV6",
+  "text": "Generating them now ",
+  "client_msg_id": "431415c8-0dcf-41ba-8c77-1d71ca8c46e2",
+  "ts": "1539985141.000100",
+  "timestamp": 1539985141000,
+  "isoDate": "2018-10-19T21:39:01.000Z"
+},{
+  "type": "message",
+  "user": "UDH3CBWV6",
+  "text": "We'll send them to you in a bit ",
+  "client_msg_id": "722482d1-3cd1-4a41-a872-f44c78c2dc5a",
+  "ts": "1539985133.000100",
+  "timestamp": 1539985133000,
+  "isoDate": "2018-10-19T21:38:53.000Z"
+},{
+  "type": "message",
+  "user": "UCJT4PF4Y",
+  "text": "How can I get the API?",
+  "client_msg_id": "97861e80-de94-40af-b739-e28c4501ee8c",
+  "ts": "1539984629.000100",
+  "timestamp": 1539984629000,
+  "isoDate": "2018-10-19T21:30:29.000Z"
+},{
+  "type": "message",
+  "user": "UD0TYCKJR",
+  "text": "Hi can I get some api keys for flgihts and hotels please?",
+  "client_msg_id": "ad3525a1-02db-411d-be86-a1cb40a3018d",
+  "thread_ts": "1539984486.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDHCM92G4",
+      "ts": "1539985794.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539984486.000100",
+  "timestamp": 1539984486000,
+  "isoDate": "2018-10-19T21:28:06.000Z"
+},{
+  "type": "message",
+  "user": "UCB27AA11",
+  "text": "Hi, how do I get an API key, do I just apply through the website?",
+  "client_msg_id": "56ce5f94-b62f-43b0-9283-25d2052dc41f",
+  "ts": "1539979595.000100",
+  "reactions": [
+    {
+      "name": "heavy_check_mark",
+      "users": [
+        "UDH3CBWV6"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539979595000,
+  "isoDate": "2018-10-19T20:06:35.000Z"
+},{
+  "user": "UCB27AA11",
+  "inviter": "UD5B77B9U",
+  "text": "<@UCB27AA11> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539979534.000200",
+  "timestamp": 1539979534000,
+  "isoDate": "2018-10-19T20:05:34.000Z"
+},{
+  "type": "message",
+  "user": "UCK276UDP",
+  "text": "I would like to request for an API key",
+  "client_msg_id": "7F24E20D-D0E2-40B9-B003-88FC5768D60A",
+  "ts": "1539974596.000100",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "UDH059HUL",
+        "UCJT4PF4Y"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539974596000,
+  "isoDate": "2018-10-19T18:43:16.000Z"
+},{
+  "type": "message",
+  "user": "UDGR7P3QT",
+  "text": "Welcome to the *Skyscanner* :airplane: :cloud: channel! We are really excited to be at HackUPC this weekend, can’t wait to see what y’all are going to build :tada:\n\nYou can find us at the booth or running around the event, if you need anything just write in this channel or PM us directly.\n\nWe can help out with Python, Django, React Native, Node, Javascript, CSS, Bash, UX advice, Product/Ideas and Pitching\n\n*Looking for an Internship or Graduate position?* Be part of an amazing team working to make Travel Booking as easy as buying a book online.\n*The vacancies can be found here: <https://www.skyscanner.net/jobs/earlycareers/> *\n\nWe have positions open for:\n- Software Engineering :computer:\n- Growth :chart_with_upwards_trend:\n-Product :world_map:\n-Commercial :airplane:\n\n\nWork at any of our worldwide offices :earth_asia::\n:round_pushpin: *Barcelona*\n:round_pushpin: *London*\n:round_pushpin: *Edinburgh*\n:round_pushpin: ~*Glasgow*~\n:round_pushpin: *Budapest*\n:round_pushpin: *Sofia*\n:round_pushpin: *Singapore*\n:round_pushpin: *Miami*\n\n\n*Skyscanner API*\n\n1. :warning: Ask us for an API on slack or at our booth. :warning:\n2. Have a look at our documentation <https://skyscanner.github.io/slate/>\n3. Come to our talk - *Intro to Skyscanner API* - On Saturday, 10:00 AM at A5001\n\n*Thinking of doing a travel related hack?*\nWe’ll be posting an quickstart guide to our API before the event and will do a *Skyscanner API talk* so you can get started. You can win a *75 € travel voucher* for the Best use of the API :wink: For now have a look at cool products powered by Skyscanner:\n\n- <https://www.bringprice.com>\n- <http://www.inspireflyer.com>\n- <http://www.metripping.com>",
+  "client_msg_id": "eb91bc47-b3ba-4aaf-927a-2f257f84e86e",
+  "edited": {
+    "user": "UDGR7P3QT",
+    "ts": "1539980835.000000"
+  },
+  "ts": "1539947591.000100",
+  "timestamp": 1539947591000,
+  "isoDate": "2018-10-19T11:13:11.000Z"
+},{
+  "user": "UC7GG52L9",
+  "text": "<@UC7GG52L9> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539847040.000200",
+  "timestamp": 1539847040000,
+  "isoDate": "2018-10-18T07:17:20.000Z"
+},{
+  "user": "UCAJYA806",
+  "text": "<@UCAJYA806> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539785161.000200",
+  "timestamp": 1539785161000,
+  "isoDate": "2018-10-17T14:06:01.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779933.000200",
+  "timestamp": 1539779933000,
+  "isoDate": "2018-10-17T12:38:53.000Z"
+},{
+  "user": "UCVQ01423",
+  "text": "<@UCVQ01423> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539715573.000200",
+  "timestamp": 1539715573000,
+  "isoDate": "2018-10-16T18:46:13.000Z"
+},{
+  "user": "UCK276UDP",
+  "text": "<@UCK276UDP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539701037.000200",
+  "timestamp": 1539701037000,
+  "isoDate": "2018-10-16T14:43:57.000Z"
+},{
+  "user": "UCMB40T1S",
+  "text": "<@UCMB40T1S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539696470.000200",
+  "timestamp": 1539696470000,
+  "isoDate": "2018-10-16T13:27:50.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659011.000200",
+  "timestamp": 1539659011000,
+  "isoDate": "2018-10-16T03:03:31.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598759.000200",
+  "timestamp": 1539598759000,
+  "isoDate": "2018-10-15T10:19:19.000Z"
+},{
+  "user": "UCKUJ8KNZ",
+  "text": "<@UCKUJ8KNZ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539530325.000200",
+  "timestamp": 1539530325000,
+  "isoDate": "2018-10-14T15:18:45.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514155.000200",
+  "timestamp": 1539514155000,
+  "isoDate": "2018-10-14T10:49:15.000Z"
+},{
+  "user": "UCLS7E7LP",
+  "text": "<@UCLS7E7LP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539449239.000200",
+  "timestamp": 1539449239000,
+  "isoDate": "2018-10-13T16:47:19.000Z"
+},{
+  "user": "UD4G8ADDK",
+  "text": "<@UD4G8ADDK> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539275676.000200",
+  "timestamp": 1539275676000,
+  "isoDate": "2018-10-11T16:34:36.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539203084.000200",
+  "timestamp": 1539203084000,
+  "isoDate": "2018-10-10T20:24:44.000Z"
+},{
+  "user": "UCVBB11V5",
+  "text": "<@UCVBB11V5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539174045.000200",
+  "timestamp": 1539174045000,
+  "isoDate": "2018-10-10T12:20:45.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169025.000200",
+  "timestamp": 1539169025000,
+  "isoDate": "2018-10-10T10:57:05.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168786.000200",
+  "timestamp": 1539168786000,
+  "isoDate": "2018-10-10T10:53:06.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538736863.000200",
+  "timestamp": 1538736863000,
+  "isoDate": "2018-10-05T10:54:23.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173451.000200",
+  "timestamp": 1537173451000,
+  "isoDate": "2018-09-17T08:37:31.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536574205.000200",
+  "timestamp": 1536574205000,
+  "isoDate": "2018-09-10T10:10:05.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Skyscanner channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Skyscanner channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1535657799.000300",
+  "timestamp": 1535657799000,
+  "isoDate": "2018-08-30T19:36:39.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1535657799.000200",
+  "timestamp": 1535657799000,
+  "isoDate": "2018-08-30T19:36:39.000Z"
+}]

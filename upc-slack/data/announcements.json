@@ -1,0 +1,3476 @@
+[
+{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey, guys! One of the most epic Nerf Gun Battles is taking place at\nour venue! Put yourself on the front lines\nat the first floor of the A4 building! :boom: :gun:",
+  "client_msg_id": "d5ca2ec7-99ea-4de8-ba2d-a92cb7256718",
+  "ts": "1540078070.000100",
+  "timestamp": 1540078070000,
+  "isoDate": "2018-10-20T23:27:50.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Btw, midnight snack is ready! Come grab some yummy waffles with chocolate",
+  "client_msg_id": "d00f0f5e-6efc-4812-8697-e4e562f388c4",
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1540078138.000000"
+  },
+  "ts": "1540077466.000100",
+  "timestamp": 1540077466000,
+  "isoDate": "2018-10-20T23:17:46.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey <!channel>  :wave: \n\nRemember You can start submitting your projects. *Deadline is Sunday 9AM* I highly recommend you to submit your projects as soon as possible. You can still modify your submission until the deadline.\n\n*SUBMISSIONS HERE*: <https://hackupc2018.devpost.com/>",
+  "client_msg_id": "6525c1ff-fa1d-4298-9059-a17a58fd574b",
+  "attachments": [
+    {
+      "title": "HackUPC 2018",
+      "title_link": "https://hackupc2018.devpost.com/",
+      "text": "BarcelonaTech student Hackathon. 700 hackers. 36 hours. Dream it. Hack it. Ship it.",
+      "fallback": "HackUPC 2018",
+      "thumb_url": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/696/727/datas/original.png",
+      "from_url": "https://hackupc2018.devpost.com/",
+      "thumb_width": 569,
+      "thumb_height": 569,
+      "service_icon": "https://hackupc2018.devpost.com/favicon.ico",
+      "service_name": "hackupc2018.devpost.com",
+      "id": 1,
+      "original_url": "https://hackupc2018.devpost.com/"
+    }
+  ],
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1540076764.000000"
+  },
+  "ts": "1540076686.000100",
+  "reactions": [
+    {
+      "name": "bananadance",
+      "users": [
+        "UCKH43NJC"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540076686000,
+  "isoDate": "2018-10-20T23:04:46.000Z"
+},{
+  "type": "message",
+  "text": "SlideShare Show is just beginning! We're gonna learn the origins of BIENE :congaparrot:",
+  "files": [
+    {
+      "id": "FDJ4G45UZ",
+      "created": 1540066115,
+      "timestamp": 1540066115,
+      "name": "IMG_20181020_220648.jpg",
+      "title": "IMG_20181020_220648.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UC7JLBRR7",
+      "editable": false,
+      "size": 2737555,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ4G45UZ/img_20181020_220648.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ4G45UZ/download/img_20181020_220648.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 270,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 360,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_720.jpg",
+      "thumb_720_w": 720,
+      "thumb_720_h": 540,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 600,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_960.jpg",
+      "thumb_960_w": 960,
+      "thumb_960_h": 720,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJ4G45UZ-85facac01d/img_20181020_220648_1024.jpg",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 768,
+      "image_exif_rotation": 1,
+      "original_w": 4032,
+      "original_h": 3024,
+      "permalink": "https://hackupc2018.slack.com/files/UC7JLBRR7/FDJ4G45UZ/img_20181020_220648.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJ4G45UZ-bb829c36a0"
+    }
+  ],
+  "upload": true,
+  "user": "UC7JLBRR7",
+  "display_as_bot": false,
+  "client_msg_id": "df6662dd-daac-4115-96d3-273e7beb3cfe",
+  "ts": "1540066120.000100",
+  "reactions": [
+    {
+      "name": "heart_eyes",
+      "users": [
+        "UC7AV4J0G",
+        "UDHJS61PB",
+        "UD5EC82MU",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "porg",
+      "users": [
+        "UC7AV4J0G",
+        "UDB7J3H7T",
+        "UD42T5126",
+        "UD5EC82MU",
+        "UC78DKYN5"
+      ],
+      "count": 5
+    },
+    {
+      "name": "bee",
+      "users": [
+        "UC7AV4J0G",
+        "UDH059HUL",
+        "UCUL7GZE0",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "all_the_things",
+      "users": [
+        "UC7AV4J0G",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotwave1",
+      "users": [
+        "UD1CMUE31",
+        "UDF6B4S7J",
+        "UD5EC82MU",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "parrotwave2",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotwave3",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotwave4",
+      "users": [
+        "UD1CMUE31",
+        "UD3EFEE73",
+        "UDA0TV2VB",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "parrotwave5",
+      "users": [
+        "UD1CMUE31",
+        "UD3EFEE73",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "parrotwave6",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotwave7",
+      "users": [
+        "UCKH43NJC",
+        "UD5EC82MU",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "prideparrot",
+      "users": [
+        "UD40STB7V",
+        "UD3EFEE73",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "darkbeerparrot",
+      "users": [
+        "UD1CMUE31",
+        "UD5D3DA8N",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "angelparrot",
+      "users": [
+        "UD1CMUE31",
+        "UD5EC82MU",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "bananaparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC9CGJJMT",
+        "UD5D3DA8N",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "confusedparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "aussieparrot",
+      "users": [
+        "UD1CMUE31",
+        "UD5D3DA8N",
+        "UD3EFEE73",
+        "UC8CALG0Z",
+        "UCTTQCFED",
+        "UC78DKYN5"
+      ],
+      "count": 6
+    },
+    {
+      "name": "congaparrot",
+      "users": [
+        "UD1CMUE31",
+        "UDF6B4S7J",
+        "UD42T5126",
+        "UDJ5A8PNY",
+        "UD5D3DA8N",
+        "UD3EFEE73",
+        "UDA0TV2VB",
+        "UC78DKYN5"
+      ],
+      "count": 8
+    },
+    {
+      "name": "fiestaparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotmustache",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "fastparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrot",
+      "users": [
+        "UD1CMUE31",
+        "UD5D3DA8N",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "fixparrot",
+      "users": [
+        "UD1CMUE31",
+        "UD5D3DA8N",
+        "UD3EFEE73"
+      ],
+      "count": 3
+    },
+    {
+      "name": "chillparrot",
+      "users": [
+        "UD1CMUE31",
+        "UCUL7GZE0"
+      ],
+      "count": 2
+    },
+    {
+      "name": "aussiecongaparrot",
+      "users": [
+        "UD1CMUE31",
+        "UCUL7GZE0"
+      ],
+      "count": 2
+    },
+    {
+      "name": "angryparrot",
+      "users": [
+        "UD1CMUE31"
+      ],
+      "count": 1
+    },
+    {
+      "name": "haskell",
+      "users": [
+        "UCJT2HW3S",
+        "UCKQB0K3J",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "penguin_dance",
+      "users": [
+        "UCUL7GZE0"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540066120000,
+  "isoDate": "2018-10-20T20:08:40.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "\nThe famous and renowned *SlideShare Show* is back in HackUPC! Laughter is assured! This year we have some surprises for you, so definitely don’t miss it. Come to to *A5001, at 22:00* :microphone:\n",
+  "client_msg_id": "1e6101f8-d314-4ef3-9f9e-f43d390dc9e9",
+  "ts": "1540064888.000100",
+  "reactions": [
+    {
+      "name": "fb-wow",
+      "users": [
+        "UC78DKYN5",
+        "UCN8L1RQ8",
+        "UCCJUL1PF",
+        "UC7GG52L9"
+      ],
+      "count": 4
+    },
+    {
+      "name": "aaw_yeah",
+      "users": [
+        "UCN3TGSN7",
+        "UCCJUL1PF",
+        "UC8CALG0Z"
+      ],
+      "count": 3
+    },
+    {
+      "name": "fidget_spinner",
+      "users": [
+        "UCKAFGB5E"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540064888000,
+  "isoDate": "2018-10-20T19:48:08.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey vegan hackers , your dinner has arrived! You can come now to grab some food.\n\nWe're very sorry for the delay, but the FCB match tonight have caused some delays on the road :disappointed_relieved:",
+  "client_msg_id": "4fda41c2-666e-4b1d-b21c-8576b8544dcb",
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1540063745.000000"
+  },
+  "ts": "1540063513.000100",
+  "reactions": [
+    {
+      "name": "bar_chart",
+      "users": [
+        "UD9DAGL3H"
+      ],
+      "count": 1
+    },
+    {
+      "name": "vegan",
+      "users": [
+        "UCVU79ZEC",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1540063513000,
+  "isoDate": "2018-10-20T19:25:13.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Okay guys! 2nd round starts NOW! :pizza: :ultrafastparrot: ",
+  "client_msg_id": "79b799f1-bd13-45f2-bfef-372cc38f1849",
+  "ts": "1540059986.000100",
+  "reactions": [
+    {
+      "name": "heart",
+      "users": [
+        "UD9DAGL3H",
+        "UCL497WV7",
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UCKQB0K3J",
+        "UCKRSV7RR",
+        "UCBAEJR7H",
+        "UDKCS8GLE"
+      ],
+      "count": 8
+    },
+    {
+      "name": "parrotbeer",
+      "users": [
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UCK723MHP",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UCAUGUX50",
+        "UCKRSV7RR",
+        "UC8CALG0Z"
+      ],
+      "count": 9
+    },
+    {
+      "name": "fastparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UDHLH8M41",
+        "UC9KJ1E66",
+        "UDA976TSL",
+        "UCWP8SFNF",
+        "UCKRSV7RR"
+      ],
+      "count": 7
+    },
+    {
+      "name": "angelparrot",
+      "users": [
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UCKQB0K3J",
+        "UCKRSV7RR",
+        "UCKN0503D",
+        "UDJDTSNJ0",
+        "UDKCS8GLE"
+      ],
+      "count": 9
+    },
+    {
+      "name": "fiestaparrot",
+      "users": [
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UCKRSV7RR"
+      ],
+      "count": 5
+    },
+    {
+      "name": "chillparrot",
+      "users": [
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UCL497WV7",
+        "UCKRSV7RR"
+      ],
+      "count": 6
+    },
+    {
+      "name": "fixparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UDHLH8M41",
+        "UC9KJ1E66",
+        "UDA0TV2VB",
+        "UCWP8SFNF",
+        "UCL497WV7",
+        "UCKQB0K3J",
+        "UCKRSV7RR"
+      ],
+      "count": 9
+    },
+    {
+      "name": "aussieparrot",
+      "users": [
+        "UC946BFLK",
+        "UDHLH8M41",
+        "UC9KJ1E66",
+        "UDA0TV2VB",
+        "UCWP8SFNF",
+        "UCL497WV7",
+        "UCKRSV7RR",
+        "UDKCS8GLE"
+      ],
+      "count": 8
+    },
+    {
+      "name": "ceilingparrot",
+      "users": [
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UCKRSV7RR"
+      ],
+      "count": 5
+    },
+    {
+      "name": "luckyparrot",
+      "users": [
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UDA0TV2VB",
+        "UCWP8SFNF",
+        "UCLKV8TBR",
+        "UD1CMUE31",
+        "UCKQB0K3J",
+        "UCKRSV7RR"
+      ],
+      "count": 9
+    },
+    {
+      "name": "parrotmustache",
+      "users": [
+        "UC946BFLK",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UDA0TV2VB",
+        "UCWP8SFNF",
+        "UDH059HUL",
+        "UCKRSV7RR",
+        "UDKCS8GLE"
+      ],
+      "count": 8
+    },
+    {
+      "name": "parrot",
+      "users": [
+        "UD1CMUE31",
+        "UDHLH8M41",
+        "UC9KJ1E66",
+        "UDA0TV2VB",
+        "UCWP8SFNF",
+        "UC946BFLK",
+        "UCKRSV7RR"
+      ],
+      "count": 7
+    },
+    {
+      "name": "congaparrot",
+      "users": [
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UDA0TV2VB",
+        "UCL497WV7",
+        "UC9HKP27P",
+        "UCKQB0K3J",
+        "UCKRSV7RR",
+        "UDKCS8GLE"
+      ],
+      "count": 9
+    },
+    {
+      "name": "parrotwave4",
+      "users": [
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UCL497WV7",
+        "UCKRSV7RR"
+      ],
+      "count": 5
+    },
+    {
+      "name": "bananaparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC9KJ1E66",
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UC946BFLK",
+        "UCKRSV7RR"
+      ],
+      "count": 6
+    },
+    {
+      "name": "moonwalkingparrot",
+      "users": [
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UCKRSV7RR",
+        "UDKCS8GLE"
+      ],
+      "count": 6
+    },
+    {
+      "name": "hamburgerparrot",
+      "users": [
+        "UDHLH8M41",
+        "UCWP8SFNF",
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UCL497WV7",
+        "UCKRSV7RR",
+        "UCUPPJ64A"
+      ],
+      "count": 7
+    },
+    {
+      "name": "halalparrot",
+      "users": [
+        "UDA0TV2VB",
+        "UCWP8SFNF",
+        "UC946BFLK",
+        "UDHLH8M41",
+        "UCKRSV7RR",
+        "UDKCS8GLE"
+      ],
+      "count": 6
+    },
+    {
+      "name": "papalparrot",
+      "users": [
+        "UCWP8SFNF",
+        "UDHLH8M41"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotwave2",
+      "users": [
+        "UCWP8SFNF",
+        "UCL497WV7",
+        "UDHLH8M41",
+        "UDKCS8GLE"
+      ],
+      "count": 4
+    },
+    {
+      "name": "tacoparrot",
+      "users": [
+        "UD1CMUE31",
+        "UDHLH8M41",
+        "UCWP8SFNF"
+      ],
+      "count": 3
+    },
+    {
+      "name": "stableparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UCWP8SFNF"
+      ],
+      "count": 3
+    },
+    {
+      "name": "sovjetparrot",
+      "users": [
+        "UCU9ZHZC2",
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UCKRSV7RR",
+        "UCWP8SFNF"
+      ],
+      "count": 5
+    },
+    {
+      "name": "gentlemanparrot",
+      "users": [
+        "UDA0TV2VB",
+        "UCKRSV7RR"
+      ],
+      "count": 2
+    },
+    {
+      "name": "take_my_money",
+      "users": [
+        "UDA0TV2VB",
+        "UCAUGUX50",
+        "UDHMP3JN5",
+        "UDKCS8GLE"
+      ],
+      "count": 4
+    },
+    {
+      "name": "ultrafastparrot",
+      "users": [
+        "UDA976TSL",
+        "UCL497WV7",
+        "UD42HQXDY"
+      ],
+      "count": 3
+    },
+    {
+      "name": "harrypotterparrot",
+      "users": [
+        "UCN8L1RQ8"
+      ],
+      "count": 1
+    },
+    {
+      "name": "charmander_dancing",
+      "users": [
+        "UDEUYHUUC",
+        "UC946BFLK"
+      ],
+      "count": 2
+    },
+    {
+      "name": "shipitparrot",
+      "users": [
+        "UD1CMUE31",
+        "UDKCS8GLE"
+      ],
+      "count": 2
+    },
+    {
+      "name": "rightparrot",
+      "users": [
+        "UD1CMUE31"
+      ],
+      "count": 1
+    },
+    {
+      "name": "parrotwave7",
+      "users": [
+        "UC946BFLK"
+      ],
+      "count": 1
+    },
+    {
+      "name": "bananadance",
+      "users": [
+        "UCL497WV7",
+        "UDKCS8GLE",
+        "UCWP8SFNF"
+      ],
+      "count": 3
+    },
+    {
+      "name": "fidgetparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC946BFLK"
+      ],
+      "count": 2
+    },
+    {
+      "name": "ice-cream-parrot",
+      "users": [
+        "UCN8L1RQ8",
+        "UCNEAGSDD"
+      ],
+      "count": 2
+    },
+    {
+      "name": "sassyparrot",
+      "users": [
+        "UD1CMUE31",
+        "UDKCS8GLE"
+      ],
+      "count": 2
+    },
+    {
+      "name": "parrotcop",
+      "users": [
+        "UCN8L1RQ8",
+        "UDKCS8GLE"
+      ],
+      "count": 2
+    },
+    {
+      "name": "blondesassyparrot",
+      "users": [
+        "UD1CMUE31"
+      ],
+      "count": 1
+    },
+    {
+      "name": "invisibleparrot",
+      "users": [
+        "UD1CMUE31",
+        "UC946BFLK",
+        "UCBAEJR7H",
+        "UDKCS8GLE"
+      ],
+      "count": 4
+    },
+    {
+      "name": "congapartyparrot",
+      "users": [
+        "UDK3T8ZM5",
+        "UCBAEJR7H",
+        "UDKCS8GLE"
+      ],
+      "count": 3
+    },
+    {
+      "name": "middleparrot",
+      "users": [
+        "UDJFP7YDB",
+        "UCKQB0K3J",
+        "UD1CMUE31"
+      ],
+      "count": 3
+    },
+    {
+      "name": "grinning",
+      "users": [
+        "UCKQB0K3J",
+        "UDKCS8GLE"
+      ],
+      "count": 2
+    },
+    {
+      "name": "haskell",
+      "users": [
+        "UCJT2HW3S",
+        "UDA976TSL",
+        "UD41KSZ6F",
+        "UC946BFLK"
+      ],
+      "count": 4
+    },
+    {
+      "name": "cryptoparrot",
+      "users": [
+        "UD1CMUE31",
+        "UCBAEJR7H"
+      ],
+      "count": 2
+    },
+    {
+      "name": "confusedparrot",
+      "users": [
+        "UD1CMUE31",
+        "UCBAEJR7H"
+      ],
+      "count": 2
+    },
+    {
+      "name": "portalblueparrot",
+      "users": [
+        "UD1CMUE31"
+      ],
+      "count": 1
+    },
+    {
+      "name": "dealwithitparrot",
+      "users": [
+        "UD1CMUE31"
+      ],
+      "count": 1
+    },
+    {
+      "name": "typeform",
+      "users": [
+        "UDD2FUBLM"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540059986000,
+  "isoDate": "2018-10-20T18:26:26.000Z"
+},{
+  "type": "message",
+  "user": "UC7GG52L9",
+  "text": "2nd round :pizzaspin: is *not available* yet, we will tell you when it’s ready! :smile: :pizzaparrot: ",
+  "client_msg_id": "A91C674E-18E2-418B-8B5C-9631336C0062",
+  "ts": "1540059247.000100",
+  "reactions": [
+    {
+      "name": "fb-angry",
+      "users": [
+        "UCN8L1RQ8",
+        "UCU9ZHZC2",
+        "UDEUYHUUC",
+        "UCL497WV7",
+        "UCUMQGLNR"
+      ],
+      "count": 5
+    },
+    {
+      "name": "congaparrot",
+      "users": [
+        "UDA976TSL",
+        "UD1CMUE31",
+        "UC8CALG0Z"
+      ],
+      "count": 3
+    },
+    {
+      "name": "santa",
+      "users": [
+        "UD9DAGL3H",
+        "UDH059HUL"
+      ],
+      "count": 2
+    },
+    {
+      "name": "kotlin",
+      "users": [
+        "UC946BFLK"
+      ],
+      "count": 1
+    },
+    {
+      "name": "parrotbeer",
+      "users": [
+        "UD1CMUE31"
+      ],
+      "count": 1
+    },
+    {
+      "name": "take_my_money",
+      "users": [
+        "UDHMP3JN5"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540059247000,
+  "isoDate": "2018-10-20T18:14:07.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "3, 2, 1... PIZZAAAAAAAAAAA :pizza: :pizzaspin: :pizzaparrot: ",
+  "client_msg_id": "1e29c9ef-4247-4e06-9a50-9472a6bfe79a",
+  "ts": "1540057544.000100",
+  "reactions": [
+    {
+      "name": "pizzaspin",
+      "users": [
+        "UCK723MHP",
+        "UCUF00L9X",
+        "UCAUGUX50",
+        "UCL4T1F4M",
+        "UDJJPC37V",
+        "UCM2VKQ7Q",
+        "UCN9KSED9",
+        "UCLKV8TBR",
+        "UDF6B4S7J",
+        "UC946BFLK",
+        "UDJ4ZFSMR",
+        "UC8CALG0Z"
+      ],
+      "count": 12
+    }
+  ],
+  "timestamp": 1540057544000,
+  "isoDate": "2018-10-20T17:45:44.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "If you're vegan, please react to this message with :vegan:. It will help us to calculate how many people need extra food :relaxed:",
+  "client_msg_id": "1bdc18bd-267b-453d-bb95-8fcadd95120c",
+  "ts": "1540056968.000100",
+  "reactions": [
+    {
+      "name": "vegan",
+      "users": [
+        "UC7JLBRR7",
+        "UCVU79ZEC",
+        "UDJKMJ885",
+        "UDJ4AMKEG",
+        "UCKH43NJC",
+        "UDKMQLL3Y",
+        "UDA976TSL"
+      ],
+      "count": 7
+    }
+  ],
+  "timestamp": 1540056968000,
+  "isoDate": "2018-10-20T17:36:08.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDKNRV1AT",
+      "created": 1540055282,
+      "timestamp": 1540055282,
+      "name": "IMG_20181020_190739.jpg",
+      "title": "IMG_20181020_190739.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UC7MN3GBD",
+      "editable": false,
+      "size": 4145265,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDKNRV1AT/img_20181020_190739.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDKNRV1AT/download/img_20181020_190739.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 270,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 360,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_720.jpg",
+      "thumb_720_w": 720,
+      "thumb_720_h": 540,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 600,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_960.jpg",
+      "thumb_960_w": 960,
+      "thumb_960_h": 720,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKNRV1AT-a2ecb769be/img_20181020_190739_1024.jpg",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 768,
+      "image_exif_rotation": 1,
+      "original_w": 4000,
+      "original_h": 3000,
+      "permalink": "https://hackupc2018.slack.com/files/UC7MN3GBD/FDKNRV1AT/img_20181020_190739.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDKNRV1AT-6127419578"
+    }
+  ],
+  "upload": true,
+  "user": "UC7MN3GBD",
+  "display_as_bot": false,
+  "client_msg_id": "5df1fcf5-74bd-48e2-a5e5-5cb6963c4bf8",
+  "ts": "1540055288.000100",
+  "timestamp": 1540055288000,
+  "isoDate": "2018-10-20T17:08:08.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Vegan hackers, could you come down for a moment to the meal zone? As we can't have vegan pizza :cry: we'd like to discuss other options with you! ",
+  "client_msg_id": "d1972577-1c57-4108-81fe-22ceaf0a5528",
+  "ts": "1540054366.000100",
+  "reactions": [
+    {
+      "name": "vegan",
+      "users": [
+        "UCAUGUX50",
+        "UDJKMJ885",
+        "UC9HKP27P",
+        "UCK723MHP",
+        "UCVU79ZEC"
+      ],
+      "count": 5
+    },
+    {
+      "name": "aw_yeah",
+      "users": [
+        "UCK723MHP"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540054366000,
+  "isoDate": "2018-10-20T16:52:46.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Come and wrack your brain in order to win our first rubik tournament in *A5002* at 19:00h! :brain: :anger:",
+  "client_msg_id": "a385d595-5b14-476c-8cba-0ac6a312926e",
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1540053959.000000"
+  },
+  "ts": "1540053940.000100",
+  "timestamp": 1540053940000,
+  "isoDate": "2018-10-20T16:45:40.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "\nIf you are interested in knowing how to organize a hackathon, come to our talk in *A5001*, starting right now. Miquel Llobet, director of the first edition of HackUPC, will be sharing his experience.",
+  "client_msg_id": "c33cf2f9-ded0-43a9-9a10-1e42c5550393",
+  "ts": "1540051401.000100",
+  "timestamp": 1540051401000,
+  "isoDate": "2018-10-20T16:03:21.000Z"
+},{
+  "type": "message",
+  "user": "UC8CALG0Z",
+  "text": "Hey hackers! There is a small change. Our talk about how to organize a hackathon will be finally at 18:00h. Sorry for the inconveniences!",
+  "client_msg_id": "da762e6e-05c5-44a5-8eca-878e415db6a8",
+  "ts": "1540046965.000100",
+  "reactions": [
+    {
+      "name": "clock6",
+      "users": [
+        "UCAUGUX50",
+        "UDHUXRNJ0"
+      ],
+      "count": 2
+    },
+    {
+      "name": "haskell",
+      "users": [
+        "UCJT2HW3S"
+      ],
+      "count": 1
+    },
+    {
+      "name": "sadparrot",
+      "users": [
+        "UCKH43NJC"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540046965000,
+  "isoDate": "2018-10-20T14:49:25.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "If you're up for seconds, come down and get some more! :shallow_pan_of_food: ",
+  "client_msg_id": "cdbd5b80-22ef-4b44-8cc5-a26d4d6aca31",
+  "ts": "1540037610.000100",
+  "timestamp": 1540037610000,
+  "isoDate": "2018-10-20T12:13:30.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDJFYABKM",
+      "created": 1540034415,
+      "timestamp": 1540034415,
+      "name": "IMG_20181020_131957.jpg",
+      "title": "IMG_20181020_131957.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UC7MN3GBD",
+      "editable": false,
+      "size": 5509066,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJFYABKM/img_20181020_131957.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJFYABKM/download/img_20181020_131957.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_360.jpg",
+      "thumb_360_w": 270,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_480.jpg",
+      "thumb_480_w": 360,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_720.jpg",
+      "thumb_720_w": 540,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1067,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_960.jpg",
+      "thumb_960_w": 720,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJFYABKM-ea44a5e8fb/img_20181020_131957_1024.jpg",
+      "thumb_1024_w": 768,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 4000,
+      "original_h": 3000,
+      "permalink": "https://hackupc2018.slack.com/files/UC7MN3GBD/FDJFYABKM/img_20181020_131957.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJFYABKM-05f4d03e6d"
+    }
+  ],
+  "upload": true,
+  "user": "UC7MN3GBD",
+  "display_as_bot": false,
+  "client_msg_id": "d6e38bda-1e78-43a6-83d3-06a2a9c18db5",
+  "ts": "1540034421.000100",
+  "timestamp": 1540034421000,
+  "isoDate": "2018-10-20T11:20:21.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey <!channel>, just wanna say... PAELLA! :shallow_pan_of_food:",
+  "client_msg_id": "91e942f7-2a68-4d3e-a9a4-be93be97e126",
+  "ts": "1540034378.000100",
+  "reactions": [
+    {
+      "name": "porg",
+      "users": [
+        "UC7GG52L9",
+        "UDFL925D0",
+        "UD3EFEE73",
+        "UDJA2QTDG",
+        "UC7AV4J0G",
+        "UCUMQGLNR",
+        "UCLP8HS8P"
+      ],
+      "count": 7
+    },
+    {
+      "name": "parrot",
+      "users": [
+        "UC7GG52L9",
+        "UC8CALG0Z",
+        "UD4AD5W3U",
+        "UCKGBST4Z",
+        "UCK0GP5DE",
+        "UC7AV4J0G",
+        "UC9CG7D1B",
+        "UCW3YFJH4",
+        "UCUMQGLNR",
+        "UDJRRFKAT",
+        "UDH059HUL",
+        "UDA0TV2VB"
+      ],
+      "count": 12
+    },
+    {
+      "name": "metroid",
+      "users": [
+        "UCT1A17QD",
+        "UC7GG52L9",
+        "UC8MS2ZNV",
+        "UDJDTSNJ0",
+        "UC7AV4J0G",
+        "UCW3YFJH4",
+        "UCUMQGLNR",
+        "UD3SU4HT6",
+        "UDJ5A8PNY"
+      ],
+      "count": 9
+    },
+    {
+      "name": "fast_parrot",
+      "users": [
+        "UC7GG52L9",
+        "UC7AV4J0G",
+        "UCUMQGLNR",
+        "UDJ5A8PNY",
+        "UDA0TV2VB"
+      ],
+      "count": 5
+    },
+    {
+      "name": "ultrafastparrot",
+      "users": [
+        "UC7GG52L9",
+        "UD1CMUE31",
+        "UC8CALG0Z",
+        "UD1K0SD3L",
+        "UDGT432P5",
+        "UC7AV4J0G",
+        "UD91S7X08",
+        "UCUMQGLNR",
+        "UDJ5A8PNY",
+        "UDHR7FSNP",
+        "UDA0TV2VB"
+      ],
+      "count": 11
+    },
+    {
+      "name": "face_vomiting",
+      "users": [
+        "UD9LMAY3W",
+        "UCN9KSED9",
+        "UCW3YFJH4",
+        "UCUMQGLNR"
+      ],
+      "count": 4
+    },
+    {
+      "name": "halalparrot",
+      "users": [
+        "UDJ5Z4ACA",
+        "UC7AV4J0G",
+        "UD5T1U90S",
+        "UCN8L1RQ8",
+        "UDDLE8M4Y",
+        "UCW3YFJH4",
+        "UCUMQGLNR",
+        "UCLP8HS8P"
+      ],
+      "count": 8
+    },
+    {
+      "name": "picklerick",
+      "users": [
+        "UDJ5Z4ACA",
+        "UC7AV4J0G",
+        "UDJFZKM9B",
+        "UCW3YFJH4",
+        "UCUMQGLNR",
+        "UDEUYHUUC",
+        "UC7GG52L9",
+        "UCLP8HS8P",
+        "UDA0TV2VB"
+      ],
+      "count": 9
+    },
+    {
+      "name": "eyes",
+      "users": [
+        "UDG9ZESGZ",
+        "UC7AV4J0G",
+        "UCUMQGLNR"
+      ],
+      "count": 3
+    },
+    {
+      "name": "servizurich",
+      "users": [
+        "UDFBDP4F3",
+        "UCUMQGLNR",
+        "UDJ5A8PNY"
+      ],
+      "count": 3
+    },
+    {
+      "name": "blue_heart",
+      "users": [
+        "UDFBDP4F3",
+        "UCUMQGLNR"
+      ],
+      "count": 2
+    },
+    {
+      "name": "star-struck",
+      "users": [
+        "UCKN0503D",
+        "UCUMQGLNR"
+      ],
+      "count": 2
+    },
+    {
+      "name": "aliensguy",
+      "users": [
+        "UCTJ3M43S",
+        "UCUMQGLNR",
+        "UD5D3DA8N"
+      ],
+      "count": 3
+    },
+    {
+      "name": "middle_finger",
+      "users": [
+        "UCW3YFJH4",
+        "UCUMQGLNR"
+      ],
+      "count": 2
+    },
+    {
+      "name": "banana",
+      "users": [
+        "UCW3YFJH4",
+        "UCUMQGLNR",
+        "UCKNYFYKC"
+      ],
+      "count": 3
+    },
+    {
+      "name": "airplane",
+      "users": [
+        "UCLP8HS8P"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540034378000,
+  "isoDate": "2018-10-20T11:19:38.000Z"
+},{
+  "type": "message",
+  "user": "UC8CALG0Z",
+  "text": "\nAre you hungry? :knife_fork_plate: We have paella for everyone! A taste of the Spanish cuisine, right outside the hacking room. :tada:\n",
+  "client_msg_id": "84875e9b-2524-4206-ba4a-9b4cc0b78d92",
+  "ts": "1540033545.000100",
+  "reactions": [
+    {
+      "name": "es",
+      "users": [
+        "UCAUGUX50",
+        "UC9HKP27P",
+        "UCNEAGSDD",
+        "UDHR7FSNP",
+        "UD5DG7ZNJ",
+        "UCLUL56LW",
+        "UD3EFEE73",
+        "UCK0GP5DE"
+      ],
+      "count": 8
+    },
+    {
+      "name": "angryparrot",
+      "users": [
+        "UDJAK27C2",
+        "UCLUL56LW"
+      ],
+      "count": 2
+    },
+    {
+      "name": "bananaparrot",
+      "users": [
+        "UDJAK27C2",
+        "UD42HQXDY",
+        "UDJJG321G",
+        "UCLUL56LW",
+        "UCK0GP5DE",
+        "UD3SU4HT6"
+      ],
+      "count": 6
+    },
+    {
+      "name": "shallow_pan_of_food",
+      "users": [
+        "UC7GG52L9",
+        "UC7JLBRR7",
+        "UCKQB0K3J"
+      ],
+      "count": 3
+    },
+    {
+      "name": "parrot",
+      "users": [
+        "UCK0GP5DE"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540033545000,
+  "isoDate": "2018-10-20T11:05:45.000Z"
+},{
+  "type": "message",
+  "user": "UC7GG52L9",
+  "text": "Please Hackers, HELP ME to find my child :cry:",
+  "client_msg_id": "4c8ba9f0-3071-4b99-8f20-ff66e8fd0f88",
+  "thread_ts": "1540032637.000100",
+  "parent_user_id": "UC7JLBRR7",
+  "ts": "1540032783.000100",
+  "reactions": [
+    {
+      "name": "baby",
+      "users": [
+        "UC7MN3GBD"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540032783000,
+  "isoDate": "2018-10-20T10:53:03.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "The organisers have lost their children! They're really *cute rubber duckies* that should be around the venue. They will be asking for their father or mother: *find the corresponding organiser for a small reward*. We love them and miss them :broken_heart:",
+  "client_msg_id": "a68eb465-5492-467c-9251-1baac7864c3c",
+  "thread_ts": "1540032637.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UC7GG52L9",
+      "ts": "1540032783.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1540032637.000100",
+  "reactions": [
+    {
+      "name": "duck",
+      "users": [
+        "UC7GG52L9",
+        "UC9HKP27P",
+        "UD1CMUE31",
+        "UCP7A0XST",
+        "UCKND4DAN",
+        "UCAUGUX50",
+        "UDJDTSNJ0",
+        "UC78DKYN5"
+      ],
+      "count": 8
+    },
+    {
+      "name": "psyduck",
+      "users": [
+        "UC7GG52L9",
+        "UD42HQXDY",
+        "UC78DKYN5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "charmander_dancing",
+      "users": [
+        "UD5T1U90S",
+        "UC78DKYN5"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1540032637000,
+  "isoDate": "2018-10-20T10:50:37.000Z"
+},{
+  "type": "message",
+  "user": "UC8CALG0Z",
+  "text": "Question answering, machine translation, sentiment analysis, summarization… these are only a small taste of the many things that natural language processing can accomplish. Get introduced to this field of computer science in <#CC9CC7SDC|soprasteria> ’s :soprasteria: talk, in room *A5002 at 12:00*.",
+  "client_msg_id": "b4bdfaba-277a-48d2-9369-6b369a78a16b",
+  "edited": {
+    "user": "UC8CALG0Z",
+    "ts": "1540029264.000000"
+  },
+  "ts": "1540029247.000100",
+  "timestamp": 1540029247000,
+  "isoDate": "2018-10-20T09:54:07.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "<#CCTPG6VDX|servizurich>'s :servizurich: talk, about in-memory processing pipelines running in the cloud :cloud:, is waiting for you in *A5001 at 11:30*.",
+  "client_msg_id": "6c4f5730-d634-4be0-aed5-746b3659dc98",
+  "ts": "1540027343.000100",
+  "timestamp": 1540027343000,
+  "isoDate": "2018-10-20T09:22:23.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey Hackers, <#CCR2QN5DG|vueling> :vueling: is ginving a talk right now on A5002. If you are interested in getting fast responses from databases, this is your place!",
+  "client_msg_id": "ea2eb1e8-2b68-4ef8-9ceb-4b764d38098a",
+  "ts": "1540026238.000100",
+  "timestamp": 1540026238000,
+  "isoDate": "2018-10-20T09:03:58.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Showers have closed! ",
+  "client_msg_id": "30145aaf-9054-45cb-909a-8c8f41818bb7",
+  "ts": "1540026128.000100",
+  "timestamp": 1540026128000,
+  "isoDate": "2018-10-20T09:02:08.000Z"
+},{
+  "type": "message",
+  "text": "Have you met Biene, HackUPC's mascot? :bee:It likes to dress up like HackUPC organizers :hackupc: \n\nCome by the info desk, ask for Biene, and you'll receive a random Biene sticker. Which one will you get?",
+  "files": [
+    {
+      "id": "FDKKG05V5",
+      "created": 1540025904,
+      "timestamp": 1540025904,
+      "name": "IMG_20181020_105136.jpg",
+      "title": "Imagen de Android",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UC7MN3GBD",
+      "editable": false,
+      "size": 5528751,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDKKG05V5/img_20181020_105136.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDKKG05V5/download/img_20181020_105136.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_360.jpg",
+      "thumb_360_w": 270,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_480.jpg",
+      "thumb_480_w": 360,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_720.jpg",
+      "thumb_720_w": 540,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1067,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_960.jpg",
+      "thumb_960_w": 720,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKKG05V5-5d14b8707a/img_20181020_105136_1024.jpg",
+      "thumb_1024_w": 768,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 4000,
+      "original_h": 3000,
+      "permalink": "https://hackupc2018.slack.com/files/UC7MN3GBD/FDKKG05V5/img_20181020_105136.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDKKG05V5-7155e0439e"
+    }
+  ],
+  "upload": true,
+  "user": "UC7MN3GBD",
+  "display_as_bot": false,
+  "client_msg_id": "ce4c34ef-e642-4448-9e1d-42efaa13f3c2",
+  "ts": "1540025913.000100",
+  "reactions": [
+    {
+      "name": "heart_eyes",
+      "users": [
+        "UCKN0503D",
+        "UDJBY917X",
+        "UC8GNSQBA",
+        "UC8ST2GMV",
+        "UC7GG52L9",
+        "UC78DKYN5",
+        "UDFQA9WN8",
+        "UC92BGXJ8",
+        "UC7MTLDGB"
+      ],
+      "count": 9
+    }
+  ],
+  "timestamp": 1540025913000,
+  "isoDate": "2018-10-20T08:58:33.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Learn to go as fast as an airplane attending the <#CCR2QN5DG|vueling> :vueling: talk, where you'll learn how to get fast responses from a massive database! It's starting in *A5002 at 11:00.*",
+  "client_msg_id": "5a89b9aa-67c1-43f4-928a-0bbcffbc27de",
+  "ts": "1540025453.000100",
+  "timestamp": 1540025453000,
+  "isoDate": "2018-10-20T08:50:53.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hackers, *breakfast is closed!*",
+  "client_msg_id": "11c31379-07ce-4e84-9999-178fbdb1ba4e",
+  "ts": "1540024923.000100",
+  "timestamp": 1540024923000,
+  "isoDate": "2018-10-20T08:42:03.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Hi hackers! Breakfast will be closed in 5 minutes. Come and grab some bread, croissants or fruit. Thank you! :blush: ",
+  "client_msg_id": "fef6e016-e6fb-4b99-b2aa-19b0c7ac1bbe",
+  "ts": "1540023170.000100",
+  "timestamp": 1540023170000,
+  "isoDate": "2018-10-20T08:12:50.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "If you’re pursuing the <#CCJM20DU5|skyscanner> :skyscanner: challenge, you can’t miss the talk about their API at 10:00 in room A5001 :airplane:",
+  "client_msg_id": "d7999229-a41c-4839-b565-f61613d6e47c",
+  "ts": "1540021680.000100",
+  "timestamp": 1540021680000,
+  "isoDate": "2018-10-20T07:48:00.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Moment to cool off. You can go to the showers in the gym for a soak after a long night! :shower: (Check <http://maps.hackupc.com|maps.hackupc.com> if you don't know how to get there)",
+  "client_msg_id": "d8bb5451-c697-4459-a8e6-1fddb3c28e9e",
+  "ts": "1540020299.000100",
+  "timestamp": 1540020299000,
+  "isoDate": "2018-10-20T07:24:59.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Good morning, hackers! It's time to have breakfast. Come down to the meal zone and gather strength for a new day!",
+  "client_msg_id": "a47c6033-9578-4210-a350-6dffdfc3e332",
+  "ts": "1540016770.000100",
+  "reactions": [
+    {
+      "name": "muscle",
+      "users": [
+        "UDH26LRNH"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540016770000,
+  "isoDate": "2018-10-20T06:26:10.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "*TheGame is starting soon!* Are you worthy of joining the TheBlackJacks? Prove yourself at <http://game.hackupc.com|game.hackupc.com>",
+  "client_msg_id": "3729b13b-8436-4217-83b0-02d2024506bf",
+  "ts": "1539998070.000100",
+  "timestamp": 1539998070000,
+  "isoDate": "2018-10-20T01:14:30.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "On the other hand, if you need to sleep right now, sleeping rooms are finally ready. Grab an air mattress in the *second floor of the A3 building* and go to any room of your liking in the A3 building or the second floor of the A4 building.\nRooms A3 201 and A3 202 are gender-exclusive, if you wish or need it. ",
+  "client_msg_id": "39df8cc6-27c6-438d-a9e0-27a38e237371",
+  "ts": "1539992882.000100",
+  "timestamp": 1539992882000,
+  "isoDate": "2018-10-19T23:48:02.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "If you need some pieces, you can use our *3D printers*! Go to the Infodesk to learn how to print your own models. Printing is allowed in 2 hour slots, so if your piece takes longer than that you'll have to make it smaller. ",
+  "client_msg_id": "1bfca558-3dfe-4ece-8b6e-9f01c1c5eeec",
+  "ts": "1539992517.000100",
+  "timestamp": 1539992517000,
+  "isoDate": "2018-10-19T23:41:57.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hackers, the midnight snack is ready! Come down to the meal zone\nto grab a do-it-yourself yogurt :male-cook: :female-cook:",
+  "client_msg_id": "5f7f35fe-d0c0-4906-94a8-1cc61332e52e",
+  "ts": "1539991814.000100",
+  "timestamp": 1539991814000,
+  "isoDate": "2018-10-19T23:30:14.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "We have opened the sleeping rooms. Go to the second floor of the A4 building, or the first and second floors of the A3 building, and sleep a bit :zzz:",
+  "client_msg_id": "608958de-33fc-4c7f-be33-f400fbf29419",
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1539991202.000000"
+  },
+  "ts": "1539991179.000100",
+  "timestamp": 1539991179000,
+  "isoDate": "2018-10-19T23:19:39.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Sorry to keep you all waiting until now, but *the Hardware Lab is now open!* Request whatever you need through your <http://my.hackupc.com|my.hackupc.com> account, and you'll have 15 minutes to go to the Infodesk (A5, intermediate floor) to grab it :gear:",
+  "client_msg_id": "8f8639fa-2ad9-477e-9355-da3c4d0c983f",
+  "ts": "1539986846.000100",
+  "reactions": [
+    {
+      "name": "parrot",
+      "users": [
+        "UC8ST2GMV",
+        "UDHHBAC48",
+        "UDJBY917X"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1539986846000,
+  "isoDate": "2018-10-19T22:07:26.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Saturday is beginning, and it's time for two more talks! <#CCUB71TV0|awseducate> :aws:  will be giving a great introduction to serverless architectures, in *A5001* at *00:00*, and <#CD45YC4P2|typeform> :typeform: is going to talk about APIs in *A5002* at *00:10*, if you're pursuing their challenge.",
+  "client_msg_id": "0ed6db06-72bd-4715-aea4-3dfcce63520b",
+  "edited": {
+    "user": "UC7JLBRR7",
+    "ts": "1539986595.000000"
+  },
+  "ts": "1539986016.000100",
+  "timestamp": 1539986016000,
+  "isoDate": "2018-10-19T21:53:36.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Hi hackers, FYI there's a 10 minutes delay in A5002 talks. Sorry for the inconveniences.",
+  "client_msg_id": "96b35e0d-5821-454e-85fa-0a7641a4a005",
+  "ts": "1539985024.000200",
+  "timestamp": 1539985024000,
+  "isoDate": "2018-10-19T21:37:04.000Z"
+},{
+  "type": "message",
+  "user": "UC8CALG0Z",
+  "text": "At *23:30h* there will be an interesting talk by <#CC9CCGQP8|everis> :everis:  about Virtual Assistants in *A5001*. And if you're a Google fan, <#CC9CCRD8W|opentrends> :opentrends: will explain how to create a chatbot with Google Assistant on *A5002*. Don’t miss it!\n",
+  "client_msg_id": "d90d127e-d2be-4feb-b515-3f6034d71cf4",
+  "ts": "1539984039.000100",
+  "timestamp": 1539984039000,
+  "isoDate": "2018-10-19T21:20:39.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hello!\n\nIf you still don’t know what to create, <#CCKU9PTND|ithinkupc> :ithinkupc: proposes you their challenge now *at 23:00h in A5001*.\nAnd if you are passionate about music and want to know how to create music with Javascript, don’t miss the <#CC86PJT9B|itequia>  :itequia: talk now at *23:00h in A5002*.",
+  "client_msg_id": "493dc648-0246-4417-8197-74a8324a1e98",
+  "ts": "1539982436.000100",
+  "timestamp": 1539982436000,
+  "isoDate": "2018-10-19T20:53:56.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hackers, the *Cafeteria* is now open! If you want to have a coffee/tea, play some games or just relax (no coding allowed!), visit room *A6106* and unwind a bit :coffee:",
+  "client_msg_id": "25c62538-7edf-4a21-903e-cc8b0ed47af2",
+  "edited": {
+    "user": "UC7JLBRR7",
+    "ts": "1539981674.000000"
+  },
+  "ts": "1539981655.000100",
+  "reactions": [
+    {
+      "name": "coffee",
+      "users": [
+        "UCJSSAWDN",
+        "UC8ST2GMV",
+        "UCAUGUX50",
+        "UC8CALG0Z",
+        "UDJBY917X",
+        "UC8GNSQBA",
+        "UC8MS2ZNV",
+        "UDJ5Z4ACA"
+      ],
+      "count": 8
+    }
+  ],
+  "timestamp": 1539981655000,
+  "isoDate": "2018-10-19T20:40:55.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Heya!\n\nReally nice *Intro to Git* talk happening at *22:30 at A5001* :rocket: \nIf you're new to code collaboration and want to use Git+GitHub to share code with your team, definitely attend! It makes your life this weekend way easier.\n\nHowever, if you’re already an expert in Git, you may be more interested in a talk about *Kotlin*, a nice alternative to Java for Android. Meet <#CC9CCAN4E|infojobs> in *A5002*, at the same hour :infojobs:\n\nIf you don’t have a team yet, don’t worry! Join us in our *teambuilding session in A4002, at 22:30* too :two_men_holding_hands: :two_women_holding_hands:",
+  "client_msg_id": "b7003d33-4da8-4874-8635-b59f58afe7b3",
+  "edited": {
+    "user": "UC7JLBRR7",
+    "ts": "1539980813.000000"
+  },
+  "ts": "1539980800.000100",
+  "timestamp": 1539980800000,
+  "isoDate": "2018-10-19T20:26:40.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "If you're still hungry, come and grab some more food :green_salad:",
+  "client_msg_id": "e3650a3c-2bfc-4eef-807c-af12317158be",
+  "ts": "1539980488.000100",
+  "timestamp": 1539980488000,
+  "isoDate": "2018-10-19T20:21:28.000Z"
+},{
+  "type": "message",
+  "text": "Photocall have just open!! :raised_hands: Come outside A4! :camera_with_flash:",
+  "files": [
+    {
+      "id": "FDJGZTYJ1",
+      "created": 1539978778,
+      "timestamp": 1539978778,
+      "name": "IMG_20181019_215134_454.jpg",
+      "title": "IMG_20181019_215134_454.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UC8ST2GMV",
+      "editable": false,
+      "size": 2645455,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJGZTYJ1/img_20181019_215134_454.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJGZTYJ1/download/img_20181019_215134_454.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_360.jpg",
+      "thumb_360_w": 180,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_480.jpg",
+      "thumb_480_w": 240,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_720.jpg",
+      "thumb_720_w": 360,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1600,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_960.jpg",
+      "thumb_960_w": 480,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJGZTYJ1-92bf61196d/img_20181019_215134_454_1024.jpg",
+      "thumb_1024_w": 512,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 1920,
+      "original_h": 3840,
+      "permalink": "https://hackupc2018.slack.com/files/UC8ST2GMV/FDJGZTYJ1/img_20181019_215134_454.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJGZTYJ1-0e0e56ddc7"
+    }
+  ],
+  "upload": true,
+  "user": "UC8ST2GMV",
+  "display_as_bot": false,
+  "client_msg_id": "a739abb5-7a06-446f-85d7-ecba3d85319a",
+  "ts": "1539978785.000100",
+  "reactions": [
+    {
+      "name": "heart",
+      "users": [
+        "UC9HKP27P",
+        "UCKSWEFHT",
+        "UC8CALG0Z",
+        "UC7AV4J0G"
+      ],
+      "count": 4
+    },
+    {
+      "name": "angelparrot",
+      "users": [
+        "UCKSWEFHT",
+        "UC7AV4J0G"
+      ],
+      "count": 2
+    },
+    {
+      "name": "nyan-rainbow-chainable",
+      "users": [
+        "UCKSWEFHT",
+        "UC8CALG0Z",
+        "UC7AV4J0G"
+      ],
+      "count": 3
+    },
+    {
+      "name": "nyan-cat-chainable",
+      "users": [
+        "UCKSWEFHT",
+        "UC7AV4J0G"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539978785000,
+  "isoDate": "2018-10-19T19:53:05.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "We know some of you are itching to use our hardware :heart: Our Hardware Lab is almost ready, and when we open it we'll announce it right here in this channel :calling:",
+  "client_msg_id": "b64216ae-85fc-4bb3-a0a0-95fa347ab2fe",
+  "ts": "1539977988.000100",
+  "timestamp": 1539977988000,
+  "isoDate": "2018-10-19T19:39:48.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "But maybe, just maybe, have something for dinner before :wink: *Come down to the meal zone in front of the A5 building* and grab something to eat. Queues start in front of the A6 building and behind the A5 building.\nRemember to bring your water bottle if you want water :droplet:",
+  "client_msg_id": "d1b8cf78-8ec5-4ac8-a945-dc020e7739bc",
+  "ts": "1539976533.000100",
+  "timestamp": 1539976533000,
+  "isoDate": "2018-10-19T19:15:33.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hacking starts *now*! You have until 9:00 of this Sunday to code and submit your project. \n\n*Important URLs:*\n- Do you need to find a class? A company? Do you need coffee but don't know where is it? Just check out our awesome 3D map of the venue: <http://maps.hackupc.com|maps.hackupc.com>\n- Wifi password? Prizes/Challenges? Live schedule? It's all here: <http://hackupc.com/live|hackupc.com/live>\n- Do you need help with a project? Find a mentor at <#CC95GPZ38|mentors> or <http://mentors.hackupc.com|mentors.hackupc.com>",
+  "client_msg_id": "e751af7a-63ea-44d1-9951-cb06ec0f7215",
+  "ts": "1539975647.000200",
+  "timestamp": 1539975647000,
+  "isoDate": "2018-10-19T19:00:47.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "If you want to follow the opening ceremony from the campus, go to the room *A4001*! ",
+  "client_msg_id": "a4c3c32c-9a8e-4ea7-ae8e-4cce2812ca6f",
+  "ts": "1539968530.000100",
+  "timestamp": 1539968530000,
+  "isoDate": "2018-10-19T17:02:10.000Z"
+},{
+  "type": "message",
+  "user": "UC8CALG0Z",
+  "text": "The opening ceremony is about to begin. Start heading to the Vèrtex building. :hourglass_flowing_sand:\n\nIf you don't know how to get there, check out <http://maps.hackupc.com|maps.hackupc.com>! :grin:",
+  "client_msg_id": "30df4b88-6af3-4876-bd71-ee1119248ef9",
+  "ts": "1539967169.000100",
+  "timestamp": 1539967169000,
+  "isoDate": "2018-10-19T16:39:29.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hackers, the Opening Ceremony will be held in the *Vèrtex building at 19:00*. Doors will open at 18:30.\n\n:exclamation: ​ Keep in mind that the auditorium has limited seating. If you can't make it, we'll stream the ceremony in rooms A5001 and A5002, or you can watch it from your PC in <http://live.hackupc.com|live.hackupc.com>",
+  "client_msg_id": "c5502fe6-8f88-43df-a0f7-8ebb16f78f5d",
+  "edited": {
+    "user": "UC7JLBRR7",
+    "ts": "1539965341.000000"
+  },
+  "ts": "1539964829.000100",
+  "timestamp": 1539964829000,
+  "isoDate": "2018-10-19T16:00:29.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "*Last call for the third batch of the BSC tours!* We will leave in 5 minutes",
+  "client_msg_id": "7b4c13e2-54d9-4ea3-98f2-d3df6944d174",
+  "ts": "1539962394.000100",
+  "timestamp": 1539962394000,
+  "isoDate": "2018-10-19T15:19:54.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "*3rd batch of the bsc tours (17:30h)* We will meet al 17:15 in front of the checking entrance and leave at 17:20",
+  "client_msg_id": "21a5dceb-6222-485e-8a30-9001a4665b0a",
+  "ts": "1539961092.000100",
+  "timestamp": 1539961092000,
+  "isoDate": "2018-10-19T14:58:12.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "*Last call for the second batch of the BSC tours!* We will leave in 5 minutes",
+  "client_msg_id": "66e6b58b-cad9-46a2-b489-7cf5dc87ff79",
+  "ts": "1539959658.000100",
+  "timestamp": 1539959658000,
+  "isoDate": "2018-10-19T14:34:18.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "*2nd batch of the bsc tours (16:45h)* We will meet al 16:30 in front of the checking entrance and leave at 16:35.",
+  "client_msg_id": "b06a76db-c4f6-402a-80ae-58e073812ad3",
+  "ts": "1539958953.000100",
+  "timestamp": 1539958953000,
+  "isoDate": "2018-10-19T14:22:33.000Z"
+},{
+  "type": "message",
+  "text": "Hey, hackers! We'd like everyone to check that your wristband is the appropriate one for your diet restrictions. In this image you can see which color corresponds to each diet. If you have the wrong color, don't worry - come down to the check-in area and we'll give you the correct one :heavy_check_mark:",
+  "files": [
+    {
+      "id": "FDHDYQBB3",
+      "created": 1539958534,
+      "timestamp": 1539958534,
+      "name": "IMG_20181019_160948.jpg",
+      "title": "IMG_20181019_160948.jpg",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UC7JLBRR7",
+      "editable": false,
+      "size": 125238,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDHDYQBB3/img_20181019_160948.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDHDYQBB3/download/img_20181019_160948.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 223,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 298,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_720.jpg",
+      "thumb_720_w": 720,
+      "thumb_720_h": 447,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 496,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_960.jpg",
+      "thumb_960_w": 960,
+      "thumb_960_h": 596,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDHDYQBB3-9263570a63/img_20181019_160948_1024.jpg",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 635,
+      "image_exif_rotation": 1,
+      "original_w": 1078,
+      "original_h": 669,
+      "permalink": "https://hackupc2018.slack.com/files/UC7JLBRR7/FDHDYQBB3/img_20181019_160948.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDHDYQBB3-f1fe345f77"
+    }
+  ],
+  "upload": true,
+  "user": "UC7JLBRR7",
+  "display_as_bot": false,
+  "client_msg_id": "f36ff94a-f785-4a74-86a1-5ad5fa4cf826",
+  "ts": "1539958539.000100",
+  "reactions": [
+    {
+      "name": "raised_hands::skin-tone-3",
+      "users": [
+        "UDB7J3H7T",
+        "UCM0Q5XL0",
+        "UDD2FUBLM"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1539958539000,
+  "isoDate": "2018-10-19T14:15:39.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey there, if you have any problem or inquiry,  let us know on the <#CDE4UMLBU|issues> channel. We'll try to help you as soon as we can :blush:",
+  "client_msg_id": "e4b42267-865c-4901-854b-a10205042cb3",
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1539958368.000000"
+  },
+  "ts": "1539958357.000100",
+  "timestamp": 1539958357000,
+  "isoDate": "2018-10-19T14:12:37.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Last call for the 1st batch of the bsc tours",
+  "client_msg_id": "f98c7a38-39ce-4477-a3be-b911c3fa1e41",
+  "ts": "1539957567.000100",
+  "timestamp": 1539957567000,
+  "isoDate": "2018-10-19T13:59:27.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Did you get a Ticket for the BSC tours? The first batch of visits is\nabout to start!  :bsc: ",
+  "client_msg_id": "a1005894-ebd9-4ee9-aebc-7bc0d5302659",
+  "ts": "1539957233.000100",
+  "timestamp": 1539957233000,
+  "isoDate": "2018-10-19T13:53:53.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hackers, check-in is starting! You’ll find the queue under the A5 and A6 buildings. (Check <http://maps.hackupc.com|maps.hackupc.com> if you can’t find it.)\n\nOnce you’ve checked in, you can leave your bags in the baggage storage rooms. Go to the Infodesk, in the intermediate floor of the A5 building, and they’ll assist you :relaxed:",
+  "client_msg_id": "333e5e47-250a-433c-b5f1-5ad6cf54b754",
+  "ts": "1539955318.000100",
+  "timestamp": 1539955318000,
+  "isoDate": "2018-10-19T13:21:58.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey Hackers :wave:\nIf your are thinking on building a website for your project we have some good news: just for being a hacker at HackUPC, you can get a free _*.tech*_ domain, and have a chance to win the _*.tech*_ Category Prize - a 250$ Amazon Voucher!\n\nThe only requisites to opt in for the prize are *featuring your project on a _.tech_ domain*, making the domain your official team name and mentioning the URL when submitting your project.\n\nYou can find instructions on how to get your free domain  at <#CC7U0UYAX|tech-domains> channel",
+  "client_msg_id": "d1cd554b-7a22-49c5-a92e-5fdb383a4666",
+  "ts": "1539809414.000100",
+  "reactions": [
+    {
+      "name": "ultrafastparrot",
+      "users": [
+        "UC8CALG0Z",
+        "UC7GG52L9",
+        "UC7UGRDUK",
+        "UC946BFLK",
+        "UC78DKYN5",
+        "UC94C524C",
+        "UCBC44VRD",
+        "UC7MTLDGB"
+      ],
+      "count": 8
+    },
+    {
+      "name": "fixparrot",
+      "users": [
+        "UD42HQXDY",
+        "UC78DKYN5",
+        "UDGRNCHK6"
+      ],
+      "count": 3
+    },
+    {
+      "name": "+1",
+      "users": [
+        "UCAJYA806"
+      ],
+      "count": 1
+    },
+    {
+      "name": "tech-domains",
+      "users": [
+        "UC942ECMR",
+        "UCLLQPDLP"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539809414000,
+  "isoDate": "2018-10-17T20:50:14.000Z"
+},{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Many people are asking about what hardware we'll have in this edition of HackUPC :gear::hackupc:  So well, finally this is our Hardware Lab :arrow_down:\n```- 2x Anycubic i3 Mega\n- 10x Raspberry Kit\n- 4x Raspberry Modules\n- 17x Arduino Kit\n- 4x Merge VR by Google\n- 1x Oculus Rift\n- 1x Muse headband\n- 3x Mi Band 2\n- 2x ASUS Zenwatch 2\n- 3x Solder Kit\n- 2x Leap Motion\n- 1x Mini-drone Parrot Rolling Spider\n- 1x Myo arm\n- 1x Intel Edison\n- 2x Grove Kit\n- 2x Google Home Mini\n- 2x Grove Kit```",
+  "client_msg_id": "c0a22f43-5974-4284-83e6-9b2d4f778b34",
+  "ts": "1539703511.000100",
+  "reactions": [
+    {
+      "name": "gear",
+      "users": [
+        "UC8ST2GMV",
+        "UC78DKYN5",
+        "UC79MBTMX",
+        "UC7AV4J0G",
+        "UC7UGRDUK",
+        "UC7UPACMT",
+        "UCBAEJR7H",
+        "UC7MTLDGB",
+        "UC8GNSQBA",
+        "UC7GG52L9",
+        "UDF04C9A8",
+        "UC7MP2QBV",
+        "UD1CMUE31",
+        "UC9HKP27P"
+      ],
+      "count": 14
+    },
+    {
+      "name": "2018hack",
+      "users": [
+        "UC8ST2GMV",
+        "UC78DKYN5",
+        "UC79MBTMX",
+        "UC7AV4J0G",
+        "UC7UGRDUK",
+        "UCM1CUDUP",
+        "UC7UPACMT",
+        "UCBAEJR7H",
+        "UC7MTLDGB",
+        "UC8GNSQBA",
+        "UC7GG52L9",
+        "UDE3W4YUB",
+        "UC8CALG0Z",
+        "UC7MP2QBV",
+        "UCNEAGSDD",
+        "UCK2MJ65P",
+        "UC942ECMR"
+      ],
+      "count": 17
+    },
+    {
+      "name": "pineapple",
+      "users": [
+        "UCN6M8CCA",
+        "UDK8ZM31C"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539703511000,
+  "isoDate": "2018-10-16T15:25:11.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Hey hackers! Our Live page is up! :bananadance: Check the schedule, tracks and all other sorts of resources about HackUPC here :soon: <https://live.hackupc.com/>",
+  "client_msg_id": "c774928b-9100-415a-9d22-146bc23ce897",
+  "attachments": [
+    {
+      "service_name": "Live Shedule | HackUPC",
+      "title": "Live Schedule | HackUPC | Oct 19th-21st  | Barcelona | 700 Hackers",
+      "title_link": "https://live.hackupc.com/",
+      "text": "Join us for BarcelonaTech's hackathon. 700 hackers. 36h. Oct 19th-21st.",
+      "fallback": "Live Shedule | HackUPC: Live Schedule | HackUPC | Oct 19th-21st  | Barcelona | 700 Hackers",
+      "image_url": "https://hackupc.com/assets/img/hackupc-ogimage@2x.png?v=2018",
+      "from_url": "https://live.hackupc.com/",
+      "image_width": 547,
+      "image_height": 250,
+      "image_bytes": 276699,
+      "id": 1,
+      "original_url": "https://live.hackupc.com/"
+    }
+  ],
+  "ts": "1539687654.000100",
+  "reactions": [
+    {
+      "name": "grinning",
+      "users": [
+        "UDC0QU0NR",
+        "UC7AV4J0G",
+        "UC7GG52L9",
+        "UCR0L8Z54"
+      ],
+      "count": 4
+    },
+    {
+      "name": "congaparrot",
+      "users": [
+        "UC7AV4J0G",
+        "UC7GG52L9",
+        "UCCRM8JB0",
+        "UCVDFL46B"
+      ],
+      "count": 4
+    },
+    {
+      "name": "porg",
+      "users": [
+        "UC7AV4J0G",
+        "UC7GG52L9"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539687654000,
+  "isoDate": "2018-10-16T11:00:54.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Do you want to visit the Barcelona Supercomputing Center (BSC) and discover MareNostrum 4? :bsc: This is your chance! :tada:\n\nWe've scheduled 3 visits on Friday 19th at 16:00, 16:45 and 17:30.  Spots are limited, so make sure to get a ticket before they are sold out at:\n\n- *1rst Batch, 16:00 - 16:30 : * <https://www.eventbrite.com/e/visit-marenostrum-supercomputer-1st-batch-tickets-51121504797>\n- *2nd Batch, 16:45 - 17:15 : * <https://www.eventbrite.com/e/visit-marenostrum-supercomputer-2nd-batch-tickets-51359320109>\n- *3rd Batch, 17:30 - 18:00 : * <https://www.eventbrite.com/e/visit-marenostrum-supercomputer-3rd-batch-tickets-51359338163>",
+  "client_msg_id": "3e0f4162-a11d-4d56-a661-6fcc00e2e762",
+  "attachments": [
+    {
+      "service_name": "Eventbrite",
+      "title": "Visit MareNostrum supercomputer - 1st Batch",
+      "title_link": "https://www.eventbrite.com/e/visit-marenostrum-supercomputer-1st-batch-tickets-51121504797",
+      "text": "We meet at 3:45 PM in front of the check-in entrance, we leave at 3:53 PM and arrive to the supercomputer grounds at 4:00 PM. Visit lasts until 4:30 PM. MareNostrum is entirely aimed at generating scientific knowledge. It is used in almost all scientific disciplines -from astrophysics and materials physics to biomedicine- and in engineering and industry. MareNostrum 4 is used for research projects on climate change, gravitational waves, a vaccination against AIDS, new radiation treatments to fight cancer and simulations relating to the production of fusion energy, among others. The MareNostrum 4 supercomputer is designated as a Special Scientific/Technical Infrastructure Facility by the Spanish Ministry of Economy, Industry and Competitiveness and is part of the PRACE Resarch Infrastructure as one of the 7 Tier-0 Systems currently available for European scientists.",
+      "fallback": "Eventbrite: Visit MareNostrum supercomputer - 1st Batch",
+      "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50939909%2F275857110738%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C0%2C800%2C400&s=ce345429ebc1d8642b8f9f886802f1e4",
+      "fields": [
+        {
+          "title": "Where",
+          "value": "In front of the check-in entrance  Carrer Jordi Girona, 1-3  UPC Nord  08034 Barcelona",
+          "short": true
+        },
+        {
+          "title": "When",
+          "value": "Fri, Oct 19, 2018 at 4:00 PM",
+          "short": true
+        }
+      ],
+      "from_url": "https://www.eventbrite.com/e/visit-marenostrum-supercomputer-1st-batch-tickets-51121504797",
+      "image_width": 500,
+      "image_height": 250,
+      "image_bytes": 76564,
+      "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1d8fef/django/images/touch_icons/apple-touch-icon-180x180.png",
+      "id": 1,
+      "original_url": "https://www.eventbrite.com/e/visit-marenostrum-supercomputer-1st-batch-tickets-51121504797"
+    }
+  ],
+  "edited": {
+    "user": "UC7MN3GBD",
+    "ts": "1539512072.000000"
+  },
+  "ts": "1539512065.000100",
+  "reactions": [
+    {
+      "name": "parrot",
+      "users": [
+        "UC8ST2GMV",
+        "UD41KSZ6F",
+        "UC92J4S2G",
+        "UC7UPACMT",
+        "UC946BFLK",
+        "UC7MP2QBV",
+        "UDD2520KS",
+        "UC7GG52L9",
+        "UD42HQXDY",
+        "UC78DKYN5",
+        "UC7UGRDUK",
+        "UC7MTLDGB",
+        "UC8CALG0Z",
+        "UCR0L8Z54",
+        "UCKND4DAN",
+        "UCLH5PETE"
+      ],
+      "count": 16
+    },
+    {
+      "name": "bsc",
+      "users": [
+        "UC8ST2GMV",
+        "UD41KSZ6F",
+        "UCN9KSED9",
+        "UC92J4S2G",
+        "UC7UPACMT",
+        "UC946BFLK",
+        "UDB7J3H7T",
+        "UC7MP2QBV",
+        "UC7GG52L9",
+        "UC78DKYN5",
+        "UC7UGRDUK",
+        "UC7MTLDGB",
+        "UCLH5PETE"
+      ],
+      "count": 13
+    },
+    {
+      "name": "man-walking",
+      "users": [
+        "UD41KSZ6F",
+        "UC7UPACMT",
+        "UC7GG52L9",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "man-running",
+      "users": [
+        "UD41KSZ6F",
+        "UC7UPACMT",
+        "UC7GG52L9",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "eye-in-speech-bubble",
+      "users": [
+        "UD41KSZ6F",
+        "UC7UPACMT",
+        "UC7GG52L9",
+        "UC78DKYN5"
+      ],
+      "count": 4
+    },
+    {
+      "name": "ceilingparrot",
+      "users": [
+        "UDD2520KS",
+        "UC7GG52L9",
+        "UD42HQXDY",
+        "UC78DKYN5",
+        "UC7UGRDUK"
+      ],
+      "count": 5
+    },
+    {
+      "name": "porg",
+      "users": [
+        "UC7GG52L9",
+        "UC78DKYN5",
+        "UC7AV4J0G",
+        "UD5D3DA8N"
+      ],
+      "count": 4
+    },
+    {
+      "name": "squirtle",
+      "users": [
+        "UC7GG52L9",
+        "UC78DKYN5",
+        "UC7UGRDUK"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1539512065000,
+  "isoDate": "2018-10-14T10:14:25.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Are you planning to take one of our sponsors' Challenge? Do you want to ask them about technical aspects or professional working options? Go see them to their booth during the event or ask them through slack on their exclusive Channels:\n\n:soprasteria:  <#CC9CC7SDC|soprasteria>\n:infojobs:  <#CC9CCAN4E|infojobs>\n:aws:  <#CCUB71TV0|awseducate>\n:everis:  <#CC9CCGQP8|everis>\n:itequia:  <#CC86PJT9B|itequia>\n:opentrends:  <#CC9CCRD8W|opentrends>\n:skyscanner:  <#CCJM20DU5|skyscanner>\n:ithinkupc:  <#CCKU9PTND|ithinkupc>\n:servizurich:  <#CCTPG6VDX|servizurich>\n:vueling:  <#CCR2QN5DG|vueling>\n:thoughtworks:  <#CC7U0NL91|thoughtworks>\n:bloomberg:  <#CCQUSJ99R|bloomberg>\n:typeform:  <#CD45YC4P2|typeform>\n:bsc:  <#CCJM259FX|bsc>\n:octocat:  <#CCV1R5QU9|github>\n:wolfram:  <#CC82KAZFC|wolfram>\n:tech-domains:  <#CC7U0UYAX|tech-domains>",
+  "client_msg_id": "bb408589-1c05-430d-92c3-5fe357c14773",
+  "ts": "1539160108.000100",
+  "reactions": [
+    {
+      "name": "infojobs",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7UGRDUK",
+        "UCR0L8Z54"
+      ],
+      "count": 9
+    },
+    {
+      "name": "soprasteria",
+      "users": [
+        "UC7MN3GBD",
+        "UC8ST2GMV",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UC8T24TCP",
+        "UC7UGRDUK",
+        "UDB8ZT601",
+        "UCR0L8Z54"
+      ],
+      "count": 10
+    },
+    {
+      "name": "aws",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC8T24TCP",
+        "UC7UGRDUK",
+        "UC7MP2QBV",
+        "UCR0L8Z54",
+        "UCL4T1F4M",
+        "UD42PAX42",
+        "UDEUYHUUC"
+      ],
+      "count": 14
+    },
+    {
+      "name": "everis",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCKMXUFCK",
+        "UC7UGRDUK",
+        "UCR0L8Z54",
+        "UDG9ZESGZ"
+      ],
+      "count": 10
+    },
+    {
+      "name": "itequia",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7UGRDUK",
+        "UCR0L8Z54",
+        "UD625UUKY"
+      ],
+      "count": 10
+    },
+    {
+      "name": "opentrends",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UC7UGRDUK",
+        "UCR0L8Z54"
+      ],
+      "count": 8
+    },
+    {
+      "name": "skyscanner",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7GG52L9",
+        "UC7UGRDUK",
+        "UCR0L8Z54"
+      ],
+      "count": 10
+    },
+    {
+      "name": "ithinkupc",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UC7UGRDUK",
+        "UCR0L8Z54",
+        "UC92J4S2G"
+      ],
+      "count": 9
+    },
+    {
+      "name": "servizurich",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7UGRDUK",
+        "UDB8ZT601",
+        "UCR0L8Z54",
+        "UC7MTLDGB",
+        "UDFBDP4F3"
+      ],
+      "count": 12
+    },
+    {
+      "name": "vueling",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCKMXUFCK",
+        "UC7UGRDUK",
+        "UCR0L8Z54",
+        "UCM0CUQR0",
+        "UD42PAX42"
+      ],
+      "count": 11
+    },
+    {
+      "name": "thoughtworks",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7UGRDUK",
+        "UDB7J3H7T",
+        "UCR0L8Z54",
+        "UD625UUKY"
+      ],
+      "count": 11
+    },
+    {
+      "name": "bloomberg",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCKMXUFCK",
+        "UC7UGRDUK",
+        "UCR0L8Z54"
+      ],
+      "count": 9
+    },
+    {
+      "name": "typeform",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7UGRDUK",
+        "UCR0L8Z54",
+        "UDD2FUBLM"
+      ],
+      "count": 10
+    },
+    {
+      "name": "bsc",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UC7UGRDUK",
+        "UC7MP2QBV",
+        "UCR0L8Z54",
+        "UC92J4S2G"
+      ],
+      "count": 10
+    },
+    {
+      "name": "octocat",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UCKND4DAN",
+        "UC78DKYN5",
+        "UCU9ZHZC2",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCKMXUFCK",
+        "UC7UGRDUK",
+        "UCR0L8Z54",
+        "UC92J4S2G",
+        "UD42PAX42",
+        "UDEUYHUUC"
+      ],
+      "count": 14
+    },
+    {
+      "name": "wolfram",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UC7UGRDUK",
+        "UDB8ZT601",
+        "UCR0L8Z54",
+        "UCL4T1F4M"
+      ],
+      "count": 10
+    },
+    {
+      "name": "tech-domains",
+      "users": [
+        "UC8ST2GMV",
+        "UC7MN3GBD",
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC7AV4J0G",
+        "UC79MBTMX",
+        "UCN3TGSN7",
+        "UC7UGRDUK",
+        "UCR0L8Z54"
+      ],
+      "count": 9
+    },
+    {
+      "name": "blue_heart",
+      "users": [
+        "UDFBDP4F3"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539160108000,
+  "isoDate": "2018-10-10T08:28:28.000Z"
+},{
+  "type": "message",
+  "user": "UC7MN3GBD",
+  "text": "Hey hackers! First of all *welcome to the HackUPC 2018 Slack* :tada: :tada: The goal is to use this slack for all communication before and during HackUPC. A small guide around the channels here:\n\n-:exclamation: <#CC73F7MUY|announcements>: *main communications channel*. Talks happening, when food is ready, etc. We will keep this channel low on messages so we recommend you to enable push  notifications here.\n\n-:question: <#CC8M3LAEP|general>: *ask any general questions here*, feedback, etc.\n\n- :parrot:  <#CC9S2PC2K|random> is basically *GIFs, fun stuff and more*….\n\n- :female-teacher: <#CC95GPZ38|mentors>: *need some help with your project?* Find here a mentor to help you!\n\n- :man-woman-girl-boy: <#CC7R4AF2N|teambuilding> *looking for a team?* Post a small paragraph about you and what are you interested in for HackUPC\n\n- :cityscape: <#CCPGUDC8Y|explore_bcn> *want to explore Barcelona before HackUPC?* Find recommendations and top places to go. Maybe someone from Barcelona offers to show you around! For now check out <http://goo.gl/SG7XNS|goo.gl/SG7XNS> for some cool routes and a map of places to go eat :ramen: :burrito:\n\n- :hotel: <#CCPDE4F6U|hostel-hosting> is for *finding hosting before and after the hackathon*. We can’t guarantee a spot for you to sleep before or after the hackathon, but local hackers may be able to. We also recommend a hostel nearby the venue to go, so if you need help booking we may be able to give you a hand! :spock-hand:\n\n- :computer: <#CCPGVH2L8|hackathon_organizers> are you *interested in organizing hackathons?* Are you a pro organizer and would like to  help new people to get started? Join this channel then. We will announce a small meetup during HackUPC for you to ask questions regarding hackathon organizing and more\n\n- :gear: <#CCQ5BRWBD|android> <#CCQ8S1H5Y|hardware> <#CCPM5UF7T|ios> well thats pretty self explanatory\n\n- :octocat: <#CC95HHRU6|stickerexchange> *do you have spare sticker you would like to exchange?* Bring them to HackUPC and exchange them with other hackers\n\n- :musical_note: <#CCQ5GDGKV|music> *share your best playlists/songs/albums* with the rest of the HackUPC community\n\nThat’s all… for the moment.\n\nSee you all soon in Barcelona! :raised_hands:",
+  "client_msg_id": "e6595a96-32db-4f6c-9e6a-ed8d9d11cfc2",
+  "ts": "1536651250.000100",
+  "reactions": [
+    {
+      "name": "potato",
+      "users": [
+        "UCC3B4L87",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UCM2MTN9K",
+        "UC7MTLDGB",
+        "UCU7JR751",
+        "UC7GG52L9",
+        "UCV0PSQ85",
+        "UCKAFGB5E",
+        "UCW555CV7",
+        "UD1CMUE31",
+        "UD3EFEE73",
+        "UD3F81Y9X",
+        "UD5T1U90S",
+        "UD3ANJQBA",
+        "UCK0GP5DE"
+      ],
+      "count": 16
+    },
+    {
+      "name": "exclamation",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC7MTLDGB",
+        "UCKAFGB5E",
+        "UCW555CV7",
+        "UD3EFEE73",
+        "UD5T1U90S",
+        "UD3ANJQBA"
+      ],
+      "count": 9
+    },
+    {
+      "name": "question",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC7MTLDGB",
+        "UCW555CV7",
+        "UD5T1U90S"
+      ],
+      "count": 6
+    },
+    {
+      "name": "parrot",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UCNEAGSDD",
+        "UC8GNSQBA",
+        "UC8CALG0Z",
+        "UC946BFLK",
+        "UCM1CUDUP",
+        "UCKBZ14QL",
+        "UC78DKYN5",
+        "UCKN5GKTN",
+        "UCK2MJ65P",
+        "UC7MTLDGB",
+        "UCM21MMGX",
+        "UCU7JR751",
+        "UCTNC0QUR",
+        "UCU6RF2PN",
+        "UCTTQCFED",
+        "UCK9QGUDN",
+        "UCMAJV6AJ",
+        "UCU087BLG",
+        "UCJT4PF4Y",
+        "UCV1LCDD3",
+        "UCKAFGB5E",
+        "UCW8M9Z1S",
+        "UCW555CV7",
+        "UD0HGSMMK",
+        "UCLKV8TBR",
+        "UD1CMUE31",
+        "UD3EFEE73",
+        "UD3ELNSCR",
+        "UD3SU4HT6",
+        "UD3F81Y9X",
+        "UD45RDAKE",
+        "UD52S0W2X",
+        "UD5T1U90S",
+        "UD8HHAUNA",
+        "UD3ANJQBA",
+        "UD5E3TLE5",
+        "UC7JLBRR7",
+        "UD638H2E6",
+        "UCK0GP5DE",
+        "UD90Z3KK2",
+        "UDA0TV2VB",
+        "UDBBZ2DEX",
+        "UDB8ZT601",
+        "UD9U2G0A1",
+        "UDE3W4YUB",
+        "UCVDFL46B"
+      ],
+      "count": 48
+    },
+    {
+      "name": "female-teacher",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC78DKYN5",
+        "UC7MTLDGB",
+        "UCW555CV7",
+        "UD3EFEE73",
+        "UD5T1U90S"
+      ],
+      "count": 8
+    },
+    {
+      "name": "man-woman-girl-boy",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC78DKYN5",
+        "UCW555CV7",
+        "UD1CMUE31",
+        "UD5T1U90S"
+      ],
+      "count": 7
+    },
+    {
+      "name": "cityscape",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC78DKYN5",
+        "UCW555CV7",
+        "UD5T1U90S"
+      ],
+      "count": 6
+    },
+    {
+      "name": "hotel",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC78DKYN5",
+        "UCW555CV7",
+        "UD5T1U90S"
+      ],
+      "count": 6
+    },
+    {
+      "name": "computer",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC78DKYN5",
+        "UC7MTLDGB",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UD91S7X08"
+      ],
+      "count": 8
+    },
+    {
+      "name": "gear",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UCW555CV7",
+        "UD5T1U90S"
+      ],
+      "count": 5
+    },
+    {
+      "name": "octocat",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UCAARDQSE",
+        "UC8GNSQBA",
+        "UC79MBTMX",
+        "UC78DKYN5",
+        "UC7MTLDGB",
+        "UCU9ZHZC2",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UDAQB72QK"
+      ],
+      "count": 11
+    },
+    {
+      "name": "musical_note",
+      "users": [
+        "UC7GG52L9",
+        "UC7UPACMT",
+        "UC8GNSQBA",
+        "UC8CALG0Z",
+        "UC78DKYN5",
+        "UC7MTLDGB",
+        "UCW555CV7",
+        "UD45RDAKE",
+        "UD54CDZL7",
+        "UD5T1U90S",
+        "UD5E3TLE5",
+        "UDAQB72QK"
+      ],
+      "count": 12
+    },
+    {
+      "name": "peach",
+      "users": [
+        "UCU087BLG",
+        "UCW555CV7",
+        "UC7UPACMT",
+        "UD5T1U90S",
+        "UC7GG52L9"
+      ],
+      "count": 5
+    },
+    {
+      "name": "female-technologist::skin-tone-5",
+      "users": [
+        "UD1CMUE31",
+        "UD5T1U90S",
+        "UC7GG52L9"
+      ],
+      "count": 3
+    },
+    {
+      "name": "hedgehog",
+      "users": [
+        "UD3UJU03W",
+        "UD5T1U90S",
+        "UC7GG52L9"
+      ],
+      "count": 3
+    },
+    {
+      "name": "maple_leaf",
+      "users": [
+        "UD638H2E6"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1536651250000,
+  "isoDate": "2018-09-11T07:34:10.000Z"
+},{
+  "type": "message",
+  "user": "UC7GG52L9",
+  "text": "Hello hackers :wave: Welcome to HackUPC 2018's Slack :2018hack::slack:\nThere are 60 days left for HackUPC to come true! :scream: :tada:\nStay tuned in our Facebook (<http://facebook.com/hackupc|facebook.com/hackupc>), Twitter (<http://twitter.com/hackupc|twitter.com/hackupc>) or Instagram (<http://instagram.com/hackupc|instagram.com/hackupc>)\n:facebook: :twitter: :instagram:\nIf you have any doubt, don’t hesitate to contact us! You can easily locate us since we all have the hackathon logo in our profile pic :smile:",
+  "client_msg_id": "cdaffeb1-749e-4b05-acfb-8668b9a2d36c",
+  "ts": "1534432021.000100",
+  "reactions": [
+    {
+      "name": "fastparrot",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7DGFBGQ",
+        "UC8HKDBMW",
+        "UC7MTLDGB",
+        "UC7UGRDUK",
+        "UC92BGXJ8",
+        "UC92J4S2G",
+        "UCKBZ14QL",
+        "UCLKV8TBR",
+        "UCK0C7YV6",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCM47131D",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCMAJV6AJ",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UDDP2EV43",
+        "UC9CDLGG5",
+        "UCBAEJR7H"
+      ],
+      "count": 31
+    },
+    {
+      "name": "middleparrot",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7DGFBGQ",
+        "UC8HKDBMW",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UC92J4S2G",
+        "UCAUGUX50",
+        "UCARLGNMS",
+        "UCKBZ14QL",
+        "UCK0C7YV6",
+        "UCM2JR7JA",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCMCS01C6",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCPA3CL9X",
+        "UCU6RF2PN",
+        "UCW555CV7",
+        "UD3SU4HT6",
+        "UD5T1U90S",
+        "UC9CDLGG5"
+      ],
+      "count": 32
+    },
+    {
+      "name": "ultrafastparrot",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7DGFBGQ",
+        "UC8HKDBMW",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UCBS55D7Y",
+        "UC92J4S2G",
+        "UCARLGNMS",
+        "UCDRPJ273",
+        "UCKBZ14QL",
+        "UCKFVB61Z",
+        "UCK2MJ65P",
+        "UCK0C7YV6",
+        "UCKCGUAF6",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKJS296W",
+        "UCN0L9R63",
+        "UCN3TGSN7",
+        "UCQA5BG87",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD0CJ49L2",
+        "UD42HQXDY",
+        "UD45VRAAF",
+        "UD5T1U90S",
+        "UDBBZ2DEX",
+        "UDB7J3H7T",
+        "UC9CDLGG5"
+      ],
+      "count": 38
+    },
+    {
+      "name": "congaparrot",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC8HKDBMW",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UCBC44VRD",
+        "UC92J4S2G",
+        "UCJJUNUT0",
+        "UCKBZ14QL",
+        "UCLLEAC9M",
+        "UCKFVB61Z",
+        "UCK0C7YV6",
+        "UCKJH7URH",
+        "UCKN6DZB4",
+        "UCK723MHP",
+        "UCKMXUFCK",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKUC2PMZ",
+        "UCKTSBCGH",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCMAJV6AJ",
+        "UCJT4PF4Y",
+        "UCW555CV7",
+        "UD25FP2QJ",
+        "UD42HQXDY",
+        "UD59R64B1",
+        "UD5T1U90S",
+        "UD5UYJ0HE",
+        "UC9CDLGG5"
+      ],
+      "count": 40
+    },
+    {
+      "name": "parrotwave3",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7DGFBGQ",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UCA8G5MN0",
+        "UC92J4S2G",
+        "UCKBZ14QL",
+        "UCK0C7YV6",
+        "UCK723MHP",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UC9CDLGG5"
+      ],
+      "count": 26
+    },
+    {
+      "name": "parrotwave4",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UC92J4S2G",
+        "UCK0C7YV6",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UC9CDLGG5"
+      ],
+      "count": 22
+    },
+    {
+      "name": "parrotwave7",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7DGFBGQ",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UC92J4S2G",
+        "UCKBZ14QL",
+        "UCK0C7YV6",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S"
+      ],
+      "count": 23
+    },
+    {
+      "name": "stableparrot",
+      "users": [
+        "UC78DKYN5",
+        "UC7UPACMT",
+        "UC8CALG0Z",
+        "UC7JLBRR7",
+        "UC8GNSQBA",
+        "UC7MP2QBV",
+        "UC8ST2GMV",
+        "UCAJJSXGW",
+        "UC94C524C",
+        "UC7DGFBGQ",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UC92J4S2G",
+        "UCKBZ14QL",
+        "UCK0C7YV6",
+        "UCK723MHP",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCW555CV7"
+      ],
+      "count": 23
+    },
+    {
+      "name": "parrotmustache",
+      "users": [
+        "UC7DGFBGQ",
+        "UC7UPACMT",
+        "UC8ST2GMV",
+        "UC7UGRDUK",
+        "UCBAEJR7H",
+        "UC8CALG0Z",
+        "UC92J4S2G",
+        "UCKBZ14QL",
+        "UCK0C7YV6",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCL4T1F4M",
+        "UCKUC2PMZ",
+        "UCLKM6ZK9",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S"
+      ],
+      "count": 20
+    },
+    {
+      "name": "bat",
+      "users": [
+        "UCJSMATQQ",
+        "UCK0C7YV6",
+        "UC7UPACMT",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UCBAEJR7H"
+      ],
+      "count": 11
+    },
+    {
+      "name": "angelparrot",
+      "users": [
+        "UCKN0503D",
+        "UCM21MMGX",
+        "UCB3XPQ14",
+        "UCK9QGUDN",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UC7UPACMT",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UCBAEJR7H"
+      ],
+      "count": 11
+    },
+    {
+      "name": "success-kid",
+      "users": [
+        "UCM40U6T0",
+        "UCB3XPQ14",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UC7UPACMT",
+        "UCLP8HS8P",
+        "UCU6RF2PN",
+        "UCW555CV7",
+        "UCLLEAC9M",
+        "UD5T1U90S",
+        "UCBAEJR7H"
+      ],
+      "count": 11
+    },
+    {
+      "name": "twinsparrot",
+      "users": [
+        "UCKUC2PMZ",
+        "UCKJS296W",
+        "UCN3TGSN7",
+        "UC7UPACMT",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UCBAEJR7H"
+      ],
+      "count": 8
+    },
+    {
+      "name": "butterfly",
+      "users": [
+        "UCKJS296W",
+        "UCK0M7C72",
+        "UCN3TGSN7",
+        "UC7UPACMT",
+        "UCLP8HS8P",
+        "UCW555CV7",
+        "UD5T1U90S",
+        "UCBAEJR7H"
+      ],
+      "count": 8
+    },
+    {
+      "name": "zebra_face",
+      "users": [
+        "UCLP8HS8P",
+        "UCN3TGSN7",
+        "UCTUN8TH7",
+        "UCW555CV7",
+        "UC7UPACMT",
+        "UD5T1U90S",
+        "UCBAEJR7H"
+      ],
+      "count": 7
+    }
+  ],
+  "timestamp": 1534432021000,
+  "isoDate": "2018-08-16T15:07:01.000Z"
+},{
+  "user": "UC7MP2QBV",
+  "text": "<@UC7MP2QBV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534190945.000166",
+  "timestamp": 1534190945000,
+  "isoDate": "2018-08-13T20:09:05.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534190854.000141",
+  "timestamp": 1534190854000,
+  "isoDate": "2018-08-13T20:07:34.000Z"
+},{
+  "user": "UC78DKYN5",
+  "text": "<@UC78DKYN5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534188562.000092",
+  "timestamp": 1534188562000,
+  "isoDate": "2018-08-13T19:29:22.000Z"
+},{
+  "user": "UC7UPACMT",
+  "text": "<@UC7UPACMT> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534187762.000036",
+  "timestamp": 1534187762000,
+  "isoDate": "2018-08-13T19:16:02.000Z"
+}]

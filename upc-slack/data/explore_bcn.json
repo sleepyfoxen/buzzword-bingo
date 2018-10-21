@@ -1,0 +1,316 @@
+[
+{
+  "type": "message",
+  "user": "UC7JLBRR7",
+  "text": "Hi, hackers! Today and tomorrow morning are great days to visit Barcelona, if you've never been here before. In this document <https://drive.google.com/file/d/1gyVpYw3JqTHr3QFg9ep6kgsW4u59CY83/view> you'll find everything you need to know about visiting the city, starting with public transportation :bus::metro:  (If you don't know which ticket to buy, just ask us!)\nYou'll also find a map of restaurant recommendations :fork_and_knife: by our team, if you'd like to taste the local cuisine.\n\nFinally, there's a list of tours of Barcelona, if you're not sure of where everything is. They will take you to famous landmarks such as Gaudí's Casa Milà and Casa Batlló, les Rambles, Ciutadella Park or Santa Maria del Mar :church:.  My personal suggestion is visiting Montjuïc: a hill overlooking the city :national_park:, full of gardens and historical buildings :classical_building:, with great views. (Take the L1 or L3 subway to _Espanya_, and you'll see the place as soon as you're in the street. If you'd like to go to the very top, take the 150 bus from there and get down at the end of the line.)\n\nHave a nice day and see you all tomorrow! :relaxed:",
+  "client_msg_id": "e849e746-a16d-4594-bfc9-30316c3e27fa",
+  "edited": {
+    "user": "UC7JLBRR7",
+    "ts": "1539874993.000000"
+  },
+  "ts": "1539874979.000100",
+  "timestamp": 1539874979000,
+  "isoDate": "2018-10-18T15:02:59.000Z"
+},{
+  "type": "message",
+  "user": "UCAJYA806",
+  "text": "I will be exploring Barcelona on Friday, if anyone wants to join then hit me up.",
+  "client_msg_id": "3c64f102-c79c-4867-b707-52370cc09928",
+  "ts": "1539785603.000100",
+  "timestamp": 1539785603000,
+  "isoDate": "2018-10-17T14:13:23.000Z"
+},{
+  "type": "message",
+  "user": "UD4LHM3KM",
+  "text": "I think that all tmb tickets include metro",
+  "client_msg_id": "340c7c6b-803e-469c-aed2-f4d6bb85a887",
+  "thread_ts": "1539085807.000100",
+  "parent_user_id": "UC8RY1ERY",
+  "ts": "1539099470.000100",
+  "timestamp": 1539099470000,
+  "isoDate": "2018-10-09T15:37:50.000Z"
+},{
+  "type": "message",
+  "user": "UCWP8SFNF",
+  "text": "They do include the fare if you take the Renfe train (R2 Nord). They are not valid for the metro tho.",
+  "client_msg_id": "a6e71105-cb75-4255-a2e2-c5d8ba54b358",
+  "edited": {
+    "user": "UCWP8SFNF",
+    "ts": "1539097821.000000"
+  },
+  "thread_ts": "1539085807.000100",
+  "parent_user_id": "UC8RY1ERY",
+  "ts": "1539097808.000100",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "UD4LHM3KM",
+        "UCAJYA806"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539097808000,
+  "isoDate": "2018-10-09T15:10:08.000Z"
+},{
+  "type": "message",
+  "user": "UC8RY1ERY",
+  "text": "Keep in mind that those don't include the fare to/from the airport (4.60€ each). There are these tickets too which do include that <https://www.tmb.cat/en/barcelona/fares-metro-bus/barcelona-travel-card-hola-bcn>",
+  "client_msg_id": "7bee4e1c-244e-4642-9999-9e77f42cd25f",
+  "attachments": [
+    {
+      "title": "Hola Barcelona Travel Card | Transports Metropolitans de Barcelona",
+      "title_link": "https://www.tmb.cat/en/barcelona/fares-metro-bus/barcelona-travel-card-hola-bcn",
+      "text": "The Hola Barcelona Travel Card offers unlimited journeys on the metro and other public transport over 2, 3, 4 or 5 days. Airport included! Buy your tickets online in advance and get 10% discount.",
+      "fallback": "Hola Barcelona Travel Card | Transports Metropolitans de Barcelona",
+      "from_url": "https://www.tmb.cat/en/barcelona/fares-metro-bus/barcelona-travel-card-hola-bcn",
+      "service_icon": "https://static2.tmb.cat/tmb-theme/3.18.0.rc4/images/favicons/apple-icon-57x57.png",
+      "service_name": "tmb.cat",
+      "id": 1,
+      "original_url": "https://www.tmb.cat/en/barcelona/fares-metro-bus/barcelona-travel-card-hola-bcn"
+    }
+  ],
+  "thread_ts": "1539085807.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UCWP8SFNF",
+      "ts": "1539097808.000100"
+    },
+    {
+      "user": "UD4LHM3KM",
+      "ts": "1539099470.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1539085807.000100",
+  "timestamp": 1539085807000,
+  "isoDate": "2018-10-09T11:50:07.000Z"
+},{
+  "type": "message",
+  "user": "UD4LHM3KM",
+  "text": "Hope it helps you!",
+  "client_msg_id": "3ad58671-9fa0-4a11-8861-9b78bcfb1f4f",
+  "ts": "1539030310.000100",
+  "timestamp": 1539030310000,
+  "isoDate": "2018-10-08T20:25:10.000Z"
+},{
+  "type": "message",
+  "user": "UD4LHM3KM",
+  "text": "each card allows you to take the two different kind of trains we have + tram + metro + bus",
+  "client_msg_id": "6e29077c-d399-4602-b186-d6c425d1686f",
+  "ts": "1539030136.000100",
+  "reactions": [
+    {
+      "name": "100",
+      "users": [
+        "UC8HKDBMW",
+        "UC8ST2GMV",
+        "UC9FMV9PC"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1539030136000,
+  "isoDate": "2018-10-08T20:22:16.000Z"
+},{
+  "type": "message",
+  "user": "UD4LHM3KM",
+  "text": "for the ones that want to visit Barcelona and need some tips on the prices of the public transport:\nThese are the current cards available for the public transport. To travel within Barcelona city you just need fares of 1 zone.\n<https://www.tmb.cat/en/barcelona/fares-metro-bus/integrated-tickets>",
+  "client_msg_id": "80e3d714-9a51-4056-83ee-c79284797626",
+  "attachments": [
+    {
+      "title": "Barcelona bus metro cards|Public Transport Card | Transports Metropolitans de Barcelona",
+      "title_link": "https://www.tmb.cat/en/barcelona/fares-metro-bus/integrated-tickets",
+      "text": "Do you need a single ticket or a multi-journey card for travel on trams, buses and metro in Barcelona? Find the cheapest and best public transport ticket.",
+      "fallback": "Barcelona bus metro cards|Public Transport Card | Transports Metropolitans de Barcelona",
+      "from_url": "https://www.tmb.cat/en/barcelona/fares-metro-bus/integrated-tickets",
+      "service_icon": "https://static2.tmb.cat/tmb-theme/3.18.0.rc1/images/favicons/apple-icon-57x57.png",
+      "service_name": "tmb.cat",
+      "id": 1,
+      "original_url": "https://www.tmb.cat/en/barcelona/fares-metro-bus/integrated-tickets"
+    }
+  ],
+  "ts": "1539030041.000100",
+  "timestamp": 1539030041000,
+  "isoDate": "2018-10-08T20:20:41.000Z"
+},{
+  "type": "message",
+  "user": "UD42CNDNE",
+  "text": "Yo me presto voluntaria para enseñaros Barcelona ",
+  "client_msg_id": "46ad8f10-9ec5-4da4-8274-ab8ec41864f4",
+  "ts": "1538400877.000100",
+  "timestamp": 1538400877000,
+  "isoDate": "2018-10-01T13:34:37.000Z"
+},{
+  "user": "UCTJ3M43S",
+  "text": "<@UCTJ3M43S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537021736.000200",
+  "timestamp": 1537021736000,
+  "isoDate": "2018-09-15T14:28:56.000Z"
+},{
+  "user": "UCTNC0QUR",
+  "text": "<@UCTNC0QUR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537021696.000200",
+  "timestamp": 1537021696000,
+  "isoDate": "2018-09-15T14:28:16.000Z"
+},{
+  "user": "UCVLCDRF0",
+  "text": "<@UCVLCDRF0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537021271.000200",
+  "timestamp": 1537021271000,
+  "isoDate": "2018-09-15T14:21:11.000Z"
+},{
+  "user": "UCTNAEU0Z",
+  "text": "<@UCTNAEU0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537021216.000200",
+  "timestamp": 1537021216000,
+  "isoDate": "2018-09-15T14:20:16.000Z"
+},{
+  "user": "UCU42UPK6",
+  "text": "<@UCU42UPK6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537020892.000200",
+  "timestamp": 1537020892000,
+  "isoDate": "2018-09-15T14:14:52.000Z"
+},{
+  "user": "UCVLATLB0",
+  "text": "<@UCVLATLB0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537020810.000200",
+  "timestamp": 1537020810000,
+  "isoDate": "2018-09-15T14:13:30.000Z"
+},{
+  "user": "UCU9ZHZC2",
+  "text": "<@UCU9ZHZC2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537020712.000200",
+  "timestamp": 1537020712000,
+  "isoDate": "2018-09-15T14:11:52.000Z"
+},{
+  "user": "UCVBB11V5",
+  "text": "<@UCVBB11V5> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537020442.000200",
+  "timestamp": 1537020442000,
+  "isoDate": "2018-09-15T14:07:22.000Z"
+},{
+  "user": "UCVL9EZ46",
+  "text": "<@UCVL9EZ46> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537020418.000200",
+  "timestamp": 1537020418000,
+  "isoDate": "2018-09-15T14:06:58.000Z"
+},{
+  "user": "UC7MP2QBV",
+  "text": "<@UC7MP2QBV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536949077.000200",
+  "timestamp": 1536949077000,
+  "isoDate": "2018-09-14T18:17:57.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536934744.000200",
+  "timestamp": 1536934744000,
+  "isoDate": "2018-09-14T14:19:04.000Z"
+},{
+  "user": "UCSBTMJ9F",
+  "text": "<@UCSBTMJ9F> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536849671.000200",
+  "timestamp": 1536849671000,
+  "isoDate": "2018-09-13T14:41:11.000Z"
+},{
+  "user": "UCT1A17QD",
+  "text": "<@UCT1A17QD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536841932.000200",
+  "timestamp": 1536841932000,
+  "isoDate": "2018-09-13T12:32:12.000Z"
+},{
+  "user": "UCM1CUDUP",
+  "text": "<@UCM1CUDUP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536675284.000200",
+  "timestamp": 1536675284000,
+  "isoDate": "2018-09-11T14:14:44.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536670557.000200",
+  "timestamp": 1536670557000,
+  "isoDate": "2018-09-11T12:55:57.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667631.000200",
+  "timestamp": 1536667631000,
+  "isoDate": "2018-09-11T12:07:11.000Z"
+},{
+  "user": "UC8HKDBMW",
+  "text": "<@UC8HKDBMW> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536664751.000200",
+  "timestamp": 1536664751000,
+  "isoDate": "2018-09-11T11:19:11.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536659192.000200",
+  "timestamp": 1536659192000,
+  "isoDate": "2018-09-11T09:46:32.000Z"
+},{
+  "user": "UCKCGUAF6",
+  "text": "<@UCKCGUAF6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536654022.000200",
+  "timestamp": 1536654022000,
+  "isoDate": "2018-09-11T08:20:22.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "purpose": "Need some tips about the city? Where to eat? What to visit? This is your place!",
+  "text": "<@UC7MN3GBD> set the channel purpose: Need some tips about the city? Where to eat? What to visit? This is your place!",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536574504.000100",
+  "timestamp": 1536574504000,
+  "isoDate": "2018-09-10T10:15:04.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536574503.000200",
+  "timestamp": 1536574503000,
+  "isoDate": "2018-09-10T10:15:03.000Z"
+}]

@@ -1,0 +1,215 @@
+[
+{
+  "type": "message",
+  "user": "UDB60R54Z",
+  "text": "A5",
+  "client_msg_id": "9b772cc7-949c-47ec-9d56-6e70a5c59939",
+  "thread_ts": "1539981497.000100",
+  "parent_user_id": "UCABS9KB9",
+  "ts": "1540032858.000100",
+  "timestamp": 1540032858000,
+  "isoDate": "2018-10-20T10:54:18.000Z"
+},{
+  "type": "message",
+  "user": "UDB959DM1",
+  "text": "No",
+  "client_msg_id": "fae56095-4dce-4e53-b065-e838c8cd2549",
+  "ts": "1539990657.000100",
+  "timestamp": 1539990657000,
+  "isoDate": "2018-10-19T23:10:57.000Z"
+},{
+  "type": "message",
+  "user": "UCUL7GZE0",
+  "text": "Hola! Esteu per aquí encara?",
+  "client_msg_id": "a61d436d-886a-411a-b721-8d5da35c83ba",
+  "ts": "1539990272.000100",
+  "timestamp": 1539990272000,
+  "isoDate": "2018-10-19T23:04:32.000Z"
+},{
+  "type": "message",
+  "user": "UCABS9KB9",
+  "text": "Hello! Where are you located?",
+  "client_msg_id": "32c29bde-890d-4897-87cf-addb76d08810",
+  "thread_ts": "1539981497.000100",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "UDB60R54Z",
+      "ts": "1540032858.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1539981497.000100",
+  "timestamp": 1539981497000,
+  "isoDate": "2018-10-19T20:38:17.000Z"
+},{
+  "user": "UDF6B4S7J",
+  "text": "<@UDF6B4S7J> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539756992.000200",
+  "timestamp": 1539756992000,
+  "isoDate": "2018-10-17T06:16:32.000Z"
+},{
+  "user": "UDG1E7D55",
+  "text": "<@UDG1E7D55> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539668461.000200",
+  "timestamp": 1539668461000,
+  "isoDate": "2018-10-16T05:41:01.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659006.000200",
+  "timestamp": 1539659006000,
+  "isoDate": "2018-10-16T03:03:26.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539626792.000200",
+  "timestamp": 1539626792000,
+  "isoDate": "2018-10-15T18:06:32.000Z"
+},{
+  "user": "UCVU0EYFR",
+  "text": "<@UCVU0EYFR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539598748.000200",
+  "timestamp": 1539598748000,
+  "isoDate": "2018-10-15T10:19:08.000Z"
+},{
+  "user": "UDF86PW6B",
+  "text": "<@UDF86PW6B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539596967.000200",
+  "timestamp": 1539596967000,
+  "isoDate": "2018-10-15T09:49:27.000Z"
+},{
+  "user": "UDE90AVKP",
+  "text": "<@UDE90AVKP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539586397.000200",
+  "timestamp": 1539586397000,
+  "isoDate": "2018-10-15T06:53:17.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514152.000200",
+  "timestamp": 1539514152000,
+  "isoDate": "2018-10-14T10:49:12.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373751.000200",
+  "timestamp": 1539373751000,
+  "isoDate": "2018-10-12T19:49:11.000Z"
+},{
+  "user": "UDD3DMTBP",
+  "text": "<@UDD3DMTBP> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539343879.000200",
+  "timestamp": 1539343879000,
+  "isoDate": "2018-10-12T11:31:19.000Z"
+},{
+  "user": "UDD6298F8",
+  "text": "<@UDD6298F8> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539241126.000200",
+  "timestamp": 1539241126000,
+  "isoDate": "2018-10-11T06:58:46.000Z"
+},{
+  "user": "UDB2QNV88",
+  "text": "<@UDB2QNV88> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539239661.000200",
+  "timestamp": 1539239661000,
+  "isoDate": "2018-10-11T06:34:21.000Z"
+},{
+  "user": "UDB60R54Z",
+  "text": "<@UDB60R54Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539236338.000200",
+  "timestamp": 1539236338000,
+  "isoDate": "2018-10-11T05:38:58.000Z"
+},{
+  "user": "UC9FMV9PC",
+  "text": "<@UC9FMV9PC> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539235871.000200",
+  "timestamp": 1539235871000,
+  "isoDate": "2018-10-11T05:31:11.000Z"
+},{
+  "user": "UDBBZ2DEX",
+  "text": "<@UDBBZ2DEX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539198637.000200",
+  "timestamp": 1539198637000,
+  "isoDate": "2018-10-10T19:10:37.000Z"
+},{
+  "user": "UDB959DM1",
+  "text": "<@UDB959DM1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539192360.000200",
+  "timestamp": 1539192360000,
+  "isoDate": "2018-10-10T17:26:00.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169022.000200",
+  "timestamp": 1539169022000,
+  "isoDate": "2018-10-10T10:57:02.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173447.000200",
+  "timestamp": 1537173447000,
+  "isoDate": "2018-09-17T08:37:27.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401233.000200",
+  "timestamp": 1534401233000,
+  "isoDate": "2018-08-16T06:33:53.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Opentrends channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Opentrends channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534225086.000300",
+  "timestamp": 1534225086000,
+  "isoDate": "2018-08-14T05:38:06.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534225086.000200",
+  "timestamp": 1534225086000,
+  "isoDate": "2018-08-14T05:38:06.000Z"
+}]

@@ -1,0 +1,268 @@
+[
+{
+  "type": "message",
+  "user": "UDF51RU95",
+  "text": "<@UD625UUKY> we are already here! A5 floor 2 in case you want to chat! :sunglasses: ",
+  "client_msg_id": "12ba9e1e-b4a2-4a4f-98dc-e733bb27c8e1",
+  "ts": "1540023388.000100",
+  "timestamp": 1540023388000,
+  "isoDate": "2018-10-20T08:16:28.000Z"
+},{
+  "type": "message",
+  "user": "UDG6UULJE",
+  "text": "<http://hackupc18.itequia.com>",
+  "client_msg_id": "1be6578b-b3a3-4512-b9a6-c20d6c7a61d3",
+  "attachments": [
+    {
+      "service_name": "GitHub",
+      "title": "Itequia/hackUPC-2018",
+      "title_link": "http://hackupc18.itequia.com/",
+      "text": "Itequia's challenge for the HackUPC 2018. Contribute to Itequia/hackUPC-2018 development by creating an account on GitHub.",
+      "fallback": "GitHub: Itequia/hackUPC-2018",
+      "image_url": "https://avatars2.githubusercontent.com/u/25908474?s=400&v=4",
+      "from_url": "http://hackupc18.itequia.com/",
+      "image_width": 250,
+      "image_height": 250,
+      "image_bytes": 7685,
+      "service_icon": "https://assets-cdn.github.com/favicon.ico",
+      "id": 1,
+      "original_url": "http://hackupc18.itequia.com"
+    }
+  ],
+  "ts": "1539988422.000100",
+  "timestamp": 1539988422000,
+  "isoDate": "2018-10-19T22:33:42.000Z"
+},{
+  "type": "message",
+  "user": "UDG6UULJE",
+  "text": "Here you may get some ideas",
+  "client_msg_id": "687d7914-a132-4f17-87d4-3e4514591f6f",
+  "ts": "1539988419.000100",
+  "timestamp": 1539988419000,
+  "isoDate": "2018-10-19T22:33:39.000Z"
+},{
+  "type": "message",
+  "user": "UDG6UULJE",
+  "text": "What can we do for you?",
+  "client_msg_id": "310dfd30-df31-4b11-82ad-d4bbe56d2cb9",
+  "ts": "1539988172.000100",
+  "timestamp": 1539988172000,
+  "isoDate": "2018-10-19T22:29:32.000Z"
+},{
+  "type": "message",
+  "user": "UDG6UULJE",
+  "text": "Hi Biel, we ll be back tomorrow morning. Do you need help?",
+  "client_msg_id": "753846ab-4bdc-41d3-ac60-74dd4c0aa7cb",
+  "ts": "1539988157.000100",
+  "timestamp": 1539988157000,
+  "isoDate": "2018-10-19T22:29:17.000Z"
+},{
+  "type": "message",
+  "user": "UD625UUKY",
+  "text": "Is there anyone from itequia we can discuss our ideas with around at the moment? If that's the case, where?",
+  "client_msg_id": "4866783c-dda3-4517-accd-caee8edcb7a1",
+  "ts": "1539987637.000100",
+  "timestamp": 1539987637000,
+  "isoDate": "2018-10-19T22:20:37.000Z"
+},{
+  "user": "UCN62RZ7C",
+  "text": "<@UCN62RZ7C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539946475.000200",
+  "timestamp": 1539946475000,
+  "isoDate": "2018-10-19T10:54:35.000Z"
+},{
+  "user": "UCL4T1F4M",
+  "text": "<@UCL4T1F4M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539871294.000200",
+  "timestamp": 1539871294000,
+  "isoDate": "2018-10-18T14:01:34.000Z"
+},{
+  "user": "UDG468JBA",
+  "text": "<@UDG468JBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539846907.000200",
+  "timestamp": 1539846907000,
+  "isoDate": "2018-10-18T07:15:07.000Z"
+},{
+  "type": "message",
+  "user": "UDDV2PYAY",
+  "text": "You are welcome! :slightly_smiling_face:",
+  "client_msg_id": "52d8b92b-bfb8-4a45-8f43-5ae679434525",
+  "ts": "1539791000.000100",
+  "timestamp": 1539791000000,
+  "isoDate": "2018-10-17T15:43:20.000Z"
+},{
+  "type": "message",
+  "user": "UD5UWJ4SX",
+  "text": "Thanks for the fast and helpful answer :smile:",
+  "client_msg_id": "d75e28db-cbe1-49dd-819f-b27290a998fa",
+  "ts": "1539790902.000100",
+  "timestamp": 1539790902000,
+  "isoDate": "2018-10-17T15:41:42.000Z"
+},{
+  "type": "message",
+  "user": "UDDV2PYAY",
+  "text": "Hi Armin! I'll give you some ideas:\n - We use Slack in Itequia, so an integration with slack would be great! For example, the ability to invite channels to a whiteboard room, export the drawing as an image directly to the channel, etc.\n- If you are interested in machine learning, you could add some text/image recognition. For example, it would be great to be able to upload an image of something written on a piece of paper and render it as text in the whiteboard.\n- If you are interested in hardware, you could program a permanent whiteboard (in a raspi, for example) hooked to a TV or a projector.",
+  "client_msg_id": "4a47545c-dcf7-48c2-bf60-230a89bed753",
+  "ts": "1539790788.000100",
+  "timestamp": 1539790788000,
+  "isoDate": "2018-10-17T15:39:48.000Z"
+},{
+  "type": "message",
+  "user": "UD5UWJ4SX",
+  "text": "Hello. Out of curiosity, what should the whiteboard do, what already available online realtime whiteboards not already do?",
+  "client_msg_id": "ba2d8807-77ea-49a6-8ba6-1fd3cebaf649",
+  "ts": "1539789432.000100",
+  "timestamp": 1539789432000,
+  "isoDate": "2018-10-17T15:17:12.000Z"
+},{
+  "user": "UDG6UULJE",
+  "text": "<@UDG6UULJE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539782941.000200",
+  "timestamp": 1539782941000,
+  "isoDate": "2018-10-17T13:29:01.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539779893.000200",
+  "timestamp": 1539779893000,
+  "isoDate": "2018-10-17T12:38:13.000Z"
+},{
+  "user": "UDF0TTPS6",
+  "text": "<@UDF0TTPS6> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539673545.000200",
+  "timestamp": 1539673545000,
+  "isoDate": "2018-10-16T07:05:45.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659002.000200",
+  "timestamp": 1539659002000,
+  "isoDate": "2018-10-16T03:03:22.000Z"
+},{
+  "user": "UDG0CQC8N",
+  "text": "<@UDG0CQC8N> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539627603.000200",
+  "timestamp": 1539627603000,
+  "isoDate": "2018-10-15T18:20:03.000Z"
+},{
+  "user": "UDF8DAGK1",
+  "text": "<@UDF8DAGK1> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539597568.000200",
+  "timestamp": 1539597568000,
+  "isoDate": "2018-10-15T09:59:28.000Z"
+},{
+  "user": "UDDV2PYAY",
+  "text": "<@UDDV2PYAY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539591511.000200",
+  "timestamp": 1539591511000,
+  "isoDate": "2018-10-15T08:18:31.000Z"
+},{
+  "user": "UDF51RU95",
+  "text": "<@UDF51RU95> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539586922.000200",
+  "timestamp": 1539586922000,
+  "isoDate": "2018-10-15T07:02:02.000Z"
+},{
+  "user": "UDEU8FBTR",
+  "text": "<@UDEU8FBTR> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539536935.000200",
+  "timestamp": 1539536935000,
+  "isoDate": "2018-10-14T17:08:55.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514149.000200",
+  "timestamp": 1539514149000,
+  "isoDate": "2018-10-14T10:49:09.000Z"
+},{
+  "user": "UDCPALEE4",
+  "text": "<@UDCPALEE4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539411932.000200",
+  "timestamp": 1539411932000,
+  "isoDate": "2018-10-13T06:25:32.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373621.000200",
+  "timestamp": 1539373621000,
+  "isoDate": "2018-10-12T19:47:01.000Z"
+},{
+  "user": "UDCPESMPD",
+  "text": "<@UDCPESMPD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539339835.000200",
+  "timestamp": 1539339835000,
+  "isoDate": "2018-10-12T10:23:55.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169019.000200",
+  "timestamp": 1539169019000,
+  "isoDate": "2018-10-10T10:56:59.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173434.000200",
+  "timestamp": 1537173434000,
+  "isoDate": "2018-09-17T08:37:14.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401231.000200",
+  "timestamp": 1534401231000,
+  "isoDate": "2018-08-16T06:33:51.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "Itequia channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: Itequia channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534225064.000300",
+  "timestamp": 1534225064000,
+  "isoDate": "2018-08-14T05:37:44.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534225064.000200",
+  "timestamp": 1534225064000,
+  "isoDate": "2018-08-14T05:37:44.000Z"
+}]

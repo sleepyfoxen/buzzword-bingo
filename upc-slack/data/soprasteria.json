@@ -1,0 +1,751 @@
+[
+{
+  "type": "message",
+  "user": "UCP7A0XST",
+  "text": "Someone from SopraSteria available rn?",
+  "client_msg_id": "7091be8d-af61-4a27-b8aa-e357340a5489",
+  "ts": "1540066783.000100",
+  "timestamp": 1540066783000,
+  "isoDate": "2018-10-20T20:19:43.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "<https://media.giphy.com/media/3o7TKEdVH8csXxKDO8/giphy.gif>",
+  "client_msg_id": "8976e2fd-538b-400b-aab7-f16112af985e",
+  "attachments": [
+    {
+      "fallback": "480x270px image",
+      "image_url": "https://media.giphy.com/media/3o7TKEdVH8csXxKDO8/giphy.gif",
+      "image_width": 480,
+      "image_height": 270,
+      "image_bytes": 1794052,
+      "is_animated": true,
+      "from_url": "https://media.giphy.com/media/3o7TKEdVH8csXxKDO8/giphy.gif",
+      "id": 1,
+      "original_url": "https://media.giphy.com/media/3o7TKEdVH8csXxKDO8/giphy.gif"
+    }
+  ],
+  "ts": "1540052960.000100",
+  "timestamp": 1540052960000,
+  "isoDate": "2018-10-20T16:29:20.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "<https://github.com/eBorland/nlp-workshop/blob/master/tip.png>",
+  "client_msg_id": "a52de9d6-e239-471e-95ac-d81b2607ff6c",
+  "attachments": [
+    {
+      "service_name": "GitHub",
+      "title": "eBorland/nlp-workshop",
+      "title_link": "https://github.com/eBorland/nlp-workshop/blob/master/tip.png",
+      "text": "Contribute to eBorland/nlp-workshop development by creating an account on GitHub.",
+      "fallback": "GitHub: eBorland/nlp-workshop",
+      "from_url": "https://github.com/eBorland/nlp-workshop/blob/master/tip.png",
+      "thumb_url": "https://avatars0.githubusercontent.com/u/27769320?s=400&v=4",
+      "thumb_width": 250,
+      "thumb_height": 250,
+      "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+      "id": 1,
+      "original_url": "https://github.com/eBorland/nlp-workshop/blob/master/tip.png"
+    }
+  ],
+  "ts": "1540052859.000100",
+  "reactions": [
+    {
+      "name": "heart",
+      "users": [
+        "UD9DAGL3H"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540052859000,
+  "isoDate": "2018-10-20T16:27:39.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Are you lost!? We have a little tip for you!",
+  "client_msg_id": "20e47d12-df8a-4733-a282-1230e4450754",
+  "ts": "1540052856.000100",
+  "timestamp": 1540052856000,
+  "isoDate": "2018-10-20T16:27:36.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "We are about to start!!! Hurry up! :ultrafastparrot:",
+  "client_msg_id": "c1e5ed35-7d88-4d10-947f-47d7da1f882d",
+  "ts": "1540029965.000100",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "UDDEUMFEJ"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540029965000,
+  "isoDate": "2018-10-20T10:06:05.000Z"
+},{
+  "type": "message",
+  "user": "UD9DAGL3H",
+  "text": "waiting for you :heart:",
+  "client_msg_id": "004e3371-9798-4a41-bb76-727b8fd819fb",
+  "ts": "1540029065.000100",
+  "reactions": [
+    {
+      "name": "ultrafastparrot",
+      "users": [
+        "UDDA8U8EA"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540029065000,
+  "isoDate": "2018-10-20T09:51:05.000Z"
+},{
+  "type": "message",
+  "text": "Sopra Steria",
+  "files": [
+    {
+      "id": "FDJPZJ077",
+      "created": 1540028343,
+      "timestamp": 1540028343,
+      "name": "IMG_7196.JPG",
+      "title": "IMG_7196.JPG",
+      "mimetype": "image/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UDDA8U8EA",
+      "editable": false,
+      "size": 1457186,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJPZJ077/img_7196.jpg",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJPZJ077/download/img_7196.jpg",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_64.jpg",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_80.jpg",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_360.jpg",
+      "thumb_360_w": 270,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_480.jpg",
+      "thumb_480_w": 360,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_160.jpg",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_720.jpg",
+      "thumb_720_w": 540,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 1067,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_960.jpg",
+      "thumb_960_w": 720,
+      "thumb_960_h": 960,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJPZJ077-2bd04e972a/img_7196_1024.jpg",
+      "thumb_1024_w": 768,
+      "thumb_1024_h": 1024,
+      "image_exif_rotation": 1,
+      "original_w": 3024,
+      "original_h": 4032,
+      "permalink": "https://hackupc2018.slack.com/files/UDDA8U8EA/FDJPZJ077/img_7196.jpg",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJPZJ077-d6c3504674"
+    }
+  ],
+  "upload": true,
+  "user": "UDDA8U8EA",
+  "display_as_bot": false,
+  "ts": "1540028350.000100",
+  "timestamp": 1540028350000,
+  "isoDate": "2018-10-20T09:39:10.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Hi guys, remember, workshop starting in 20 mins. We'll have bottles for everyone",
+  "client_msg_id": "bc3f55a4-c4a8-4af2-bf45-f2a455c0a6df",
+  "ts": "1540028329.000100",
+  "reactions": [
+    {
+      "name": "100",
+      "users": [
+        "UDDEUMFEJ"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540028329000,
+  "isoDate": "2018-10-20T09:38:49.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Get energy with the breakfast. Today is gonna be a great challenge day and remember that at 12PM we have the Getting started with NLP Workshop in the A5 002!!",
+  "client_msg_id": "39dcc7ff-5097-4a46-9e15-ecce7daf5360",
+  "edited": {
+    "user": "UDDA8U8EA",
+    "ts": "1540023784.000000"
+  },
+  "ts": "1540022773.000100",
+  "timestamp": 1540022773000,
+  "isoDate": "2018-10-20T08:06:13.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Better stevia than sugar... they say",
+  "client_msg_id": "4375f47b-ca9d-403d-bf1a-f21878b3d806",
+  "ts": "1540022748.000100",
+  "timestamp": 1540022748000,
+  "isoDate": "2018-10-20T08:05:48.000Z"
+},{
+  "type": "message",
+  "user": "UCMCNG806",
+  "text": "Can't help myself, won't stop reading sopra-stevia",
+  "client_msg_id": "f325aa8a-55b3-4d26-92cf-95a9d2a13340",
+  "ts": "1540022013.000100",
+  "timestamp": 1540022013000,
+  "isoDate": "2018-10-20T07:53:33.000Z"
+},{
+  "type": "message",
+  "user": "UCMCNG806",
+  "text": "",
+  "bot_id": "BC9190BMK",
+  "attachments": [
+    {
+      "fallback": "giphy: https://giphy.com/gifs/breaking-bad-laura-fraser-lydia-rodarte-quayle-VoVtgjhxAY4ZG",
+      "image_url": "https://media0.giphy.com/media/VoVtgjhxAY4ZG/giphy.gif?cid=6104955e5bcaded22f50554232828e01",
+      "image_width": 245,
+      "image_height": 245,
+      "image_bytes": 882783,
+      "is_animated": true,
+      "title": "stevia",
+      "footer": "Posted using /giphy",
+      "id": 1,
+      "title_link": "https://giphy.com/gifs/breaking-bad-laura-fraser-lydia-rodarte-quayle-VoVtgjhxAY4ZG"
+    }
+  ],
+  "ts": "1540021984.000100",
+  "reactions": [
+    {
+      "name": "joy",
+      "users": [
+        "UDDA8U8EA"
+      ],
+      "count": 1
+    },
+    {
+      "name": "carlton",
+      "users": [
+        "UDJHYRYN9"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1540021984000,
+  "isoDate": "2018-10-20T07:53:04.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDJHJ5WJW",
+      "created": 1540021258,
+      "timestamp": 1540021258,
+      "name": "image.png",
+      "title": "Pasted image at 2018-10-20, 9:40 AM",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDDA8U8EA",
+      "editable": false,
+      "size": 842714,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJHJ5WJW/image.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJHJ5WJW/download/image.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 240,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 320,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 480,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 533,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJHJ5WJW-b27b83e067/image_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 640,
+      "image_exif_rotation": 1,
+      "original_w": 968,
+      "original_h": 645,
+      "permalink": "https://hackupc2018.slack.com/files/UDDA8U8EA/FDJHJ5WJW/image.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJHJ5WJW-1146c156ed"
+    }
+  ],
+  "upload": true,
+  "user": "UDDA8U8EA",
+  "display_as_bot": false,
+  "ts": "1540021262.000100",
+  "timestamp": 1540021262000,
+  "isoDate": "2018-10-20T07:41:02.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Good Morning!!",
+  "client_msg_id": "058d0148-9b3f-489b-a981-8f5a3ddfdf0e",
+  "ts": "1540021253.000100",
+  "timestamp": 1540021253000,
+  "isoDate": "2018-10-20T07:40:53.000Z"
+},{
+  "type": "message",
+  "user": "UCJSMATQQ",
+  "text": "hi all",
+  "client_msg_id": "d81141ce-c1ca-463b-9c67-12a76f1c5119",
+  "ts": "1540020782.000200",
+  "timestamp": 1540020782000,
+  "isoDate": "2018-10-20T07:33:02.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Hi <@UDHL3QHUN>, the dataset included in the github is just a sample to create a model. You can use that or create your own. It will be very difficult to create a NLP model that is able to understand what is fake and what is not, you should use an NLP model to understand what are the news about in order to check if those facts are correct, as <@UCKUJ8KNZ> pointed out",
+  "client_msg_id": "1fd56861-0692-4bf8-974f-fd5122bc5e3d",
+  "edited": {
+    "user": "UDDA8U8EA",
+    "ts": "1540020683.000000"
+  },
+  "ts": "1540020234.000100",
+  "timestamp": 1540020234000,
+  "isoDate": "2018-10-20T07:23:54.000Z"
+},{
+  "type": "message",
+  "user": "UCKUJ8KNZ",
+  "text": "If you want to make an ML model, you might find this dataset interesting: <https://www.kaggle.com/mrisdal/fake-news>",
+  "client_msg_id": "a8c6320e-7b28-47ec-893d-477d8bc1b20f",
+  "attachments": [
+    {
+      "title": "Getting Real about Fake News",
+      "title_link": "https://www.kaggle.com/mrisdal/fake-news",
+      "text": "Text &amp; metadata from fake &amp; biased news sources around the web",
+      "fallback": "Getting Real about Fake News",
+      "thumb_url": "https://kaggle2.blob.core.windows.net/datasets-images/444/911/72f14487be29cd149452447882ce1495/dataset-card.jpg",
+      "from_url": "https://www.kaggle.com/mrisdal/fake-news",
+      "thumb_width": 600,
+      "thumb_height": 600,
+      "service_icon": "https://www.kaggle.com/favicon.ico",
+      "service_name": "kaggle.com",
+      "id": 1,
+      "original_url": "https://www.kaggle.com/mrisdal/fake-news"
+    }
+  ],
+  "thread_ts": "1539985958.000100",
+  "parent_user_id": "UDHL3QHUN",
+  "ts": "1539989601.000100",
+  "timestamp": 1539989601000,
+  "isoDate": "2018-10-19T22:53:21.000Z"
+},{
+  "type": "message",
+  "user": "UCKUJ8KNZ",
+  "text": "I might be wrong, but I don’t think that the ML model is what this challenge is looking for, but more of the integration of the NLP model already provided in a plugin.",
+  "client_msg_id": "849e71d6-3173-4f5d-aa86-c91d206a66cc",
+  "thread_ts": "1539985958.000100",
+  "parent_user_id": "UDHL3QHUN",
+  "ts": "1539989519.000100",
+  "timestamp": 1539989519000,
+  "isoDate": "2018-10-19T22:51:59.000Z"
+},{
+  "type": "message",
+  "user": "UDHL3QHUN",
+  "text": "Hi,\nthe dataset in the github has only labels for news categories but not for fake data. Is there any dataset for fake data which we can use or should we just search in the internet for it?",
+  "client_msg_id": "ee66ecb6-0611-4294-b9ef-3982862fa73f",
+  "thread_ts": "1539985958.000100",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "UCKUJ8KNZ",
+      "ts": "1539989519.000100"
+    },
+    {
+      "user": "UCKUJ8KNZ",
+      "ts": "1539989601.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1539985958.000100",
+  "timestamp": 1539985958000,
+  "isoDate": "2018-10-19T21:52:38.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDKBEAX7H",
+      "created": 1539975274,
+      "timestamp": 1539975274,
+      "name": "image.png",
+      "title": "Pasted image at 2018-10-19, 8:54 PM",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDDA8U8EA",
+      "editable": false,
+      "size": 169815,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDKBEAX7H/image.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDKBEAX7H/download/image.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 360,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 480,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 720,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKBEAX7H-da4d912ee0/image_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 800,
+      "image_exif_rotation": 1,
+      "original_w": 810,
+      "original_h": 810,
+      "permalink": "https://hackupc2018.slack.com/files/UDDA8U8EA/FDKBEAX7H/image.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDKBEAX7H-069614c95b"
+    }
+  ],
+  "upload": true,
+  "user": "UDDA8U8EA",
+  "display_as_bot": false,
+  "ts": "1539975277.000100",
+  "timestamp": 1539975277000,
+  "isoDate": "2018-10-19T18:54:37.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "By the way, remember the winners will get a Goole Home for each of the team's members! :tada::tada::tada::tada::tada:",
+  "client_msg_id": "7bba34b4-18ff-4e28-aabf-c006c0642132",
+  "ts": "1539975243.000100",
+  "timestamp": 1539975243000,
+  "isoDate": "2018-10-19T18:54:03.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "<https://github.com/eBorland/nlp-workshop>",
+  "client_msg_id": "516e34eb-6810-4968-add8-36cf236dbe26",
+  "attachments": [
+    {
+      "service_name": "GitHub",
+      "title": "eBorland/nlp-workshop",
+      "title_link": "https://github.com/eBorland/nlp-workshop",
+      "text": "Contribute to eBorland/nlp-workshop development by creating an account on GitHub.",
+      "fallback": "GitHub: eBorland/nlp-workshop",
+      "from_url": "https://github.com/eBorland/nlp-workshop",
+      "thumb_url": "https://avatars0.githubusercontent.com/u/27769320?s=400&v=4",
+      "thumb_width": 250,
+      "thumb_height": 250,
+      "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+      "id": 1,
+      "original_url": "https://github.com/eBorland/nlp-workshop"
+    }
+  ],
+  "ts": "1539975119.000300",
+  "timestamp": 1539975119000,
+  "isoDate": "2018-10-19T18:51:59.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "You'll also find some more info and a base project with a scrapper and connection to Google Cloud NLP in this github. Feel free to start with that",
+  "client_msg_id": "54b9460e-9901-4cc0-b9e3-43eb19af13e2",
+  "ts": "1539975119.000100",
+  "timestamp": 1539975119000,
+  "isoDate": "2018-10-19T18:51:59.000Z"
+},{
+  "type": "message",
+  "text": "",
+  "files": [
+    {
+      "id": "FDJ4Q7HA8",
+      "created": 1539975030,
+      "timestamp": 1539975030,
+      "name": "slides.pptx",
+      "title": "Challenge slides",
+      "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "filetype": "pptx",
+      "pretty_type": "PowerPoint Presentation",
+      "user": "UDDA8U8EA",
+      "editable": false,
+      "size": 16162022,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ4Q7HA8/slides.pptx",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJ4Q7HA8/download/slides.pptx",
+      "permalink": "https://hackupc2018.slack.com/files/UDDA8U8EA/FDJ4Q7HA8/slides.pptx",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJ4Q7HA8-5216ea1788"
+    }
+  ],
+  "upload": true,
+  "user": "UDDA8U8EA",
+  "display_as_bot": false,
+  "ts": "1539975032.000100",
+  "timestamp": 1539975032000,
+  "isoDate": "2018-10-19T18:50:32.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "We'll be posting here all info about our challenge, workshop and company, so stay tuned!",
+  "client_msg_id": "c0d23e30-16cc-4603-857a-2e9156c06b37",
+  "ts": "1539974973.000100",
+  "timestamp": 1539974973000,
+  "isoDate": "2018-10-19T18:49:33.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "I'm Eric, Software Architect from Sopra Steria",
+  "client_msg_id": "7ffde9b6-8e51-4e9c-a43b-9f2d49bc4cdd",
+  "ts": "1539974957.000100",
+  "timestamp": 1539974957000,
+  "isoDate": "2018-10-19T18:49:17.000Z"
+},{
+  "type": "message",
+  "user": "UDDA8U8EA",
+  "text": "Hi there! Thank you all for coming and we hope you'll get fun these days",
+  "client_msg_id": "b0864e54-8d88-40e5-b531-0d4f9b9d7cbd",
+  "ts": "1539974945.000100",
+  "timestamp": 1539974945000,
+  "isoDate": "2018-10-19T18:49:05.000Z"
+},{
+  "type": "message",
+  "user": "UD9DAGL3H",
+  "text": "it was meant as a “hi” :smile:",
+  "client_msg_id": "5fe58ca0-4b13-4a93-8e81-55e503f109b2",
+  "ts": "1539974810.000100",
+  "timestamp": 1539974810000,
+  "isoDate": "2018-10-19T18:46:50.000Z"
+},{
+  "type": "message",
+  "user": "UD9DAGL3H",
+  "text": "hello!",
+  "client_msg_id": "bbe644c5-e2e3-447d-a0c6-c32df9d4369b",
+  "ts": "1539974792.000100",
+  "timestamp": 1539974792000,
+  "isoDate": "2018-10-19T18:46:32.000Z"
+},{
+  "type": "message",
+  "user": "UCLS7E7LP",
+  "text": "Hi, who can provide details about the track?\nIs there a labeled corpus of fake/nonfake news?",
+  "client_msg_id": "17507717-b6dc-4f9e-9cfa-53f68f3e2105",
+  "ts": "1539973138.000100",
+  "timestamp": 1539973138000,
+  "isoDate": "2018-10-19T18:18:58.000Z"
+},{
+  "type": "message",
+  "user": "UDDEUMFEJ",
+  "text": "Hola !!!",
+  "client_msg_id": "a03ff762-aa88-4357-99ad-c5e81491c294",
+  "ts": "1539948501.000100",
+  "timestamp": 1539948501000,
+  "isoDate": "2018-10-19T11:28:21.000Z"
+},{
+  "type": "message",
+  "user": "UDHU0E82W",
+  "text": ":star-struck:",
+  "client_msg_id": "6fcdc377-1903-4978-aa31-e71aff9af7b4",
+  "ts": "1539948228.000100",
+  "timestamp": 1539948228000,
+  "isoDate": "2018-10-19T11:23:48.000Z"
+},{
+  "user": "UCKNTEK8A",
+  "text": "<@UCKNTEK8A> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539859572.000200",
+  "timestamp": 1539859572000,
+  "isoDate": "2018-10-18T10:46:12.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539780002.000200",
+  "timestamp": 1539780002000,
+  "isoDate": "2018-10-17T12:40:02.000Z"
+},{
+  "user": "UCAKN24F4",
+  "text": "<@UCAKN24F4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539766039.000200",
+  "timestamp": 1539766039000,
+  "isoDate": "2018-10-17T08:47:19.000Z"
+},{
+  "user": "UDGFCLVJS",
+  "text": "<@UDGFCLVJS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539684689.000200",
+  "timestamp": 1539684689000,
+  "isoDate": "2018-10-16T10:11:29.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539658982.000200",
+  "timestamp": 1539658982000,
+  "isoDate": "2018-10-16T03:03:02.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539626995.000200",
+  "timestamp": 1539626995000,
+  "isoDate": "2018-10-15T18:09:55.000Z"
+},{
+  "user": "UDE8E609Y",
+  "text": "<@UDE8E609Y> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539603237.000200",
+  "timestamp": 1539603237000,
+  "isoDate": "2018-10-15T11:33:57.000Z"
+},{
+  "user": "UDDG10WQY",
+  "text": "<@UDDG10WQY> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539603052.000200",
+  "timestamp": 1539603052000,
+  "isoDate": "2018-10-15T11:30:52.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514123.000200",
+  "timestamp": 1539514123000,
+  "isoDate": "2018-10-14T10:48:43.000Z"
+},{
+  "user": "UDDEUMFEJ",
+  "text": "<@UDDEUMFEJ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539267081.000200",
+  "timestamp": 1539267081000,
+  "isoDate": "2018-10-11T14:11:21.000Z"
+},{
+  "user": "UDDB7MBNJ",
+  "text": "<@UDDB7MBNJ> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539257988.000200",
+  "timestamp": 1539257988000,
+  "isoDate": "2018-10-11T11:39:48.000Z"
+},{
+  "user": "UDDA8U8EA",
+  "text": "<@UDDA8U8EA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539254638.000200",
+  "timestamp": 1539254638000,
+  "isoDate": "2018-10-11T10:43:58.000Z"
+},{
+  "user": "UDD6HEUEA",
+  "text": "<@UDD6HEUEA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539242863.000200",
+  "timestamp": 1539242863000,
+  "isoDate": "2018-10-11T07:27:43.000Z"
+},{
+  "user": "UDBL236R2",
+  "text": "<@UDBL236R2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539242506.000200",
+  "timestamp": 1539242506000,
+  "isoDate": "2018-10-11T07:21:46.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539203121.000200",
+  "timestamp": 1539203121000,
+  "isoDate": "2018-10-10T20:25:21.000Z"
+},{
+  "user": "UDBG7813P",
+  "text": "<@UDBG7813P> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539189649.000200",
+  "timestamp": 1539189649000,
+  "isoDate": "2018-10-10T16:40:49.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169006.000200",
+  "timestamp": 1539169006000,
+  "isoDate": "2018-10-10T10:56:46.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173456.000200",
+  "timestamp": 1537173456000,
+  "isoDate": "2018-09-17T08:37:36.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534401236.000200",
+  "timestamp": 1534401236000,
+  "isoDate": "2018-08-16T06:33:56.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "SopraSteria channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: SopraSteria channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1534224938.000100",
+  "timestamp": 1534224938000,
+  "isoDate": "2018-08-14T05:35:38.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1534224937.000200",
+  "timestamp": 1534224937000,
+  "isoDate": "2018-08-14T05:35:37.000Z"
+}]

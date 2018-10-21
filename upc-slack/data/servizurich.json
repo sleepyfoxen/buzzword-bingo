@@ -1,0 +1,585 @@
+[
+{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "Hi guys, we'll be in our stand until 9pm, if you have any questions come and let us know! ",
+  "client_msg_id": "251b644e-eb6d-41d7-a81a-0910d8b32f12",
+  "ts": "1540057756.000100",
+  "timestamp": 1540057756000,
+  "isoDate": "2018-10-20T17:49:16.000Z"
+},{
+  "type": "message",
+  "text": "Find attached the details of each column",
+  "files": [
+    {
+      "id": "FDJSMP6E9",
+      "created": 1540051732,
+      "timestamp": 1540051732,
+      "name": "Screenshot_20181020-180345~2.png",
+      "title": "Screenshot_20181020-180345~2.png",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDFBDP4F3",
+      "editable": false,
+      "size": 245164,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDJSMP6E9/screenshot_20181020-180345_2.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDJSMP6E9/download/screenshot_20181020-180345_2.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 323,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 431,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 646,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 718,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDJSMP6E9-60f2b4141f/screenshot_20181020-180345_2_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 861,
+      "image_exif_rotation": 1,
+      "original_w": 964,
+      "original_h": 865,
+      "permalink": "https://hackupc2018.slack.com/files/UDFBDP4F3/FDJSMP6E9/screenshot_20181020-180345_2.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDJSMP6E9-9b1333bfe9"
+    }
+  ],
+  "upload": true,
+  "user": "UDFBDP4F3",
+  "display_as_bot": false,
+  "client_msg_id": "6744a055-e29f-475d-b9f9-1d70c2ff9634",
+  "ts": "1540051735.000100",
+  "timestamp": 1540051735000,
+  "isoDate": "2018-10-20T16:08:55.000Z"
+},{
+  "type": "message",
+  "user": "UDA976TSL",
+  "text": "an then to 1110000 which is a 2km increase",
+  "client_msg_id": "14a44824-fa12-49ac-9b22-3be7a6f8cb8d",
+  "thread_ts": "1540029797.000100",
+  "parent_user_id": "UDFBDP4F3",
+  "ts": "1540035606.000100",
+  "timestamp": 1540035606000,
+  "isoDate": "2018-10-20T11:40:06.000Z"
+},{
+  "type": "message",
+  "user": "UDA976TSL",
+  "text": "it jumps from 1077000 to 1108000 which is  31km increase",
+  "client_msg_id": "83f1bf47-573b-48fa-86e6-f299534604bc",
+  "thread_ts": "1540029797.000100",
+  "parent_user_id": "UDFBDP4F3",
+  "ts": "1540035583.000100",
+  "timestamp": 1540035583000,
+  "isoDate": "2018-10-20T11:39:43.000Z"
+},{
+  "type": "message",
+  "user": "UDA976TSL",
+  "text": "But the increments are not in 1000mts steps",
+  "client_msg_id": "8755b3cc-f7dc-4418-b482-6bec4789a5d4",
+  "thread_ts": "1540029797.000100",
+  "parent_user_id": "UDFBDP4F3",
+  "ts": "1540035546.000100",
+  "timestamp": 1540035546000,
+  "isoDate": "2018-10-20T11:39:06.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "Hi! Again! \n\nAbout another question we had, \"what's happening with the milage\" - this datum is obtained directly from the cars, which are only \"sharing\" their info with a 1Km sensitivity. This is why the increments are in 1000mts steps.\n\n",
+  "client_msg_id": "e8313cf1-42b9-44d2-a68b-7fd58a4b278c",
+  "thread_ts": "1540029797.000100",
+  "reply_count": 3,
+  "replies": [
+    {
+      "user": "UDA976TSL",
+      "ts": "1540035546.000100"
+    },
+    {
+      "user": "UDA976TSL",
+      "ts": "1540035583.000100"
+    },
+    {
+      "user": "UDA976TSL",
+      "ts": "1540035606.000100"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 3,
+  "ts": "1540029797.000100",
+  "timestamp": 1540029797000,
+  "isoDate": "2018-10-20T10:03:17.000Z"
+},{
+  "type": "message",
+  "user": "UCKQQ413P",
+  "text": "thank you!",
+  "client_msg_id": "a9d99cd4-c30c-411f-8389-0d95718fc0fa",
+  "ts": "1539996861.000100",
+  "timestamp": 1539996861000,
+  "isoDate": "2018-10-20T00:54:21.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "This is a really interesting tool that can help you enlarge your data set: \n\n<https://overpass-turbo.eu>\n\nTake a look at it, if you have any question, let us know!",
+  "client_msg_id": "ec145224-0699-4289-8705-79082d20e7c7",
+  "ts": "1539989139.000100",
+  "timestamp": 1539989139000,
+  "isoDate": "2018-10-19T22:45:39.000Z"
+},{
+  "type": "message",
+  "text": "Hi! As we've been receiving some questions about the data check the attached image with the data description",
+  "files": [
+    {
+      "id": "FDKRT1CAJ",
+      "created": 1539987905,
+      "timestamp": 1539987905,
+      "name": "Screenshot_20181020-002009~2.png",
+      "title": "Screenshot_20181020-002009~2.png",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG",
+      "user": "UDFBDP4F3",
+      "editable": false,
+      "size": 237558,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/TC8RKNA4X-FDKRT1CAJ/screenshot_20181020-002009_2.png",
+      "url_private_download": "https://files.slack.com/files-pri/TC8RKNA4X-FDKRT1CAJ/download/screenshot_20181020-002009_2.png",
+      "thumb_64": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_64.png",
+      "thumb_80": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_80.png",
+      "thumb_360": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_360.png",
+      "thumb_360_w": 360,
+      "thumb_360_h": 316,
+      "thumb_480": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_480.png",
+      "thumb_480_w": 480,
+      "thumb_480_h": 421,
+      "thumb_160": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_160.png",
+      "thumb_720": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_720.png",
+      "thumb_720_w": 720,
+      "thumb_720_h": 632,
+      "thumb_800": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_800.png",
+      "thumb_800_w": 800,
+      "thumb_800_h": 702,
+      "thumb_960": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_960.png",
+      "thumb_960_w": 960,
+      "thumb_960_h": 843,
+      "thumb_1024": "https://files.slack.com/files-tmb/TC8RKNA4X-FDKRT1CAJ-88b4b65aec/screenshot_20181020-002009_2_1024.png",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 899,
+      "image_exif_rotation": 1,
+      "original_w": 1080,
+      "original_h": 948,
+      "permalink": "https://hackupc2018.slack.com/files/UDFBDP4F3/FDKRT1CAJ/screenshot_20181020-002009_2.png",
+      "permalink_public": "https://slack-files.com/TC8RKNA4X-FDKRT1CAJ-927eefb8cc"
+    }
+  ],
+  "upload": true,
+  "user": "UDFBDP4F3",
+  "display_as_bot": false,
+  "client_msg_id": "627f03b5-653a-459d-a53c-88d76febdda5",
+  "ts": "1539987908.000100",
+  "timestamp": 1539987908000,
+  "isoDate": "2018-10-19T22:25:08.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "Hi, you can come to our booth on A6 - P2",
+  "client_msg_id": "36714de2-f8dd-4d7b-ab79-8a69605c3a24",
+  "ts": "1539980142.000100",
+  "timestamp": 1539980142000,
+  "isoDate": "2018-10-19T20:15:42.000Z"
+},{
+  "type": "message",
+  "user": "UDD63LS8Z",
+  "text": "How can we get the data set for the challenge ?",
+  "client_msg_id": "c105ff4c-efb0-4b7a-beec-a21aeb2282a4",
+  "ts": "1539979836.000100",
+  "timestamp": 1539979836000,
+  "isoDate": "2018-10-19T20:10:36.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": ":servizurich:",
+  "client_msg_id": "d82a4fa2-5f18-4a4d-9c08-c68cbc375c5e",
+  "ts": "1539954689.000100",
+  "timestamp": 1539954689000,
+  "isoDate": "2018-10-19T13:11:29.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": ":smile:",
+  "client_msg_id": "dfb45764-893a-4c61-a813-f8bc040d5270",
+  "ts": "1539954643.000100",
+  "timestamp": 1539954643000,
+  "isoDate": "2018-10-19T13:10:43.000Z"
+},{
+  "user": "UDG8CT9QB",
+  "text": "<@UDG8CT9QB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539791292.000200",
+  "reactions": [
+    {
+      "name": "wave::skin-tone-5",
+      "users": [
+        "UDFSET135",
+        "UC7AV4J0G"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539791292000,
+  "isoDate": "2018-10-17T15:48:12.000Z"
+},{
+  "type": "message",
+  "user": "UDEB2SH4G",
+  "text": "Hola!",
+  "client_msg_id": "11b24191-6cc8-4b54-914b-1de51af3472e",
+  "ts": "1539784804.000100",
+  "reactions": [
+    {
+      "name": "wave",
+      "users": [
+        "UC7MTLDGB",
+        "UC7AV4J0G"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539784804000,
+  "isoDate": "2018-10-17T14:00:04.000Z"
+},{
+  "type": "message",
+  "user": "UC7AV4J0G",
+  "text": "Hello! :hugging_face:",
+  "client_msg_id": "ac35cb0d-e834-4fdc-aca5-a6deaab4753c",
+  "ts": "1539776271.000100",
+  "reactions": [
+    {
+      "name": "wave",
+      "users": [
+        "UC7MTLDGB"
+      ],
+      "count": 1
+    },
+    {
+      "name": "wave::skin-tone-5",
+      "users": [
+        "UDFSET135"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539776271000,
+  "isoDate": "2018-10-17T11:37:51.000Z"
+},{
+  "user": "UC8CALG0Z",
+  "text": "<@UC8CALG0Z> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539775119.000200",
+  "timestamp": 1539775119000,
+  "isoDate": "2018-10-17T11:18:39.000Z"
+},{
+  "type": "message",
+  "user": "UC7MTLDGB",
+  "text": "hello everyone:woman-raising-hand: ",
+  "client_msg_id": "a12e8cd6-bcaa-4988-b37f-ade2cee438e3",
+  "ts": "1539774414.000100",
+  "reactions": [
+    {
+      "name": "wave",
+      "users": [
+        "UC7AV4J0G"
+      ],
+      "count": 1
+    },
+    {
+      "name": "wave::skin-tone-5",
+      "users": [
+        "UDFSET135"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539774414000,
+  "isoDate": "2018-10-17T11:06:54.000Z"
+},{
+  "type": "message",
+  "user": "UDFSET135",
+  "text": ":+1:",
+  "client_msg_id": "20fc80b1-be22-45e8-9167-a7de354e3a5a",
+  "ts": "1539771124.000100",
+  "timestamp": 1539771124000,
+  "isoDate": "2018-10-17T10:12:04.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Actually, it's the best way to identify each sponsor :point_up_2:",
+  "client_msg_id": "e4f2079e-6662-4975-844e-0167413b1e6c",
+  "ts": "1539769353.000100",
+  "reactions": [
+    {
+      "name": "+1::skin-tone-5",
+      "users": [
+        "UDFSET135"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1539769353000,
+  "isoDate": "2018-10-17T09:42:33.000Z"
+},{
+  "type": "message",
+  "user": "UC8ST2GMV",
+  "text": "Glad you all got it! :smile:",
+  "client_msg_id": "2a2134e3-a66e-4b49-ad2d-17bf1a337ae4",
+  "ts": "1539769297.000100",
+  "timestamp": 1539769297000,
+  "isoDate": "2018-10-17T09:41:37.000Z"
+},{
+  "type": "message",
+  "user": "UDFSET135",
+  "text": "Cool! Thx!",
+  "client_msg_id": "cf16a4b3-f448-456e-889e-4ddb22178c83",
+  "ts": "1539769282.000100",
+  "timestamp": 1539769282000,
+  "isoDate": "2018-10-17T09:41:22.000Z"
+},{
+  "type": "message",
+  "user": "UDFS6BUUU",
+  "text": ":+1: ",
+  "client_msg_id": "28ac0fd8-0a8b-473a-ba51-33ab2a6611be",
+  "ts": "1539768994.000100",
+  "timestamp": 1539768994000,
+  "isoDate": "2018-10-17T09:36:34.000Z"
+},{
+  "user": "UDFS6BUUU",
+  "text": "<@UDFS6BUUU> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539767936.000200",
+  "timestamp": 1539767936000,
+  "isoDate": "2018-10-17T09:18:56.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "I got help from the HackUPC team. You have to click on HackUPC 2018 (on the upper left side of the screen) and under the set status, you'll see that you can set an Emoji, in there search for zurich and it'll appear for you to select :smile:",
+  "client_msg_id": "a780e4e4-adba-41a4-ba30-2f71fcc87b34",
+  "ts": "1539765003.000100",
+  "timestamp": 1539765003000,
+  "isoDate": "2018-10-17T08:30:03.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "<@UDFSET135> :smile: :smile: :smile:",
+  "client_msg_id": "4fe0df6a-2c47-4590-b446-33a9ecd5c6a0",
+  "ts": "1539764910.000100",
+  "timestamp": 1539764910000,
+  "isoDate": "2018-10-17T08:28:30.000Z"
+},{
+  "type": "message",
+  "user": "UDFSET135",
+  "text": "Hi <@UDFBDP4F3>, How did you get that Zurich icon beside your name? I want that too!!! Hahahahah...",
+  "client_msg_id": "cd373587-c73c-4c9c-bfc3-61c117864675",
+  "ts": "1539763361.000100",
+  "timestamp": 1539763361000,
+  "isoDate": "2018-10-17T08:02:41.000Z"
+},{
+  "type": "message",
+  "user": "UDFBDP4F3",
+  "text": "Hi",
+  "client_msg_id": "61a50d91-be1b-4feb-b925-704d7b82ffef",
+  "ts": "1539762528.000100",
+  "reactions": [
+    {
+      "name": "wave",
+      "users": [
+        "UC7MTLDGB",
+        "UC7AV4J0G"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539762528000,
+  "isoDate": "2018-10-17T07:48:48.000Z"
+},{
+  "type": "message",
+  "user": "UDFSET135",
+  "text": "Hello!",
+  "client_msg_id": "9df562f6-8941-4368-9761-c34c54276338",
+  "ts": "1539762270.000100",
+  "reactions": [
+    {
+      "name": "wave",
+      "users": [
+        "UC7MTLDGB",
+        "UC7AV4J0G"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1539762270000,
+  "isoDate": "2018-10-17T07:44:30.000Z"
+},{
+  "user": "UDFBDP4F3",
+  "text": "<@UDFBDP4F3> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539762045.000200",
+  "timestamp": 1539762045000,
+  "isoDate": "2018-10-17T07:40:45.000Z"
+},{
+  "user": "UDFSET135",
+  "text": "<@UDFSET135> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539761874.000200",
+  "timestamp": 1539761874000,
+  "isoDate": "2018-10-17T07:37:54.000Z"
+},{
+  "user": "UDHA7UR1C",
+  "text": "<@UDHA7UR1C> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539760009.000200",
+  "timestamp": 1539760009000,
+  "isoDate": "2018-10-17T07:06:49.000Z"
+},{
+  "user": "UDH9X8UK0",
+  "text": "<@UDH9X8UK0> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539758686.000200",
+  "timestamp": 1539758686000,
+  "isoDate": "2018-10-17T06:44:46.000Z"
+},{
+  "user": "UDFEYGTGA",
+  "text": "<@UDFEYGTGA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539709688.000200",
+  "timestamp": 1539709688000,
+  "isoDate": "2018-10-16T17:08:08.000Z"
+},{
+  "user": "UDEB2SH4G",
+  "text": "<@UDEB2SH4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539681669.000200",
+  "timestamp": 1539681669000,
+  "isoDate": "2018-10-16T09:21:09.000Z"
+},{
+  "user": "UCKP2TMUM",
+  "text": "<@UCKP2TMUM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539659019.000200",
+  "timestamp": 1539659019000,
+  "isoDate": "2018-10-16T03:03:39.000Z"
+},{
+  "user": "UCLH5PETE",
+  "text": "<@UCLH5PETE> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539627073.000200",
+  "timestamp": 1539627073000,
+  "isoDate": "2018-10-15T18:11:13.000Z"
+},{
+  "user": "UC92J4S2G",
+  "text": "<@UC92J4S2G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539514161.000200",
+  "timestamp": 1539514161000,
+  "isoDate": "2018-10-14T10:49:21.000Z"
+},{
+  "user": "UCK468R7S",
+  "text": "<@UCK468R7S> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539373721.000200",
+  "timestamp": 1539373721000,
+  "isoDate": "2018-10-12T19:48:41.000Z"
+},{
+  "user": "UD5UWJ4SX",
+  "text": "<@UD5UWJ4SX> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539169031.000200",
+  "timestamp": 1539169031000,
+  "isoDate": "2018-10-10T10:57:11.000Z"
+},{
+  "user": "UCNNT7ZLM",
+  "text": "<@UCNNT7ZLM> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539168819.000200",
+  "timestamp": 1539168819000,
+  "isoDate": "2018-10-10T10:53:39.000Z"
+},{
+  "user": "UC7MTLDGB",
+  "text": "<@UC7MTLDGB> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538922032.000200",
+  "timestamp": 1538922032000,
+  "isoDate": "2018-10-07T14:20:32.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537986825.000200",
+  "timestamp": 1537986825000,
+  "isoDate": "2018-09-26T18:33:45.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537194093.000200",
+  "timestamp": 1537194093000,
+  "isoDate": "2018-09-17T14:21:33.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537173443.000200",
+  "timestamp": 1537173443000,
+  "isoDate": "2018-09-17T08:37:23.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "purpose": "ServiZurich's channel",
+  "text": "<@UC8ST2GMV> set the channel purpose: ServiZurich's channel",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1537032961.000300",
+  "timestamp": 1537032961000,
+  "isoDate": "2018-09-15T17:36:01.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537032961.000200",
+  "timestamp": 1537032961000,
+  "isoDate": "2018-09-15T17:36:01.000Z"
+}]

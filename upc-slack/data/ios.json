@@ -1,0 +1,127 @@
+[
+{
+  "user": "UCBSMT5D4",
+  "text": "<@UCBSMT5D4> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1540086613.000200",
+  "timestamp": 1540086613000,
+  "isoDate": "2018-10-21T01:50:13.000Z"
+},{
+  "type": "message",
+  "user": "UCA6PHNUS",
+  "text": "Hello",
+  "client_msg_id": "F94CF3C5-98A0-4138-B63D-BB8E1CC6A38B",
+  "edited": {
+    "user": "UCA6PHNUS",
+    "ts": "1539979922.000000"
+  },
+  "ts": "1539979915.000200",
+  "timestamp": 1539979915000,
+  "isoDate": "2018-10-19T20:11:55.000Z"
+},{
+  "type": "message",
+  "user": "UCBAEJR7H",
+  "text": "hey ios fam",
+  "client_msg_id": "0377e45e-756c-45a1-97dc-ae069d60e8d4",
+  "ts": "1539978857.000100",
+  "timestamp": 1539978857000,
+  "isoDate": "2018-10-19T19:54:17.000Z"
+},{
+  "user": "UCBAEJR7H",
+  "text": "<@UCBAEJR7H> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539978854.000200",
+  "timestamp": 1539978854000,
+  "isoDate": "2018-10-19T19:54:14.000Z"
+},{
+  "user": "UCBC44VRD",
+  "text": "<@UCBC44VRD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539957941.000200",
+  "timestamp": 1539957941000,
+  "isoDate": "2018-10-19T14:05:41.000Z"
+},{
+  "user": "UDADRHWG2",
+  "text": "<@UDADRHWG2> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1539105636.000200",
+  "timestamp": 1539105636000,
+  "isoDate": "2018-10-09T17:20:36.000Z"
+},{
+  "user": "UCKRZB51B",
+  "text": "<@UCKRZB51B> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538410571.000200",
+  "timestamp": 1538410571000,
+  "isoDate": "2018-10-01T16:16:11.000Z"
+},{
+  "user": "UCLLEAC9M",
+  "text": "<@UCLLEAC9M> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1538234743.000200",
+  "timestamp": 1538234743000,
+  "isoDate": "2018-09-29T15:25:43.000Z"
+},{
+  "user": "UC7AV4J0G",
+  "text": "<@UC7AV4J0G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537986998.000200",
+  "timestamp": 1537986998000,
+  "isoDate": "2018-09-26T18:36:38.000Z"
+},{
+  "user": "UC8HQBM4G",
+  "text": "<@UC8HQBM4G> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1537132602.000200",
+  "timestamp": 1537132602000,
+  "isoDate": "2018-09-16T21:16:42.000Z"
+},{
+  "user": "UC8GNSQBA",
+  "text": "<@UC8GNSQBA> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536667641.000200",
+  "timestamp": 1536667641000,
+  "isoDate": "2018-09-11T12:07:21.000Z"
+},{
+  "user": "UC8ST2GMV",
+  "text": "<@UC8ST2GMV> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536659246.000200",
+  "timestamp": 1536659246000,
+  "isoDate": "2018-09-11T09:47:26.000Z"
+},{
+  "user": "UCA6PHNUS",
+  "text": "<@UCA6PHNUS> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536651812.000200",
+  "timestamp": 1536651812000,
+  "isoDate": "2018-09-11T07:43:32.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "purpose": "Do you plan to use Ios on your Hack? Ask your doubts here!",
+  "text": "<@UC7MN3GBD> set the channel purpose: Do you plan to use Ios on your Hack? Ask your doubts here!",
+  "type": "message",
+  "subtype": "channel_purpose",
+  "ts": "1536574707.000300",
+  "timestamp": 1536574707000,
+  "isoDate": "2018-09-10T10:18:27.000Z"
+},{
+  "user": "UC7MN3GBD",
+  "text": "<@UC7MN3GBD> has joined the channel",
+  "type": "message",
+  "subtype": "channel_join",
+  "ts": "1536574707.000200",
+  "timestamp": 1536574707000,
+  "isoDate": "2018-09-10T10:18:27.000Z"
+}]
